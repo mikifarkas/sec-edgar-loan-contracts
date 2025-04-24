@@ -1,0 +1,331 @@
+<SEC-DOCUMENT>0000014930-14-000149.txt : 20141204
+<SEC-HEADER>0000014930-14-000149.hdr.sgml : 20141204
+<ACCEPTANCE-DATETIME>20141204162409
+ACCESSION NUMBER:		0000014930-14-000149
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20141202
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141204
+DATE AS OF CHANGE:		20141204
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BRUNSWICK CORP
+		CENTRAL INDEX KEY:			0000014930
+		STANDARD INDUSTRIAL CLASSIFICATION:	ENGINES & TURBINES [3510]
+		IRS NUMBER:				360848180
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0204
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-01043
+		FILM NUMBER:		141266709
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE N FIELD CT
+		CITY:			LAKE FOREST
+		STATE:			IL
+		ZIP:			60045-4811
+		BUSINESS PHONE:		8477354700
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE N FIELD CT
+		CITY:			LAKE FOREST
+		STATE:			IL
+		ZIP:			60045-4811
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BRUNSWICK BALKE COLLENDER CO
+		DATE OF NAME CHANGE:	19660919
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>bc2014schwaberoelectionand.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2014 Workiva -->
+		<title>BC 2014 Schwabero Election and TC 8-K</title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="s12EEEF5541CCE815202DD41CA0D8B071"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">UNITED STATES</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">WASHINGTON, DC 20549</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">________________________</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">FORM 8-K</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">CURRENT REPORT</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Pursuant to Section 13 or 15(d) of the</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Securities Exchange Act of 1934</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Date of report (Date of earliest event reported):&#160;&#160;December 2, 2014</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;"><img src="brunswicklogoa09.jpg" style="height:33px;width:145px;"></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">BRUNSWICK CORPORATION</font></div><div style="line-height:120%;text-align:center;"><hr></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">(Exact Name of Registrant Specified in Charter)</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div><div style="line-height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="31%"></td><td width="6%"></td><td width="28%"></td><td width="6%"></td><td width="29%"></td></tr><tr><td colspan="5" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;border-bottom:2px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Delaware</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:2px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">001-01043</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:2px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">36-0848180</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">(State or Other</font></div><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">Jurisdiction of</font></div><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">Incorporation)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">(Commission File</font></div><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">Number)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">(I.R.S. Employer</font></div><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">Identification No.)</font></div></td></tr></table></div></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="39%"></td><td width="22%"></td><td width="39%"></td></tr><tr><td colspan="3" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">1 N. Field Court</font></div><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">Lake Forest, Illinois</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">&#160;</font></div><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">60045-4811</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:2px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-align:center;">(Address of Principal Executive Offices)</font></div><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;text-align:center;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:2px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">(Zip Code)</font></div></td></tr></table></div></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Registrant&#8217;s telephone number, including area code: (847) 735-4700</font></div><div style="line-height:120%;text-align:center;"><hr></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">N/A</font></div><div style="line-height:120%;"><hr></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">(Former Name or Former Address, if Changed Since Last Report)</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">[ ]&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">[ ]&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">[ ]&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">[ ]&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div><br><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s12EEEF5541CCE815202DD41CA0D8B071"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;padding-left:132px;text-indent:-132px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Item 5.02.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-style:italic;text-decoration:underline;">Mr. Schwabero joins Brunswick Board of Directors</font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">On December 2, 2014, the Board of Directors ("Board") of Brunswick Corporation ("Brunswick") elected Mark D. Schwabero to the Board of Directors, effective December 2, 2014.</font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Mr. Schwabero will not receive any additional compensation for his service on the Board and his compensation will remain as described in Brunswick's most recent proxy statement filed with the Securities and Exchange Commission ("SEC") on March 27, 2014, as supplemented by the Current Report on Form 8-K filed with the SEC by Brunswick on May 8, 2014.  Aside from his employment with Brunswick, there are no transactions or relationships between Brunswick and Mr. Schwabero and therefore nothing that is required to be disclosed pursuant to Item 404 of Regulation S-K. </font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">The news release announcing the election of Mr. Schwabero to the Brunswick Board of Directors is included as Exhibit 99.1 to this Current Report on Form 8-K.</font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-style:italic;text-decoration:underline;">Amendment to Terms and Conditions of Employment for Executive Officers</font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">On December 2, 2014, the Board of Brunswick approved an amendment (the "Amendment") to the Terms and Conditions of Employment ("Terms and Conditions") between Brunswick and each executive officer, including each Named Executive Officer.  The Amendment removed the provision in the Terms and Conditions stating that the term of the Terms and Conditions shall automatically terminate upon the executive officer's attainment of age 65.  No other changes were made to the Terms and Conditions.</font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s12EEEF5541CCE815202DD41CA0D8B071"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Item 9.01.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Financial Statements and Exhibits.</font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(d)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Exhibits:</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-decoration:underline;">Exhibit No.</font><font style="font-family:inherit;font-size:10pt;font-weight:bold;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="font-family:inherit;font-size:10pt;">&#32;</font><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-decoration:underline;">Description of Exhibit</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:132px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:0px;"><font style="font-family:inherit;font-size:10pt;">99.1&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">News Release, dated December 4, 2014 of Brunswick Corporation, announcing the election of Mark D. Schwabero to the Board of Directors. </font></div></td></tr></table><br><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s12EEEF5541CCE815202DD41CA0D8B071"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:center;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">SIGNATURE</font></div><div style="line-height:120%;text-align:center;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div><div style="line-height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="4"></td></tr><tr><td width="46%"></td><td width="6%"></td><td width="34%"></td><td width="14%"></td></tr><tr><td colspan="4" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">BRUNSWICK CORPORATION</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:top;border-bottom:1px solid #ffffff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Dated: December 4, 2014</font></div></td><td style="vertical-align:top;border-bottom:1px solid #ffffff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">By:</font></div></td><td style="vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">/s/ CHRISTOPHER F. DEKKER</font></div></td><td style="vertical-align:top;border-bottom:1px solid #ffffff;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Christopher F. Dekker</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Vice President, General Counsel &amp; Secretary</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr></table></div></div><br><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s12EEEF5541CCE815202DD41CA0D8B071"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">EXHIBIT INDEX:</font></div><div style="line-height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="17%"></td><td width="7%"></td><td width="76%"></td></tr><tr><td colspan="3" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-decoration:underline;">Exhibit No.</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-decoration:underline;">Description of Exhibit</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">99.1</font></div><div style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">News Release, dated December 4, 2014, of Brunswick Corporation, announcing the election of Mark D. Schwabero to the Board of Directors.</font></div></td></tr></table></div></div><br><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>schwaberoappointmentnewsre.htm
+<DESCRIPTION>NEWS RELEASE
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2014 Workiva -->
+		<title>Schwabero Appointment News Release</title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="s57F0476744C0A87AA58CD41C9F37B3C1"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:left;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:97.46588693957115%;border-collapse:collapse;text-align:left;"><tr><td colspan="2"></td></tr><tr><td width="50%"></td><td width="50%"></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div><img src="brunswicklogoa09.jpg" style="height:37px;width:162px;"></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:right;"><img src="newsrelease_logoa07.jpg" style="height:20px;width:153px;"></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:Arial;font-size:8pt;">Brunswick Corporation  1 N. Field Court  Lake Forest, IL 60045</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:Arial;font-size:8pt;">Telephone 847.735.4700  Facsimile 847.735.4750</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:left;text-indent:1296px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;font-weight:bold;">BRUNSWICK NAMES SCHWABERO TO BOARD OF DIRECTORS</font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;font-weight:bold;">LAKE FOREST, Ill. Dec. 4, 2014</font><font style="font-family:Arial;font-size:12pt;">&#32;- Brunswick Corporation (NYSE: BC) today announced that it elected Mark D. Schwabero, Brunswick&#8217;s president and chief operating officer, to its board of directors. </font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">&#8220;This appointment reflects the Company&#8217;s continued focus on long-term planning,&#8221; explained Brunswick&#8217;s Chairman and Chief Executive Officer Dusty McCoy,  who is expected to retire in 2016.  &#8220;It further facilitates the Company&#8217;s long-term succession process, which has been underway for some time as our board pursues a succession plan providing both continuity and confidence that we have strong leadership in place to move forward.  </font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">&#8220;Earlier this year Mark stepped into the role of president and chief operating officer, actively managing Brunswick&#8217;s various business segments and helping to develop our strategic plans,&#8221; McCoy continued.  &#8220;Mark will contribute his valuable talent and insight to our board of directors, and work closely with his fellow directors continuing to identify new opportunities for growth.&#8221;</font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Schwabero joined Mercury Marine in 2004 as the president of the engine maker&#8217;s Outboard Business Unit, where he led the development, manufacturing and sales of the company&#8217;s global outboard marine business. He became president of Mercury Marine in 2008.  </font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Schwabero holds both Bachelor of Science and Master of Science degrees in industrial and systems engineering from The Ohio State University, where he was recognized with the University&#8217;s Distinguished Alumnus Award in 1991 and a Meritorious Service Award in 2008.  He serves on the Board of Directors of 1</font><font style="font-family:Arial;font-size:12pt;"><sup style="vertical-align:top;line-height:120%;font-size:8pt">st</sup></font><font style="font-family:Arial;font-size:12pt;">&#32;Source Corporation and is past chairman of the National Marine Manufacturers Association. </font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;font-weight:bold;">About Brunswick</font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Headquartered in Lake Forest, Ill., Brunswick Corporation endeavors to instill "Genuine Ingenuity"(TM) in all its leading consumer brands, including Mercury and Mariner outboard engines; Mercury MerCruiser sterndrives and inboard engines; MotorGuide trolling motors; </font></div><br><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s57F0476744C0A87AA58CD41C9F37B3C1"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Attwood and Whale marine parts and accessories; Land 'N' Sea, Kellogg Marine, Diversified Marine and Bell RPG parts and accessories distributors; Bayliner, Boston Whaler, Brunswick Commercial and Government Products, Crestliner, Cypress Cay, Harris FloteBote, Lowe, Lund, Meridian, Princecraft, Quicksilver, Rayglass, Sea Ray and Uttern boats, and Life Fitness and Hammer Strength fitness equipment, and Brunswick billiards tables and table tennis.  For more information, visit http://www.brunswick.com.</font></div><div style="line-height:174%;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">###</font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Release:</font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font><font style="font-family:Arial;font-size:12pt;">IMMEDIATE</font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Contact: </font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font><font style="font-family:Arial;font-size:12pt;">Bruce Byots </font></div><div style="line-height:174%;text-align:left;text-indent:96px;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Vice President - Corporate and Investor Relations</font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Phone: </font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font><font style="font-family:Arial;font-size:12pt;">847-735-4612</font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Contact: </font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font><font style="font-family:Arial;font-size:12pt;">Daniel Kubera </font></div><div style="line-height:174%;text-align:left;text-indent:96px;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Director - Media Relations and Corporate Communications</font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Phone: </font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font><font style="font-family:Arial;font-size:12pt;">847-735-4617</font></div><div style="line-height:174%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Email:</font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="font-family:Arial;font-size:12pt;text-decoration:underline;">daniel.kubera@brunswick.com</font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:Arial;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:Arial;font-size:11pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>brunswicklogoa09.jpg
+<DESCRIPTION>BRUNSWICK LOGO
+<TEXT>
+begin 644 brunswicklogoa09.jpg
+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
+)**`"BBB@#__9
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>newsrelease_logoa07.jpg
+<DESCRIPTION>NEWS RELEASE LOGO
+<TEXT>
+begin 644 newsrelease_logoa07.jpg
+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
+=YY-%%%<=WW?W_P!=E]Q[D8QLO=CLNB\O+R1__]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

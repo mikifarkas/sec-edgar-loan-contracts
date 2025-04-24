@@ -1,0 +1,423 @@
+<SEC-DOCUMENT>0000029332-14-000159.txt : 20141124
+<SEC-HEADER>0000029332-14-000159.hdr.sgml : 20141124
+<ACCEPTANCE-DATETIME>20141124163635
+ACCESSION NUMBER:		0000029332-14-000159
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20141124
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141124
+DATE AS OF CHANGE:		20141124
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DIXIE GROUP INC
+		CENTRAL INDEX KEY:			0000029332
+		STANDARD INDUSTRIAL CLASSIFICATION:	CARPETS AND RUGS [2273]
+		IRS NUMBER:				620183370
+		STATE OF INCORPORATION:			TN
+		FISCAL YEAR END:			1226
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-02585
+		FILM NUMBER:		141246729
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2208 S. HAMILTON STREET
+		CITY:			DALTON
+		STATE:			GA
+		ZIP:			307214974
+		BUSINESS PHONE:		7068765814
+
+	MAIL ADDRESS:	
+		STREET 1:		2208 S. HAMILTON STREET
+		CITY:			DALTON
+		STATE:			GA
+		ZIP:			307214974
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DIXIE YARNS INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DIXIE MERCERIZING CO
+		DATE OF NAME CHANGE:	19670524
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>f8kmaslhospitality-desso.htm
+<DESCRIPTION>8-K
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2014 Workiva -->
+		<title>f8kmaslhospitality-desso</title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="s31446a714b0e4da9ab19029e60d39bb1"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:174%;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;font-weight:bold;">UNITED STATES</font></div><div style="line-height:174%;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></div><div style="line-height:174%;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;font-weight:bold;">Washington, D.C. 20549</font></div><div style="line-height:174%;text-align:center;font-size:18pt;"><font style="font-family:Arial;font-size:18pt;font-weight:bold;">FORM 8-K</font></div><div style="line-height:174%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;font-weight:bold;">CURRENT REPORT</font></div><div style="line-height:174%;text-align:center;font-size:11pt;"><font style="font-family:Arial;font-size:11pt;font-weight:bold;">Pursuant To Section 13 OR 15(d) Of The Securities Exchange Act Of 1934</font></div><div style="line-height:174%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Date of Report (Date of earliest event reported):  November 24, 2014</font></div><div style="line-height:174%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;"><hr></div><div style="line-height:174%;text-align:center;"><img src="dixiegroupa18.jpg" style="height:100px;width:324px;"></div><div style="line-height:120%;"><hr></div><div style="line-height:174%;text-align:center;font-size:16pt;"><font style="font-family:Arial;font-size:16pt;font-weight:bold;">THE DIXIE GROUP, INC.</font></div><div style="line-height:174%;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">&#32;(Exact name of Registrant as specified in its charter)</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="37%"></td><td width="3%"></td><td width="27%"></td><td width="3%"></td><td width="30%"></td></tr><tr><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Tennessee</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">0-2585</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">62-0183370</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(State or other jurisdiction of incorporation)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(Commission File Number)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(I.R.S. Employer Identification No.)</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:87.5%;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="68%"></td><td width="4%"></td><td width="28%"></td></tr><tr><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">104 Nowlin Lane - Suite 101, Chattanooga, Tennessee</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">37421</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(Address of principal executive offices)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(zip code)</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:71.2890625%;border-collapse:collapse;text-align:left;"><tr><td colspan="1"></td></tr><tr><td width="100%"></td></tr><tr><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(423) 510-7000</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(Registrant's telephone number, including area code)</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):</font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:9pt;"><font style="font-family:Arial;font-size:9pt;">[   ]</font><font style="font-family:inherit;font-size:9pt;">&#160;&#160;</font><font style="font-family:Arial;font-size:9pt;">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div><div style="line-height:174%;text-align:left;font-size:9pt;"><font style="font-family:Arial;font-size:9pt;">[   ]</font><font style="font-family:inherit;font-size:9pt;">&#160;&#160;</font><font style="font-family:Arial;font-size:9pt;">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div><div style="line-height:174%;text-align:left;font-size:9pt;"><font style="font-family:Arial;font-size:9pt;">[   ]</font><font style="font-family:inherit;font-size:9pt;">&#160;&#160;</font><font style="font-family:Arial;font-size:9pt;">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div><div style="line-height:174%;text-align:left;font-size:9pt;"><font style="font-family:Arial;font-size:9pt;">[   ]</font><font style="font-family:inherit;font-size:9pt;">&#160;&#160;</font><font style="font-family:Arial;font-size:9pt;">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s31446a714b0e4da9ab19029e60d39bb1"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">ITEM 7.01</font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font><font style="font-family:Arial;font-size:10pt;font-weight:bold;">Regulation FD Disclosure</font></div><div style="line-height:174%;padding-bottom:8px;padding-top:16px;text-align:justify;padding-left:96px;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">The Company and Desso have agreed to terminate, in principle, both its Desso Masland Hospitality Joint Venture and Desso Distribution Agreement as a result of a change in control of Desso BV.  As described in the press release of February 10, 2014, The Desso Masland Hospitality JV was an agreement to sell products of both companies into the hospitality marketplace and the Desso Distribution Agreement was an agreement to sell Desso modular carpet tile to the U.S. market.  The termination of these agreements will provide for fulfillment of outstanding orders during the first quarter of 2015.  The Company does not anticipate a charge against earnings related to the termination of these agreements.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">ITEM 9.01</font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font><font style="font-family:Arial;font-size:10pt;font-weight:bold;">Financial Statements and Exhibits</font></div><table cellpadding="0" cellspacing="0" style="padding-top:16px;padding-bottom:8px;font-family:Times New Roman; font-size:10pt;"><tr><td style="width:96px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:174%;font-size:10pt;padding-left:48px;"><font style="font-family:Arial;font-size:10pt;">(d)</font></div></td><td style="vertical-align:top;"><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;text-decoration:underline;">Exhibit No</font><font style="font-family:Arial;font-size:10pt;">.  </font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="font-family:Arial;font-size:10pt;text-decoration:underline;">Description</font></div></td></tr></table><div style="line-height:174%;padding-bottom:8px;padding-top:16px;text-align:left;padding-left:96px;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">99.1</font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font><font style="font-family:Arial;font-size:10pt;">Press release issued by the Company on November 24, 2014.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s31446a714b0e4da9ab19029e60d39bb1"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:174%;padding-bottom:8px;padding-top:6px;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">SIGNATURES</font></div><div style="line-height:174%;padding-bottom:6px;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="44%"></td><td width="11%"></td><td width="45%"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Date: &#160;&#160;&#160;November 24, 2014</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">THE DIXIE GROUP, INC.</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:18px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:18px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:18px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-bottom:1px;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">&#160;</font><font style="font-family:Arial;font-size:10pt;">&#160;&#160;/s/ Jon A. Faulkner</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Jon A. Faulkner</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Chief Financial Officer</font></div></td></tr></table></div></div><div style="line-height:120%;padding-bottom:6px;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ex99_1pressreleasehospital.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2014 Workiva -->
+		<title>ex99_1press release Hospitality - 01</title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="s14c70ffd0f434ffab6b704e44cac4181"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">EXHIBIT 99.1</font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;"><img src="dixiegroupa18.jpg" style="height:100px;width:324px;"></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">CONTACT:</font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font><font style="font-family:Arial;font-size:10pt;">Jon Faulkner</font></div><div style="line-height:120%;text-align:left;text-indent:96px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"></font><font style="font-family:Arial;font-size:10pt;">Chief Financial Officer</font></div><div style="line-height:120%;text-align:left;text-indent:96px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"></font><font style="font-family:Arial;font-size:10pt;">706-876-5814</font></div><div style="line-height:120%;text-align:left;text-indent:96px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"></font><font style="font-family:Arial;font-size:10pt;color:#0000ff;text-decoration:underline;">jon.faulkner@dixiegroup.com</font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;font-weight:bold;">THE DIXIE GROUP REPORTS FORMATION OF MASLAND HOSPITALITY</font></div><div style="line-height:174%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:justify;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">CHATTANOOGA, Tenn. (November 24, 2014)</font><font style="font-family:Arial;font-size:10pt;">&#32;- The Dixie Group (NASDAQ:DXYN) is pleased to announce the formation of Masland Hospitality.  The new business will be led by Elizabeth Moore, Vice President of Masland Hospitality.</font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">With Dixie&#8217;s recent acquisition of the assets of Burtco, LLC, a comprehensive offering of products will be available from Masland for the Hospitality market.  The product portfolio will include large scale public space patterns utilizing CYP technology, a complete guest room offering, modular carpet and the most extensive area rug capabilities in the industry.</font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">In addition, The Dixie Group announces they are proceeding with the termination of its agreements with Desso BV</font><font style="font-family:inherit;font-size:10pt;">&#32;</font><font style="font-family:Arial;font-size:10pt;">as a result of a change in control of Desso.   </font></div><div style="line-height:174%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:justify;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">The Dixie Group (</font><font style="font-family:Arial;font-size:10pt;color:#0000ff;text-decoration:underline;">www.thedixiegroup.com</font><font style="font-family:Arial;font-size:10pt;">) is a leading marketer and manufacturer of carpet and rugs to higher-end residential and commercial customers through the Fabrica International, Masland Carpets, Dixie Home, Atlas Carpet Mills, Masland Contract, and Avant brands.</font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:8pt;"><font style="font-family:Arial;font-size:8pt;">This press release contains forward-looking statements.  Forward-looking statements are based on estimates, projections, beliefs and assumptions of management and the Company at the time of such statements and are not guarantees of performance.  Forward looking statements are subject to risk factors and uncertainties that could cause actual results to differ materially from those indicated in such forward-looking statements.  Such factors include the levels of demand for the products produced by the Company.  Other factors that could affect the Company's results include, but are not limited to, raw material and transportation costs related to petroleum prices, the cost and availability of capital, integration of acquisitions and general economic and competitive conditions related to the Company's business. Issues related to the availability and price of energy may adversely affect the Company's operations.  Additional information regarding these and other risk factors and uncertainties may be found in the Company's filings with the Securities and Exchange Commission. The Company disclaims any obligation to </font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">-END-</font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>dixiegroupa18.jpg
+<TEXT>
+begin 644 dixiegroupa18.jpg
+M_]C_X``02D9)1@`!`0$!_`'\``#_X0$V17AI9@``24DJ``@````!`&F'!``!
+M````&@`````````!`(:2`@`!`0``+````````````````0````X`````````
+M``````````"L`0``'@````4`````````IP$```$````#`````0```*D!```"
+M`````@````(```"J`0```P````$````#````JP$```0````!````!`````D`
+M```%````HP$```0```"K`0``!0`````````%````!P````8```"E`0``!0``
+M`*P!```&``````````8````&````!P```*8!```&````K`$```<`````````
+M!P````4````)````IP$```<```"L`0``"0`````````)````!````!X```"H
+M`0``"0```*P!```>``````#_VP!#``$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!
+M`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0'_VP!#
+M`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!`0$!
+M`0$!`0$!`0$!`0$!`0$!`0$!`0'_P``1"`!E`40#`2(``A$!`Q$!_\0`'P``
+M`04!`0$!`0$```````````$"`P0%!@<("0H+_\0`M1```@$#`P($`P4%!`0`
+M``%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T?`D,V)R@@D*%A<8
+M&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U=G=X
+M>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)
+MRM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0`'P$``P$!`0$!`0$!
+M`0````````$"`P0%!@<("0H+_\0`M1$``@$"!`0#!`<%!`0``0)W``$"`Q$$
+M!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O`58G+1"A8D-.$E\1<8&1HF)R@I
+M*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+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
+'`%%%%`'_V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

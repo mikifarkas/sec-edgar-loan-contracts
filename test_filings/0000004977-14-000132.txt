@@ -1,0 +1,348 @@
+<SEC-DOCUMENT>0000004977-14-000132.txt : 20141024
+<SEC-HEADER>0000004977-14-000132.hdr.sgml : 20141024
+<ACCEPTANCE-DATETIME>20141024091850
+ACCESSION NUMBER:		0000004977-14-000132
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20141024
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+FILED AS OF DATE:		20141024
+DATE AS OF CHANGE:		20141024
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AFLAC INC
+		CENTRAL INDEX KEY:			0000004977
+		STANDARD INDUSTRIAL CLASSIFICATION:	ACCIDENT & HEALTH INSURANCE [6321]
+		IRS NUMBER:				581167100
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07434
+		FILM NUMBER:		141171262
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1932 WYNNTON RD
+		CITY:			COLUMBUS
+		STATE:			GA
+		ZIP:			31999
+		BUSINESS PHONE:		7063233431
+
+	MAIL ADDRESS:	
+		STREET 1:		1932 WYNNTON ROAD
+		CITY:			COLUMBUS
+		STATE:			GA
+		ZIP:			31999
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN FAMILY CORP
+		DATE OF NAME CHANGE:	19920306
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>officerretirement8-kxoct20.htm
+<DESCRIPTION>8-K
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2014 Workiva -->
+		<title>Officer Retirement 8-K - Oct 2014</title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="s48EBBF47BBEA0F32FEB93E36C66B6CA3"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:center;font-size:14pt;"><font style="font-family:Arial;font-size:14pt;font-weight:bold;">UNITED STATES</font></div><div style="line-height:120%;text-align:center;font-size:14pt;"><font style="font-family:Arial;font-size:14pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></div><div style="line-height:120%;text-align:center;font-size:14pt;"><font style="font-family:Arial;font-size:14pt;font-weight:bold;">Washington, D.C. 20549</font></div><div style="line-height:120%;padding-top:12px;text-align:center;font-size:18pt;"><font style="font-family:Arial;font-size:18pt;font-weight:bold;">FORM 8-K</font></div><div style="line-height:120%;padding-top:12px;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;font-weight:bold;">CURRENT REPORT</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Pursuant to Section&#160;13 or 15(d) of The Securities Exchange Act of 1934</font></div><div style="line-height:120%;padding-top:12px;text-align:center;font-size:12pt;"><font style="font-family:Arial;font-size:12pt;">Date of Report (Date of earliest event reported) October 24, 2014</font></div><div style="line-height:120%;padding-top:12px;text-align:center;font-size:14pt;"><font style="font-family:Arial;font-size:14pt;"><br></font></div><div style="line-height:120%;text-align:center;"><img src="companylogoa03.jpg" style="height:104px;width:224px;"></div><div style="line-height:120%;padding-top:10px;text-align:center;font-size:18pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="20%"></td><td width="20%"></td><td width="20%"></td><td width="20%"></td><td width="20%"></td></tr><tr><td colspan="5" style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-top:10px;text-align:center;font-size:18pt;"><font style="font-family:Arial;font-size:18pt;font-weight:bold;">Aflac Incorporated</font></div></td></tr><tr><td colspan="5" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(Exact name of registrant as specified in its charter)</font></div></td></tr></table></div></div><div style="line-height:120%;padding-top:12px;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="37.407407407407405%"></td><td width="0.7407407407407408%"></td><td width="24.814814814814813%"></td><td width="0.7407407407407408%"></td><td width="36.2962962962963%"></td></tr><tr><td style="vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">Georgia</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;&#160;</font></div></td><td style="vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">001-07434</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;&#160;</font></div></td><td style="vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">58-1167100</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(State or other jurisdiction</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(Commission</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(IRS Employer</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">of incorporation)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">File Number)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Identification No.)</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">1932&#160;Wynnton&#160;Road,&#160;Columbus,&#160;Georgia</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;&#160;</font></div></td><td style="vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;&#160;</font></div></td><td style="vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">31999</font></div></td></tr><tr><td style="vertical-align:top;padding-left:20px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(Address of principal executive offices)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(Zip Code)</font></div></td></tr></table></div></div><div style="line-height:120%;padding-top:12px;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="20%"></td><td width="20%"></td><td width="20%"></td><td width="20%"></td><td width="20%"></td></tr><tr><td colspan="5" style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-top:12px;text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">706.323.3431</font></div></td></tr><tr><td colspan="5" style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(Registrant&#8217;s telephone number, including area code)</font></div></td></tr></table></div></div><div style="line-height:100%;text-align:center;font-size:6pt;"><font style="font-family:Arial;font-size:6pt;"><br></font></div><div style="line-height:100%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="20%"></td><td width="20%"></td><td width="20%"></td><td width="20%"></td><td width="20%"></td></tr><tr><td colspan="5" style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">(Former name or former address, if changed since last report)</font></div></td></tr></table></div></div><div style="line-height:120%;padding-top:12px;text-align:justify;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div><div style="line-height:120%;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="2"></td></tr><tr><td width="2.7777777777777857%"></td><td width="97.22222222222221%"></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Wingdings;font-size:10pt;">&#168;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Wingdings;font-size:10pt;">&#168;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Wingdings;font-size:10pt;">&#168;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Wingdings;font-size:10pt;">&#168;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div></td></tr></table></div></div><div style="line-height:120%;padding-top:12px;text-align:center;font-size:14pt;"><font style="font-family:Arial;font-size:14pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><a name="s0E4DC13D674BA38BED1E3E36C6AACDD6"></a><div style="line-height:120%;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;"><br></font></div><br><div></div><hr style="page-break-after:always"><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:96px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:0px;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">Item 5.02</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers</font></div></td></tr></table><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-indent:24px;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;"><br></font></div><div style="line-height:120%;text-indent:24px;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">On October 24, 2014, Aflac Incorporated announced that Mr. Tohru Tonoike, a named executive officer, will retire from his role as president and chief operating officer of Aflac Japan effective December 31, 2014, and will assume the role of vice chairman of Aflac Japan effective January 1, 2015. Mr. Hiroshi Yamauchi will assume the position of president and chief operating officer of Aflac Japan effective January 1, 2015.</font></div><div style="line-height:120%;text-align:left;text-indent:24px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">1</font></div></div><hr style="page-break-after:always"><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">SIGNATURES</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;text-indent:24px;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">&#160;&#160;&#160;&#160;&#160;Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:96.48148148148148%;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="34.5489443378119%"></td><td width="18.042226487523994%"></td><td width="47.408829174664106%"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-weight:bold;">Aflac Incorporated</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:53px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:53px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:53px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">October 24, 2014</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;font-style:italic;">&#160;&#160;/s/ June Howard</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:1px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:1px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:1px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">&#160;&#160;&#160;&#160;(June Howard)</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Senior Vice President, Financial Services</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">Chief Accounting Officer</font></div></td></tr></table></div></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:Arial;font-size:10pt;">2</font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>companylogoa03.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 companylogoa03.jpg
+M_]C_X``02D9)1@`!`0$`8`!@``#_VP!#``(!`0(!`0("`@("`@("`P4#`P,#
+M`P8$!`,%!P8'!P<&!P<("0L)"`@*"`<'"@T*"@L,#`P,!PD.#PT,#@L,#`S_
+MVP!#`0("`@,#`P8#`P8,"`<(#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,
+M#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`S_P``1"`!H`.$#`2(``A$!`Q$!_\0`
+M'P```04!`0$!`0$```````````$"`P0%!@<("0H+_\0`M1```@$#`P($`P4%
+M!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T?`D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0`'P$``P$!`0$!
+M`0$!`0````````$"`P0%!@<("0H+_\0`M1$``@$"!`0#!`<%!`0``0)W``$"
+M`Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O`58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H`#`,!``(1`Q$`/P#]_****``]
+MJ^2?V]_^"E%W^R9\1],\,Z#HNEZ[?RV?VN_^U3R1BU#-B-0$[D`GGMBOJGQ)
+MXAM/"7AZ^U74)EM['3;=[JXE;I'&BEF/X`&OPP^/WQ=O/CQ\9O$?BV]+>9K5
+MX\T:'_EC$/EB3_@*!1^%?I/AMPQ1S7&5*N,AS4J:U6NLGLM+;*[^X_#_`!QX
+M^Q/#V6TJ&6U.3$5I:-6;C".LG9IK5M)76U[;'VE\'O\`@M-K/B_XH:#I/B'P
+MKH.F:-J=[':W5W;W,S26RN=H?#<$`D9SVS7Z%*V0#G.:_GS!([D'U'!%?L[_
+M`,$]_CX/VA/V7?#^J7$WFZOI2?V5J7.6\Z(`;C_OIL;_`($?2O9\3>#\)E]&
+MEC<NI\D+\LDFWJ]4]6_-?<?->!?B7F&<XG$97G-;VE2RG!M).RTE'1+NFNNY
+M[?1117XZ?TJ#9(KXX_;R_P""HUO\`]9N?"'@B*UU?Q5;_)>WDWSVNEMC[FT?
+MZR4=QG"]\G@>_P#[77QE?X`_LY^*O%,+*+W3[,K9ANAG<A(_KAF!Q[5^(%]?
+M3ZE>SW5U+)/<W,C2RRN=S2.QRS$GJ2237ZMX:\'8?,YSQV.7-3@[*/24MW?R
+M2MIU;UT5G_/?CEXEXO(:=+*<JER5JJ<I2ZQA>RY?.33UZ)::M-=M\3?VG_B'
+M\8;R2;Q'XPU[45<Y\@W31VZ?2),(/RK#^%=A?Z_\2M!TW3+NZL[[5=0@M(YK
+M:5HY4,DBKD%3D8SFOO+_`()T_P#!-/PGXK^$^F>._'MB=<NM<4SV.FRL5MK>
+M#)"NZC!=VQG!.`,<=Z^PM!_9F^'WA>ZLY].\%^&K.?3Y1/;2Q6$:R0N!PP;&
+M017VF;^).59;.IE^"H-\MXZ)1BFM-%U2?E;L?F'#G@AQ!GE*CG&9XI1]IRR2
+MDY2FXNSNWT;6JU;[V.$_X*$7][X+_8:\:2Z=?7EG>6%E;)%<P3-',F+F%20X
+M.[)&03GG)K\B-0_:0\8Z6I,WC?Q6#Z?VO<9_]#K]:O\`@J?J']E_L!?$BX)_
+MU5G;G_R;@KXF_P""5?\`P2_TG]H_PG'\4?B?;S7^@7LK#0]%+F.*]1&*M<3D
+M$$H6!"H"`<$G/`KY[@7.L#EF05L7C8I_O6EHFV^6.BO\S[CQ7X3S7/N+<-@,
+MMFX)4$V[M))3GJ[?)=WHC[G_`.";/BNY\;?L5>!M4N[VZU"XN[61GN+B9I99
+M")G&2S$D].]>YUC^#_`VD_#?PC::'X?TZTT?2M/C\NUM+6,1Q0+G.%4=.2:9
+MI_BM1KHTRZ(2XE4M`W03`=1_O`<_2OR7,<0L5BJN)IJRE*4K=DVW^!_0^3X.
+M6!R^A@ZDN9TX1BWW<4E?YV-NB@45P'J!1110`4444`%%%%`!1110`4444`%%
+M%%`!110W0T`?(O\`P6%^/W_"M?V>X?"=G-LU/QM*8)`"-R6D9#2G_@1V+^)K
+M\P_`7@^[^(/CC1M!L8VEO-9O8;*%!U9I'"C^=>O_`/!1KX^_\-`?M2ZY=V\_
+MFZ/H3?V1IV#E2D1(=Q_OR%SGTQZ5Z-_P1S^!7_"POVAKGQ9>0[].\%V_F1%A
+M\K7<H*Q_4JF]O8[:_IS(J$>&^%GB:JM/E<W_`(I?"O\`TE?>?PCQ=C*G'''T
+M<%AW>ESJE'RA!MSDO7WI+RL>#_M5?`Z3]G+X]^(/"!>6:#395-K+(,-/"Z!D
+M<_4']*^@/^"-_P`??^%??'>]\&7LQ73O&</^CACPMW$"R_\`?2;Q]0*]!_X+
+M=?`\@^%_B':0\<Z-J)5>AYDA<XZ_\M%R?117P9X0\57O@7Q7IFMZ;*8=0TFZ
+MCO+=Q_"Z,&'U&1T[BNW`3AQ-PRH57>4X\K?:<>O_`($E+T/)S>G4X%XZ=2@K
+M0I5%**[TI_97_;K<?5'[]DXYHS7+_!;XI67QJ^$_A_Q7IYS:ZY91W(7.3&Q&
+M'0^ZL&4^XKYC_P""P_Q6\3?"CX8>#[GPSKVJ:#<7>J2Q326-PT+2J(LA25ZC
+M/-?SAE625L;F4<LOR3;<=>C5[W^X_MWB'BK#95DE3/;.I3C&,ERVO)2:2:OI
+MU3-S_@L9=/!^QE=(IXGUBR1OIN9OY@5^3,IQ&W7.*[3QS^T-X[^)FAG3/$/B
+M[Q!K6GF19?LUY>/-%O7HVTG&1GK7&XSG/.:_I[@SAVIDN7O!U9*3YG*ZOU2[
+M^A_!GB=QK0XHSA9EAZ<H14(QM)IO1M]/4_=;]FG3UTO]G?P+`O(30+(\#'6!
+M#_6NV)QZU^&VF?M;?$_1M.M[.T\?>*[>UM(UAABCU&14B10`J@`\```8]J^Q
+M_P#@CS\<O&7Q7^*?C"V\3>)];UZWM-*BDACOKMYEB8S`$@,>#CBOQOB7PWQ>
+M"P]?,ZE:,E%\UDG?5_\`!/Z9X'\;\NS7&87(J.&G&4DHJ3<;+EC?UZ'N?_!7
+M"RN-5_X)W?$FTM8WENKRWL[>)%&6=WO[90![Y-=7\-?'OA#]FSX$:/X;>YA@
+M'@ZPBTQ;6+F2X>*,*64=]S`G/3DUTG[1^MZ!I_PVN;?7HX[M)I8;BWM&;F::
+M&9)HF(_NK)&C'MQCO7PK\3?'4VOZG*#(7:1BSMGN3FOYI\1O$UY%@:6`PUI5
+M.:<FGJES1@H[/=6;MV/ZPX&\.UF^8U<SQ-U!PA!-;^[*<I?)\R7JC[\E\:7_
+M`(Y^"-SKWA6%#JVHZ1+<Z3%<$!3<&)C$KGIC?M![5\K_`+/^M?&C1/V'=!UO
+MXT1S6WQ3TB^N+J7S?*$S1I.6B#^22ARF5XZKC/->S?L*?%:P\8?!BRT031IJ
+MOAU3;S0$C<T>XE)`.ZD'!]"/I1^U[K\:>#KF$,&+1E<>I(K[O@G/(YGEF'Q$
+M5&7M5&3:W32M*/DKMIKNCY3BO)Y8#,:U*3E'V;E%1OHTVG&7F[)6?9GKW@[Q
+M1;>-?">F:Q:-NMM4MH[J,]2%=0P!]QG'UK2)QR>U?DYXO_X*Y>,OV>O#NG?"
+MOPSHMC:W^AQE)=;OCY[21N[,@BBX`(#8RQ/3I7A_Q'_:<^(/Q:N7F\1>,_$&
+MI"3_`)9/=M'`/I&F$''H*_5LG\+L?CDZTZD:=-[?:;71V6GWN_D?A/%_CKE6
+M1UOJ<*,ZU5?$E:,4^JYG=_=%KS/W+35K62Z,"W,#3KUC$BEQ^&<U8SWK^?>/
+M4YUD#I<S[QW$C9_/->Q_`#]OCXF?L]:Q;R6'B&]U?2HV'FZ5J<S7%M*G=5W$
+MM&?0H1]#7LX[P<Q,*;EA<0IR71QY;_.\OR^9\GE?TF,%5KJ&88*5.#?Q1FIV
+M]8N,?P=_(_:7-%>?_LR?M":1^T[\(-,\6Z0&A6[!CN;5FW/9SKP\3>N#R#W!
+M![UZ`2>*_'L5AZN'JRH5X\LHMII]&C^E,#CJ&,P\,7A9*5.:4HM;--73`G'6
+MH[F[BLH6EFE2&->2[L%4?B:^*/VZ/^"K</PHUJ\\)?#H6>J:[:L8;W591YEK
+M8N."D:CB20=R?E!XY.<?GM\2/C;XO^+^K/?>)_$NLZW<.Q8?:+EFCCSV1!\J
+M#V4`5^C</>%^89C26(Q,E1A+575Y-=[75EZN_D?B?&GCWDV2XB6"P4'B:D7:
+M5FHP3ZKFL[M=;)KI>Y^Z>G>+])UB0I::II]VX.-L-RDASZ<&M'-?S[0WDULX
+M>.::-@<@JY!!]:]T_9C_`&ZOBU\(_%NF:;H>L7WB6WO+B.VBT74G:ZBN&9@J
+MHA)WQDDX&T@<]#7LYCX/5Z=)U,+B5)K6TER_C=_BDO,^8R7Z2N$KUXT<PP4H
+M)NUX2Y]_[KC%_<V^R9^RH/UHJKHTUU<:3:R7L*6][)"C3PH^]8I"HW*&[@'(
+MSWQ5JOQIJSL?TY&7,DUU"BBBD,*\6_;]^/G_``SS^S!XAU>&41ZKJ$?]F::,
+M_,9Y@5##_=7<W_`:]I/0U^7?_!93X_?\)[\;]/\`!-E.7T_P=#ON0IRKWDH!
+M;/NB;1[%FKZ[@?)/[4SBE1DKPC[TO2/3YNR^9^<>*_%7]@\-U\3!VJ37)#OS
+M2TNO\*O+Y'QN[DDLS%F/))Y)/K7[(?\`!-CX##X$_LJZ%#<0F+5_$*_VQ?Y&
+M&#2@%$/^['L&#T.:_+7]E3X*ZM\>/C1INC:19V^H36BOJ4L%P2(9HX%W^6Y'
+M($C!8^/[]?3<W_!;GQKIDSVTG@3PY!);L8FB,\RF,J<%<=L8QBOVOQ"P&89M
+M3AEF6I2Y6I37,DTG=0W>S:D_DC^7/!K.,FX=K5,]SR4H\Z=.DU"4DVK.H[I;
+MI.*]),^ZOVI?@O#^T#\`_$WA24*9=2M&-JS#/EW"?/$WX.HK\.M2TZXT?4;B
+MSNHVANK25H9HVX*.I(8'Z$&OMG_A^-XR_P"A)\-_^!,U?)?QP^*"_&CXK:SX
+MI&DVFB2ZW-]IGM+5V:%92!O8%N?F;+$>I-9>'.19OE"JX;'P2IRM)-23M+9Z
+M)]5;[C;QLXMX;XCEA\=E%5RK0O&2<)1O#=.[5O==_P#P+R/N_P#X(H?'PZKX
+M5\0?#J^FS-I4G]J::&(R87($J#_=?:?^!U]C?%CX%>$/CIIUI9^+]`L-?MK&
+M0S6\=TI*Q.1@L,$<XXK\9?V3/C?-^SO^T)X9\5(SBVLKH17R+_RUM9/DE7_O
+MDY'NHK]P+"^BU.SAN;>59[>Y198I$.Y9%89#`]P0<U^>>)F5U,MSA8_#-Q55
+M<R:=FI+25FN^C^;/VCP*X@HYYPR\IQL5-X=\KC))IP>L+IZ.UG%=N5'PK_P5
+M#_9+^&_P8_9>DUGPMX/TC1-5&JVL`N;9&$@1BVY>2>#@5^<3G$;'N!7ZP_\`
+M!9'_`),XD_[#5G_-Z_)V3_5M]*_3_"_%UL1DWM,1-SESR5VVW:T>K/P?Q\P&
+M&P?$ZHX2G&G'V<':,5%7O+6R25S]>?V??V$OA!XK^!7@[4]0\`:!=7^H:-:7
+M%Q,\;EI9&A4LQ^;J22?QKL]/^#G@_P#9?EO;OP!X$M;'5-0M]D\UE"Y7RPV0
+M&Y.>1G`KIOV7/^3;?`7_`&`++_T0E=Q<RM#!(ZHTK(I(0'!<XZ?C7\Y\19EF
+M.(E7PWUF:3E);MZ7[-V_`_M#A3(LGPU#"XN.#I\ZA%W4(Q=W%:\R5_74^`?C
+MK\6[[Q)K,[W<\LMT25(?@I_LX[`>E>=>$_!^K_$/7!8Z393W]Y)\S!!\L8[L
+M['A5'<D@#%?4[>(/A_\`$J.>]\=Z#J5[XO>=C_9L&D3Q7$(#$+"A0`R@<$LQ
+M())Z"OG;]MW_`(*&>#?V6?"%_HD.FZ;'JFQC:^!]&F7>[`?*^K74?^K3/)@0
+MEVQ@XZU_).&\,LPXGS1?5*_UCGUY8)\R7>K)WA2\[N4NT)-6/ZAQWB+E_#>6
+MN>-I^P4=+R:Y6^U-*TJGDDHKO)+4]`_9W\*K\-/BQ'K46H_;;'2K66&XN84(
+MMKF=@5,4+?\`+55XRW0D<=J]%\20W_Q7O'N[B&6+3H,O&C@AIF'0X_NC]:].
+M_9K"_%S]FGP%KVHVMA;7FKZ%:7DT5I`(H(GDB5RL:_PJ">!Z5UEY\/;>UT^<
+M(`<J?K7]'<%<.8;AC`O+Z.L^9N3UMS.R?+>[LDDE=W>^[/Q+BC/Z_$&*6.J:
+M1Y4HKK;=7M97U;=E;IT/SQ\(_P#!*RU_:]_:)UWQ1K/B.?1=!T-XK*6SLX`U
+MU>2;=^0[?*B;6`Z,2?2OM+X9_P#!/OX0_"RRBCL/!6E7DT8P;G44^V3/]3)D
+M?D!7E$W[7_@+]AZ/Q?<^,-3:*[U6]C?3M*ME\V\ORL>"R)QA0<`NQ"CU[5XO
+M\1?^"XOB/5F9?"'@_2],@;[DVJ3/<RD>I1"JJ?Q:OV.A@^)\XBJ."<E1BDE[
+MW)'9>CE^-C\%SS-N!>',1+%9K&#Q,VV_=]I/\FH:?X;[GU]\9_V!OA?\9_"5
+MQIL_A72=)NGC(MK_`$VV2VN+5^S`H`&`/4-D$<5^-_CGPG<>`_&VLZ%=,LEU
+MHM]/82LGW6>*1D)'ME:]S\4?\%5/C;XF=@/%<&G1MTCLM.@CQSV8J6_,UX%K
+M^N7GBC7K[4]0F>YO]1N)+JYF?AI978L['W+$FOU7@;A_.,JC4AF-93C*W*DY
+M2L^NZ5K^1_-OBSQEPWQ!.C5R3#2I5(74I.,8\R=K:1;NT[V;Z,_03_@ACXOG
+MFT?XA:"[DP6\UI?Q+V#.LB.?RC2O:/\`@J#^U%<?L[?`![/2+EK?Q)XL=K"S
+MD0X>VBQF:8>A"D*#ZL/2OGW_`((7_P#(U_$7_KTLO_0YJY7_`(+:>([B]_:2
+M\.Z6[9MM/T!)XEST:6>4,?\`R$OY5\1B\FHXWCR5&HKP7+-KO:$7^+M?YGZK
+ME_$^)ROPCIXBA)JI+FIQ?5<U62OY-1O;L['QHSEB68LS-R2>23Z^]?H-^P__
+M`,$F-)\0>"M.\6?$U;JXFU.);FTT2.0PI#&<%6F8?,S,,':"``><GI\;_LL>
+M#;;X@_M)^!-%OE$EEJ.N6L5PAZ/'Y@++^(&/QK]S50(H4``*,``8`KV_%'BG
+M%Y?&E@<%)P<TVY+>RT23Z7=[M:Z(^6\`^`,NSF=?-<TIJI&DU&,7K'F:NW)=
+M;*UD]-7=:(\+U_\`X)J?!+7M*>U/@33;/>NT36DDL,R>X8-U^M<%^SK_`,$K
+M/#_[/G[2`\90:Q-K&D:?"SZ597<8,]G<MQO9QPX5<[3@')R>0#7UE17XO3XJ
+MS>%&IA_K$G&:::;<M'O:][7\K']05_#_`(=JXFCC/J=.-2E)2BXQ4=5M?ELG
+M9ZI.^NH8HHHKY\^P"BBB@#E_C-\3[+X+_"K7_%6HMBTT*RDNF'>1@/D0>[,5
+M4>YK\+O&7BV^\?>+M4UW4I6FU#5[J2[N')SEW8L?P&<#V%?H1_P6M^/O]D^$
+M]!^'-C/^^U9QJFI*IZ0H<1(?9GRV#_<!K\^O`?@N^^(_C;2=`TV,RW^LW<=G
+M`H&?F=@,_0=?H*_HSPJR>.#RN>95M'5UN^D(_P";N_2Q_%'T@N)9YGGM+(\+
+M[T:%DTNM2=M/.RY4NS;1^B__``16^`Q\,_#'6_'][#BZ\23?8;!B""+:%OG8
+M>S2Y'_;.F?M%?\$=A\7OC-KOB?0_%=IH-EKD_P!K:R>P,OE2L,R$$,.&;+?5
+MC7V#\)OAU9?"/X::%X8TY0MIH=E%:1X_BVJ`6/N3DGW-=#7Y1BN-\PCF]?,\
+M%4Y74T6B?NKX59IK9+\>Y_0^7^%N33X;PF19I2]HJ*4G9N+]HT^=WBT[-MZ7
+MM:W9'YT?\.+]6_Z*'8?^"M__`(NN+_:$_P""0^O?`WX/:WXL@\5VNO?V'"+B
+M6SCL7B=X@P#L#N/*@[NG0&OU+JKK6C6_B'1[O3[R)9[._A>WGB8?+)&ZE64^
+MQ!(KOPWB?GL*T)5JJE%-77+%75]5=+2Z/(QW@-PE4PU2GAL.X3<6HRYYOEE;
+M1V<FG9ZV>Y_/Y]X>N:_73_@E/\?3\9_V8++3KR?S=8\'/_9=QN;+O$!F%_IL
+M^7/JAK\P/VB?A#<_`7XW>)?"5R&/]C7KQP.1CS83\T3_`(H5/UR*]D_X)4?'
+M[_A2_P"U#9Z;>3^5H_C.,:7<;FPBS9W0.???E<^DAK]AX\RR&<9$ZV']YQ2J
+M0?=6N_OBW\['\T>$F?U>&N+8X7%^[&;=&HGT=[)OTFE=]%<^R/\`@LC_`,F<
+M2?\`8:L_YO7Y.R?ZMOI7ZP_\%C_^3.)/^PW9_P`WK\GI/]6WTKB\)O\`D1_]
+MQ)?E$]7Z1'_)5K_KU#\Y'[I?LN?\FV^`O^P!9?\`HA*[RN#_`&7/^3;?`7_8
+M`LO_`$0E=Y7\Z9E_O=7_`!2_-G]JY)_R+L/_`((?^DH\"_X*?->0_L(_$633
+M[NYT^^-G`B7-O*T,J`W4(8!EP1E20<'H2*_`WXF^"QI5BUO&#)<W1V`]6=VX
+M'/<DFOWX_P""FA_XP8^(/M:V_P#Z5PU^.G[+WP@?]IO]M_X?^$@AFLI-5CO+
+M['1;6W_?2G/;Y4P/<BOVGPWJTL/D&)Q53[,Y-^BA%G\V^,5/$XKC+`X"BW:5
+M..GFZDT?NI\`/"G_``@GP+\&:+Y?E-I6B6=JR8QM9($4C'U!KJKP;K60'NI%
+M2#UZYIER,P,.N17X9.;G-S>[=S^HJ=-0@H+9*WW'XK?\%I]I_;4T2V4+FVT1
+M2<#!&Z9V_&O:/^";?_!-?3OVA_!T7C;QK-=+X=,IAL=/MW\M[\H<.[OU6,-E
+M0!@G!Y'&?`O^"NVL+XA_X*/ZU;(V4TC3;&T(SG#["[?3[PK[>_X)<?MO>!])
+M^`^F^!/$FL6/AW6M!>2.`WCB&&^B9RZE7/R[QN(*DY.,CKQ^^XFOF>%X1HSR
+MQ/G:CS.*O)1:;;77>ROT3^9_)OU;(LQ\1Z]+/7'V<>;E4G:,IQ<4D[Z/2[2>
+MC:MKL_JCX=?LQ_#WX36\4?A[P;X?TTQ8VRI9J\_U,C`N3]37XR?M*J$_:.^(
+M*@``>)=1``&`!]JDK]9/C1_P46^$_P`%=,DEN?%%IK=^`3'8:0ZW<\AQP"5.
+MU![L17Y!?%+Q>GQ#^)WB/Q!'`]K'KNJ7.HI"S!FB$LK2!"1U(#8S6?A5A,Q5
+M;$8O'1G::24I7U=W>U]7ZG-](/,<E>%P>797.GS4Y2;C3Y;1322ORZ+TW/MC
+M_@A=SXK^(O\`UZ67_H<U<]_P6Z\(3:=\>_"VN,"8-4T3[(I[!H9G8C\IA6%_
+MP2&_:$\._!+XO^(=/\3ZI;:/9^)+&.."ZN7"0B>-R0K,>%RK-@GC(QWKZY_X
+M*(_`NV_;`_9A;4_"=Q::UJGAV5M0TV2TD65;L*"LT*L."2H.!_>0#K6.9XN6
+M6<<+&8A.-*HHQYFM-8*.^VDEKY(Z<BR^GGOA5++,')2KTG*?(FG*\:CE:V^L
+M'IW;1^6/PA\?2?"SXK>&_$L:EWT'4H+_`&@XW".0,1^(!%?NUX4\4V/C;PQI
+M^LZ9<)=:?JENEU;S*<B1'4,#^1_"OP$=3&Y5@RLIP5(P0?0U],?L6_\`!2WQ
+M)^RMI:>']1LCXF\)*Y>*U>8QW%AGJ(7.1M)YV$8SG&,FOH_$;A"OG%&GB,$D
+MZM.ZM>W-%]F]+I[7[OR/B_!3Q*PG#>)K8+-&XT*UGS)-\DEI=I:V:=G9-II:
+M6N?KGFC-?&%Y_P`%N?AQ'IHD@\->,IKPC/DO%;QQYQTW^83^.VO,?#?_``69
+M\0>+/V@_#HNM)L-!\"278MKZWSY]RT<GRB5Y2!@H2&PH`(!K\;P_A[GU6,Y.
+M@XJ*;]YI7LKV2U;;Z=/,_IC&>,_"-"=.G'%J;FTO=3=KNUY-I));O6]MDS]'
+M<T56O=5M=,TN:^N;F&"S@C,TD[N%C1`,ERQX``YSTKRO3/VW/`6HW5JWVK6+
+M;2;Z=;:UUJYTN>'3+B1FVJ!.RA0"<`,V%.1@G-?*X?`XG$)RH4W)+>R;_I^1
+M^A8W-\%A)1CBJL8.6UVE?SUZ:K7;5=SUVBD_&BN0[[GYC?M6_L'?';]HG]H#
+MQ+XK?PY:?9K^Y,=@C:K!^ZM4^6)<;N#M`)'JQKN?^"<O_!.+QE\'OC\/%OC[
+M2[2RM]%M'.FHEU'<&6Y?Y=Q"DX"H6.3W(K]`-OO2@8[FOOL1XC9G5R]Y9&$(
+M4W'D]U.ZC:UE>3W6FQ^18/P5R*AG*SV=2K4K*;J>]*+BY7O=I03T>JUZ(!GO
+M1117P)^O!1110!\2?\%/_P!@;Q1^T-X^T+Q3X'T^UO=0-JUCJD<EPD!*H=T4
+MF6(!X++QZ"OF*S_X)6?';3+V&ZM_#UG%<6TBRQ2+JL`:-U.58?-U!`-?KN%Y
+MS2U^@Y3XDYKE^#A@J<82C!67,FW;MI);;+38_'>(O`_A_.,RJ9K7E4A4J--J
+M$HI7LE=)Q;N[7>N]V?,/[9_P7^(/[2O[$VC:%%HT`\:O/97&H6;7D82-XP1*
+M1(3M(SSQZU\/O_P2>^.#*1_PC5CDC_H*0?\`Q5?K[C`^E)WQZ5CD?B%F&54)
+M8;"PARN3EJGHW;1>\M%T_,Z>*O!S)N(,7'&YA5J^TC",+J45=1ZOW'J[ZVLO
+M)'*_`?PO>^"/@IX3T;4HUAU#2M)MK6YC5PX21(E5@".#@@\UUE`SBBOB:]:5
+M6I*K+>3;^_4_4L+AXX>C"A#:*25^R5CR/]N_X8:]\:/V2_&?A?PS:I>Z[JUM
+M%':0O*L2R,MQ$YRS<#Y5)YKY=_X)`?\`!.CQC^S!\3O&/C+XBZ3;6&L75I'I
+MND+'=1W.V%FWSOE"<$E8QSV!]:^_=ON:4#%>QAN(L50RVIE5.WLZCNWK?IHG
+M>UO=73N?/8SA'`8K.J6>UKNK2CRQ5URVO)W:M>Z<GU[!TXI&7<"/6EHKPCZ@
+M_-'_`(*)_P#!)7QEXV_:$UWXI>!IQXD3Q$Z7&H:1(ZQW5I(L:Q_N2<+(A"@[
+M<A@2>HKY?N?V5?B9:ZB;27P#XM$ZMM*?V9*1GZ@8_6OW.QSFC!]:_3<C\4<P
+MR_"QPLZ<:BBK)NZ=ELG;1V]+GX;Q=X$93G>/EF$:\Z4IN\DK23;U;5]5=^;7
+M9(_)C]GO_@DQ\2OBMJMO+XDM/^$)T/=F66\PUVZ^B0@YR1W8@?RKTW]LG_@D
+M5=^'M+TK4OA/:3:G%8V8@U'3Y[@&[N9%)_TA"V%9FS@H,8P,#M7Z-8]Z",]S
+M6%;Q0SJIC(XI.*C'["7NN_?6[?G?3I8Z,+X"\+TLMJ8"492G.W[QM<Z:VY=.
+M5+NK:];Z6_#_`/X8R^++7HMO^%>>*S.6V;?L+8SZ9Z?K7ZZ?L<?"R?X,?LQ>
+M"_#EW;FTO[#34:\A(`,<\A,DH..X=FKTS!]317%Q5QWBL\H0P]:G&$8OFTOJ
+M[6Z^K/3\/_"7+^%,75QF&K2J2G'E]Y)65T]++JTCXX_;5_X)1:5\;]8O/%'@
+M>YM?#WB6Y)ENK.52+'4'/);CF*0GJ0"I)Y`Y-?#'C[]@OXO?#>\EBU#P+K=P
+MD3;?/L8Q=PO[AH\Y'X5^UQ&:,>YKKR+Q,S7+J2P\[58+1<U[I=KK];GF\6^!
+M?#V=8B6,I\U"I+5\EN5ONXM6OWLU?=ZGX<:!^R)\4O%%UY%EX`\5RRGC#:>\
+M0_-P!7T5^SS_`,$:?&/C:]M[SQ_>P>%M*R&>TMW6XOYE_N\?)'Z9))'H:_3T
+M@^II.AKT,Q\6\UKP=/#PC2OU5V_E?3\#R,D^CKP]A*RK8VI.O;[+M&+]5'5_
+M^!(\H_:*^#-YK7[)&M>"_#"374\&E1VEG!/.6>\CA*'R&<]2Z(4R?[W-?'/B
+M&P7QC\0->O-*L;C6-4\7_P!IZ7%X/:QEM[W3/M-O%';O.2H010NC$ACM0!67
+MDU^CH.[\*01*'+X&YNI`Y-?*9/Q/4P-.4'#GNV[WMK)*]]'=>ZGHTUKKJ?H7
+M$W`='-JT*L:GLU%1C;EOI!R<>75)-*4E[RE%IJ\=#Y:_X8Q^(O\`T/(_[_S4
+M5]3X^M%9_P"M>/\`[O\`X"O\C7_B'N4]I_\`@R7^84445\T?<A1110`4444`
+M%%%%``>U?.7[./Q[UK7?VA_CI8>)=:W^'?!5[']C65%2.P@".SDL`"0`N<G/
+M2OHT]17Q%\,_^2F?M@?]<9O_`$FFKZ?A_"TZ^'Q4:B3?+"SMJKU8)M=G9M'P
+M?&.85\)C,OG1DTG.I=7:4N6A4DE)+=72?JKGT/K7[</PD\.3Z?%>?$'PW$VI
+MQ+/;_P"E!@T;?==B.%!_VL5W^N^/M$\,>$9-?U'5]/LM$BB$[7\UPJ6XC(&&
+MWDXP<C'KFOE?]D_X">#9?^":,-W-X<TBZO-;\/7=]>W$]LLDT\NV3#;R-PV[
+M5Q@\;17D^A@?$CX/?LC^#=?>2X\*Z_=W,FH12,?+NFMVQ!"_JIW$8KUWPO@:
+MM6=.A.:5*I*$V^5MJ,9S;BE:SM!I)MZM._0^=7'F;8?#TZV+I4W*O1A4IJ+D
+ME&4ZE.FHS;O=7JQ;:2LDU9Z,^T_A?^UE\./C1KTFE>%_&6B:SJ2`M]FAFQ*Z
+MCJ55L%@/49JY\6OVE/`GP*E@C\7>*M'T*>Z&Z&&XG'G2+G&X(,L1GOC%<-^T
+M!\"_A19ZUX'US7I;#P7J.B:U`-&NM/$=E)<SD_+;?*OSJV,%?KR,FO-OV)?!
+M&D?%OX^_&WQ5XLTZSU;Q38^)Y-)A2^C6<V%G&/W017!"A@.H'\/UKSZ659;4
+MHSQT745*$;N+MS.3DHI*5N5K6[?+IM;5,]FOQ!G5'%4\IFJ+KU)-*2<N514'
+M-N5._,I:6BN>TE[UTDT?2GA?XS>%?&W@2;Q/I'B'2M2T"VC>6:_MYUDAB5!E
+MRQ'W2!R0>16*/VJ?ATVJ:98KXQT.2\UBR;4;2)+@,\ML(S(9<#HNQ6;)QD"O
+MEO6/#]C\*?VKOCWX9\,11V7A[5/A[-J]]I]OA;>VO/+P'"CA2P8G`_O^F,;G
+M[(/[/OA?PC_P3UE\5II=I=>*-:\+7UU/JD\8DN5!@E58T<\JBH%4`8Z>]==;
+MAS`4:'UB=2;4W34$DK_O(N2YNW+;6V^EK7T\W#<:YOB<5]3I4J:E355U6W)K
+M]S-0?(E9OF35K_"[W;M9^WZO^W5\(=#-A]I^(7AM/[3C$UN1<APR$D!CC.T9
+M!Y;'2O2;;Q3IMYX<76(M0LY-)>#[2MXLRF`Q8SOWYQMQSG.*^9/^":_P`\":
+MQ^Q5H%S<>']&U6Y\20S/JTMS;I/)*_F.A0L1E0J@``$8ZU\W:AK%WIG[)FN^
+M!K6_N_\`A!X_BVOAXW"RD"#36(D:+=_<WX[XYK=<*X'$XJKA,).<72J*$G))
+MIIMIN*5K-6T3;YNZV.:7B!FF"P%#,,QI4Y1Q%)U(*#DG&2C&2C)RO>+4M9)+
+MEVL]S[N\(_MH?"KQYXOCT'2/'GAV^U:9_+B@CN@//;^ZA/#GV4FNH\5_&7PK
+MX&UQM,UGQ!I>EWZ6+ZFT-U.L16V1MK2G/`4$XSZUX=^W3^SMX"T']BSQ+]DT
+M'1M'/ABP6ZTFZMH$AFM)HRHC*R*`Q+'Y>2<[O6O(;[P)!^TO^U-\`+?QG')?
+MPZA\/4U+4K>4D+J#H-X60=U9]KD=\5S8/(<MQ=+ZW3G.-*/M.9/E<KPBIIJU
+MD[K2SV?5W.S,^+\[R^O_`&=6ITIUY>R<7%RC"U2HZ;4KW:<7JFK\RO[J:L?6
+M=U^U;\.;'X;VOB^X\8Z)!X;OI'AMKZ2<)'<NA*LJ`\L00>`#2^!/VK/AU\3-
+M!U74]#\8Z)J-EH<)N=0=)P#9Q`$F1U."J\'G&*\._:$L?!>@?M+^#/#_`(;^
+M'5QXW\:Z#I$LVG:%%-#9:)IEO(Y#3S!U*JY)Z[3T7OBN6^#_`(>UE_\`@I1&
+MGBOPAX5\*3ZOX*G\W2=)F6YAEA\[;NG(4*[G!'W<8455/AW`U,)*NG.+Y)5%
+M>4+N*;LN7XG>*^.RC?9-;Q7XTS6CF$,(U3FO:1HR<856E*45>7M/@5I/^'>4
+MN7>2;T]3_9,_;IT?X^_$'Q;H%WKGA\WEMK<]MX>@M9")=3L43<)@"?FX!.1@
+M<5WWCG]L/X8?#3Q<=!UWQSX?TW5T8+);27(+0$]`Y&0A_P!XBO`?V4M!L_"-
+MI^T7K6CZ)IO]M>'O$>IC2G2U026VV`E8XSC*KGL..:X#]D3PKXVUK]FBS-A\
+M$?!/CC3_`!0LUQ?ZQJ/B"%;S57=VWM)N0NC`Y&,Y&,]:]#&<.Y=4Q%:M&\*<
+M/9QY>>G'WI1YF[SLK)+;5MMZI(\?+>-,ZI8+#8::52M4]M/F5.K42C"IR).-
+M.\KMOXKI1BEHV]?O+6O'6C>'/"DFNZAJVGV>BQ0BX:^EN%2W$9&0^\G;@\8.
+M><U\W?M4?MX^&;_]G7Q%?_#'Q[I-SXETV:TVBVD5YEC:YC1R$<?,I5B,@'K7
+M@4/@S6[3X;?!#X;>.I].D\*WGCJYMYH[/5X[ZV>W0*\-J\L9(.UWD7:>1@=.
+M*]F_X*H?!#P7I7[+\>L6^BZ1I.JZ'J5G'ITMK;)`[;Y55H?E`RI7+8/]S-+`
+M</Y?A,RPU+$2=1U*CY6E%PY8SY5S)WOS-:I-<J[E9QQCG.8Y)CL1@Z<:"HT5
+MSJ3DJBE.GSOD:MR\B:Y6TW)JWN[GUKI,K3Z7;2.2SR1*S'U)`JQ570_^0+9_
+M]<$_]!%6J_.9_$S]JIN\%Z!1114EA1110`4444`%%%%`!1110`'/%>1Z!^R%
+MH_A_7_BAJ$>IZD\GQ31DOE8+MM`T;(?+X]&)YHHKJP^-KT%)4964K7\[-27W
+M-)G!C<LPN+E"6)@I.#;C>^CE%Q?WQ;7S.@^&WP#T_P"&?[/MI\.[:]N[C3K3
+M39=,6YD"^<R.'!8XXS\Y_*N*U+]@KPEKG[-WA_X;WEWJTEOX683:7JL4@AO[
+M.8,S"56`P#\Q!&.1[X-%%=%/.<;";JPJ-2<N=M?S:Z_B_+4XJW#>65:4:-6B
+MG&,/9).[2A[ON_\`DL7?=-+4S_`G["+67Q'T7Q+XX^('BOXBW/AB3S='MM3*
+MQVUE)T$I1<[W''S'N`>U6_BM^P[;>+/BE>>-_"'C#Q'\._%&JQB+4KC2BKP:
+M@H``,D3<%^!\V>P.,\T45TOB+,/:^V]IK;EM:/+RWO;EMRVOK:V^NYQ?ZEY-
+M]7>&]CHY*=^:?/S)64O:<W/=+1/FT6FVA>^%7[$OA[X7^!O%^G'5-9UK7?'<
+M$D&M:_J$HEOKG>C+P3PJC<2!Z]2>,:5[\*;7X&_L::OX2L+FXO+/0?#%[;13
+M3X\R0""0Y;'&>>U%%3#-<7B<1&->;DI3C)W[K1>EEHDM$NA=3(,OP.#G+"4E
+M!PISBK7^&7O->;<M6W=MZMGS?^QA^QAJ/C7]E/PKJWAWXG>-?!5MXFLGDU;3
+M["19(+B3S)$,D>[F)F4*"5ZXKZ-TO]BOP%IW[.4GPN.FS3^&IP6F:27-U+.6
+MW&X,G_/7<`00,#`&,<445ZW$F>X]YE7I^U:4*LFK63O&346VDFVELVW;H?/\
+M%<)Y1')<+7]@G*I0A&5VY*TX1<DE)M14GK)123>]SSR+_@FX-<AT[2/%GQ/\
+M=^+?!FDRI);:!=RJD+!/N)*Z_-(HZ8(''3%>KZC^SCI-]^T!X?\`B"ES<VU[
+MX<TB31K:QB55MC$Y)SC&1C.`!Q117D8C/\?7=ZE3I)6225I*TM$DKRZNUWW/
+MH<'PAE&%5J-'[497;E)W@[PUDV[1?PQORKHCF?CY^QLGQ<^)^G^.-!\7Z_X$
+M\76-H;![_30L@N8-Q(1T;`."3W]..!6'X%_X)^P^`OC?H7Q`A\?>,-0\162O
+M'J\^H2+<'6XV'$39QY2#`PJYZ#ZT455/B+,(45AXU/=Y7':/PO[+;5VM=$W9
+M/569%;@S)JN*>,G1]]R4[\TDN=6M)14N52T5VDFUH[ILZ7P'^Q[9?#7XYZYX
+MRTCQ1XD@LO$=U+?:CH!F5M.NIY$*L[+C)Y.1GI]*XV[_`."=K:#?ZI;^"OB9
+MXU\#^%]:F>>[T+3Y%>W0O]\0LW,0/MFBBB'$68PGSJI=M).ZBTU'X;IIIM=&
+M]5W"MP7DU2FJ3HV2E*2M*46G/XK-232E;6*:B^J.NU[]A'P!K?[/%C\-ELKJ
+MSTC2I!<V-W!+MO;:Z!)^TB3',A).3C!!QCIC@/$O_!,YOBAH\5GXY^*OCOQ;
+M'I[*VF+<,D<=DP8'>5&?,<J-NYNQ-%%7A^)LSH7=.L[MN5W9M-[M-IM7ZV:O
+MUN9XW@;(L595L,K**A9.44XQ^%.,6E)1^SS)\O2Q]065L+.UBA!)$2!`3U(`
+2Q4M%%>&W<^L2LK(****0'__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

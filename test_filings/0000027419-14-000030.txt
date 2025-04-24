@@ -1,0 +1,223 @@
+<SEC-DOCUMENT>0000027419-14-000030.txt : 20141104
+<SEC-HEADER>0000027419-14-000030.hdr.sgml : 20141104
+<ACCEPTANCE-DATETIME>20141104151227
+ACCESSION NUMBER:		0000027419-14-000030
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20141104
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141104
+DATE AS OF CHANGE:		20141104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TARGET CORP
+		CENTRAL INDEX KEY:			0000027419
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-VARIETY STORES [5331]
+		IRS NUMBER:				410215170
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-06049
+		FILM NUMBER:		141192849
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+		BUSINESS PHONE:		6123046073
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON HUDSON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON CORP
+		DATE OF NAME CHANGE:	19690728
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>tgt_formx8-kx11x04x2014.htm
+<DESCRIPTION>8-K
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2014 Workiva -->
+		<title>TGT_Form_8-K_11_04_2014</title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="s26815EDE4B0B8A4F56337B9A2CAA5E8B"></a><div></div><br><div style="line-height:120%;padding-bottom:8px;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="1"></td></tr><tr><td width="100%"></td></tr><tr><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:2px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:center;font-size:14pt;"><font style="font-family:inherit;font-size:14pt;font-weight:bold;">UNITED STATES</font></div><div style="line-height:120%;text-align:center;font-size:14pt;"><font style="font-family:inherit;font-size:14pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Washington, D.C. 20549</font></div><div style="line-height:120%;padding-bottom:8px;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:29.914529914529915%;border-collapse:collapse;text-align:left;"><tr><td colspan="1"></td></tr><tr><td width="100%"></td></tr><tr><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:center;font-size:14pt;"><font style="font-family:inherit;font-size:14pt;font-weight:bold;">FORM&#160;8-K</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div><div style="line-height:120%;text-align:center;font-size:14pt;"><font style="font-family:inherit;font-size:14pt;font-weight:bold;">CURRENT REPORT</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Date of Report (Date of earliest event reported) </font><font style="font-family:inherit;font-size:10pt;font-weight:bold;">November 4, 2014</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:16pt;"><font style="font-family:inherit;font-size:16pt;font-weight:bold;">Target Corporation</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(Exact name of registrant as specified in its charter)</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:99.78632478632478%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="32%"></td><td width="1%"></td><td width="33%"></td><td width="1%"></td><td width="33%"></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Minnesota</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:1pt;"><font style="font-family:inherit;font-size:1pt;font-weight:bold;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">1-6049</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:1pt;"><font style="font-family:inherit;font-size:1pt;font-weight:bold;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">41-0215170</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">(State or other jurisdiction of incorporation)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:1pt;"><font style="font-family:inherit;font-size:1pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">(Commission File Number)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">(I.R.S. Employer Identification No.)</font></div></td></tr><tr><td colspan="5" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">1000 Nicollet Mall, Minneapolis, Minnesota 55403</font></div></td></tr><tr><td colspan="5" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">(Address of principal executive offices, including zip code)</font></div></td></tr><tr><td colspan="5" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">(612) 304-6073</font></div></td></tr><tr><td colspan="5" style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;">(Registrant&#8217;s telephone number, including area code)</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;padding-left:24px;text-indent:-24px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div><div style="line-height:120%;text-align:left;padding-left:24px;text-indent:-24px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;padding-left:24px;text-indent:-24px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="1"></td></tr><tr><td width="100%"></td></tr><tr><td style="vertical-align:bottom;border-bottom:2px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s26815EDE4B0B8A4F56337B9A2CAA5E8B"></a><div></div><br><div style="line-height:120%;padding-bottom:16px;text-align:justify;padding-left:96px;text-indent:-96px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Item 7.01.  </font><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-decoration:underline;">Regulation FD Disclosure</font><font style="font-family:inherit;font-size:10pt;font-weight:bold;">.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">On November 4, 2014, Target Corporation (&#8220;Target&#8221;) issued a News Release announcing that it has been notified of an unsolicited &#8220;mini-tender&#8221; offer by TRC Capital Corporation (&#8220;TRC Capital&#8221;) to purchase up to 2,000,000 shares of Target&#8217;s outstanding common stock. Target does not endorse TRC Capital&#8217;s mini-tender offer and recommends that shareholders reject the offer. The News Release is attached hereto as Exhibit 99.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Item 9.01.  </font><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-decoration:underline;">Financial Statements and Exhibits.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">(d)&#160;&#160;&#160;&#160;</font><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-decoration:underline;">Exhibits</font></div><div style="line-height:120%;text-align:left;padding-left:24px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:96px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:48px;"><font style="font-family:inherit;font-size:10pt;">(99)</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Target Corporation&#8217;s News Release dated November 4, 2014.</font><font style="font-family:inherit;font-size:10pt;">&#160;&#160;&#160;&#160;</font></div></td></tr></table><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s26815EDE4B0B8A4F56337B9A2CAA5E8B"></a><div></div><br><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">SIGNATURES</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="2"></td></tr><tr><td width="50%"></td><td width="50%"></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:1pt;"><font style="font-family:inherit;font-size:1pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">TARGET CORPORATION</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:18px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:18px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Date: November 4, 2014</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;text-decoration:underline;">/s/  Timothy R. Baer</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:1pt;"><font style="font-family:inherit;font-size:1pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Timothy R. Baer</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:1pt;"><font style="font-family:inherit;font-size:1pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Executive Vice President, Chief Legal Officer </font></div><div style="font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">and Corporate Secretary</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:justify;padding-left:240px;text-indent:-240px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;padding-left:240px;text-indent:-240px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;padding-left:240px;text-indent:-240px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;padding-left:240px;text-indent:-240px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;padding-left:240px;text-indent:-240px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;padding-left:240px;text-indent:-240px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;padding-bottom:16px;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s69fe9e247fa64f5c9b8d5cdf5021b4aa"></a><div></div><br><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;padding-left:240px;text-indent:-240px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">EXHIBIT INDEX</font></div><div style="line-height:120%;text-align:left;padding-left:240px;text-indent:-240px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="11%"></td><td width="66%"></td><td width="23%"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-decoration:underline;">Exhibit</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-decoration:underline;">Description</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Method</font></div><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;text-decoration:underline;">of Filing</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(99)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Target Corporation&#8217;s News Release dated November 4, 2014.</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Furnished Electronically</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:left;padding-left:240px;text-indent:-228px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>exhibit99mini-tender_newsx.htm
+<DESCRIPTION>EXHIBIT
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2014 Workiva -->
+		<title>Exhibit 99 Mini-Tender_News_Release_TRC_Capital</title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="sDE68F3DFC940FFBA289C7BB996F3D93F"></a><div></div><br><div style="line-height:120%;text-align:right;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">Exhibit 99</font></div><div style="line-height:120%;text-align:center;"><img src="target1655267v3exhibi_image1.gif" style="height:70px;width:58px;"></div><div style="line-height:120%;text-align:left;font-size:4pt;"><font style="font-family:inherit;font-size:4pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">FOR IMMEDIATE RELEASE  </font></div><div style="line-height:120%;text-align:left;padding-left:144px;text-indent:48px;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;font-style:italic;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="2"></td></tr><tr><td width="13%"></td><td width="87%"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">Contacts:</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">John Hulbert, Investors, (612) 761-6627</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Eric Hausman, Media, (612) 761-2054</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Target Media Hotline, (612) 696-3400</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:14pt;"><font style="font-family:inherit;font-size:14pt;font-weight:bold;">Target Recommends Shareholders </font><font style="font-family:inherit;font-size:10pt;">&#32;<br></font><font style="font-family:inherit;font-size:14pt;font-weight:bold;">Reject TRC Capital&#8217;s &#8220;Mini-Tender&#8221; Offer</font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:180%;padding-bottom:13px;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">MINNEAPOLIS (Nov. 4, 2014) &#8211; </font><font style="font-family:inherit;font-size:12pt;">Target</font><font style="font-family:inherit;font-size:12pt;font-weight:bold;">&#32;</font><font style="font-family:inherit;font-size:12pt;">Corporation (NYSE: TGT) received notice of an unsolicited mini-tender offer by TRC Capital Corporation (&#8220;TRC Capital&#8221;) to purchase up to 2,000,000 shares of Target&#8217;s common stock, at a price of $59.00 per share in cash, without interest. The offering price is approximately 4.5 percent below the closing price per share of Target common stock on Oct. 30, 2014, the last trading day before the mini-tender offer was commenced. The offer is for approximately 0.32 percent of the outstanding shares of Target&#8217;s common stock.</font></div><div style="line-height:180%;padding-bottom:13px;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Target does not endorse this unsolicited mini-tender offer and recommends that shareholders reject the offer because the offer price is below the current market price for Target shares and is subject to numerous conditions, including TRC Capital obtaining sufficient financing necessary to consummate the offer. Target also recommends that any shareholders who have tendered shares to TRC Capital withdraw those shares by providing the written notice described in the offering documentation before the expiration of the offer, which is currently scheduled for 12:01 a.m., Eastern Time, on Dec. 2, 2014.</font></div><div style="line-height:180%;padding-bottom:13px;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Target is not associated with TRC Capital, its mini-tender offer or the mini-tender offer documentation.</font></div><div style="line-height:180%;padding-bottom:13px;text-align:center;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;">&#8211; more &#8211;</font></div><div style="line-height:180%;padding-bottom:13px;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><br><div></div><hr style="page-break-after:always"><a name="sDE68F3DFC940FFBA289C7BB996F3D93F"></a><div></div><br><div style="line-height:180%;padding-bottom:13px;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-style:italic;">Target Recommends Shareholders Reject TRC Capital&#8217;s &#8220;Mini-Tender&#8221; Offer &#8211; Page 2 of 2</font></div><div style="line-height:180%;padding-bottom:13px;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">TRC Capital has made similar unsolicited mini-tender offers for shares of other public companies. Mini-tender offers are designed to seek less than five percent of a company&#8217;s outstanding shares, thereby avoiding many investor protections, including the disclosure and procedural requirements applicable to most bids under United States securities laws. The U.S. Securities and Exchange Commission (SEC) has cautioned investors about mini-tender offers, noting that &#8220;some bidders make mini-tender offers at below-market prices, hoping that they will catch investors off guard if the investors do not compare the offer price to the current market price.&#8221; The SEC also published investor tips regarding these offers on its website at: http://www.sec.gov/investor/pubs/minitend.htm.</font></div><div style="line-height:180%;padding-bottom:13px;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Target encourages brokers and dealers, as well as other market participants, to review the SEC&#8217;s letter regarding broker-dealer mini-tender offer dissemination and disclosures on the SEC&#8217;s website at: http://www.sec.gov/divisions/marketreg/minitenders/sia072401.htm.</font></div><div style="line-height:180%;padding-bottom:13px;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">Target urges investors to obtain current market quotations for their shares, consult with their broker or financial advisor and exercise caution with respect to TRC Capital&#8217;s offer.</font></div><div style="line-height:180%;padding-bottom:13px;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Target requests that a copy of this news release be included with all distributions of materials relating to TRC Capital&#8217;s mini-tender offer related to Target Corporation shares of common stock.</font></div><div style="line-height:180%;padding-bottom:13px;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">About Target</font></div><div style="line-height:180%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Minneapolis-based Target Corporation (NYSE: TGT) serves guests at 1,934 stores &#8212; 1,801 in the United States and 133 in Canada &#8212; and at Target.com. Since 1946, Target has given 5 percent of its profit to communities, that giving equals more than $4 million a week. For more information, visit Target.com/Pressroom. For a behind-the-scenes look at Target, visit ABullseyeView.com or follow @TargetNews on Twitter.</font></div><div style="line-height:180%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"># # #</font></div><br><div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>target1655267v3exhibi_image1.gif
+<TEXT>
+begin 644 target1655267v3exhibi_image1.gif
+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
++3'$)PCW7`A$0`#L_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,766 @@
+<SEC-DOCUMENT>0000016160-14-000030.txt : 20141003
+<SEC-HEADER>0000016160-14-000030.hdr.sgml : 20141003
+<ACCEPTANCE-DATETIME>20141003164826
+ACCESSION NUMBER:		0000016160-14-000030
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20141003
+ITEM INFORMATION:		Submission of Matters to a Vote of Security Holders
+FILED AS OF DATE:		20141003
+DATE AS OF CHANGE:		20141003
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CAL-MAINE FOODS INC
+		CENTRAL INDEX KEY:			0000016160
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE PRODUCTION - LIVESTOCK & ANIMAL SPECIALTIES [0200]
+		IRS NUMBER:				640500378
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04892
+		FILM NUMBER:		141140319
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3320 WOODROW WILSON DRIVE
+		CITY:			JACKSON
+		STATE:			MS
+		ZIP:			39209
+		BUSINESS PHONE:		6019486813
+
+	MAIL ADDRESS:	
+		STREET 1:		3320 WOODROW WILSON DR
+		CITY:			JACKSON
+		STATE:			MS
+		ZIP:			39209
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CAL MAINE FOODS INC
+		DATE OF NAME CHANGE:	19961018
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHICKEN CHEF SYSTEMS INC
+		DATE OF NAME CHANGE:	19710315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>calm-20141003x8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<!--HTML document created with Rivet Software Powered by Crossfire 5.10.188.0-->
+<!--Created on: 10/3/2014 3:44:52 PM-->
+<html>
+	<head>
+		<title>
+			8K-Voting Results
+		</title>
+	</head>
+	<body><div style="margin-left:28pt;margin-right:28pt;">
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<a name="_GoBack"></a><font style="display: inline;font-size:11pt;">UNITED STATES</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">SECURITIES AND EXCHANGE COMMISSION</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">WASHINGTON, DC 20549</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">CURRENT REPORT</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">FORM 8-K</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Pursuant to Section 13 or 15(d) of the Securities Exchange Act</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Date of Report (Date of Earliest Event Reported): </font><font style="display: inline;font-size:11pt;">October </font><font style="display: inline;font-size:11pt;">3</font><font style="display: inline;font-size:11pt;">, 201</font><font style="display: inline;font-size:11pt;">4</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Cal-Maine Foods, Inc.</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(Exact name of registrant as specified in its charter)</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width: 100.00%;CellSpacing:0;background-color: #FFFFFF;margin-left:0pt;">
+			<tr style="CellSpacing:0;">
+				<td valign="middle" style="width:33.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="middle" style="width:33.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="middle" style="width:33.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Delaware</font></p>
+				</td>
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">000-04892</font></p>
+				</td>
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">64-0500378</font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(State or other jurisdiction</font></p>
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">of incorporation)</font></p>
+				</td>
+				<td valign="top" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(Commission File Number)</font></p>
+				</td>
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(IRS Employer</font></p>
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Identification No.)</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">3320 Woodrow Wilson Avenue</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Jackson, MS 39207</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(Address of principal executive offices (zip code))</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">601-948-6813</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(Registrant&#x2019;s telephone number, including area code)</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&#x2610;</font><font style="display: inline;font-size:11pt;"> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font><br /><font style="display: inline;font-size:11pt;"></font><font style="display: inline;">&#x2610;</font><font style="display: inline;font-size:11pt;">&nbsp;</font><font style="display: inline;font-size:11pt;">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font><br /><font style="display: inline;font-size:11pt;"></font><font style="display: inline;">&#x2610;</font><font style="display: inline;font-size:11pt;">&nbsp;</font><font style="display: inline;font-size:11pt;">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font><br /><font style="display: inline;font-size:11pt;"></font><font style="display: inline;">&#x2610;</font><font style="display: inline;font-size:11pt;"> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font>
+		</p>
+		<p><font size="1"> </font></p><hr size="3" style="color:#999999" width="100%" align="center"></hr><p style="page-break-after:always">&nbsp;</p>
+		<p style="margin:0pt;font-family:Times New Roman;;font-size: 12pt"><font style="display: inline;font-size:11pt;"></font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Item 5.07 </font><font style="display: inline;font-weight:bold;font-size:11pt;"> &nbsp; &nbsp;</font><font style="display: inline;font-weight:bold;font-size:11pt;">Submission of Matters to a Vote of Security Holders. </font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">The Company&#x2019;s Annual Meeting of Shareholders was held on </font><font style="display: inline;font-size:11pt;">October </font><font style="display: inline;font-size:11pt;">3</font><font style="display: inline;font-size:11pt;">, 201</font><font style="display: inline;font-size:11pt;">4</font><font style="display: inline;font-size:11pt;">.</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 9pt">
+			<font style="display: inline;font-size:9pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Election of Directors.&nbsp; </font><font style="display: inline;font-size:11pt;">The following persons were nominated and elected to serve as members of the Board of </font><font style="display: inline;font-size:11pt;">Directors until our next </font><font style="display: inline;font-size:11pt;">annual meeting of shareholders and until their successors are elected and qualified. </font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 9pt">
+			<font style="display: inline;font-size:9pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Nominees of the Board of Directors of the Company</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 9pt">
+			<font style="display: inline;font-size:9pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width: 100.00%;margin-left:0pt;">
+			<tr>
+				<td valign="bottom" style="width:29.10%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="bottom" style="width:21.76%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:26.84%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:22.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:29.10%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Names</font></p>
+				</td>
+				<td valign="bottom" style="width:21.76%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Votes For</font></p>
+				</td>
+				<td valign="bottom" style="width:26.84%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Votes Withheld</font></p>
+				</td>
+				<td valign="bottom" style="width:22.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Non-Votes</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:29.10%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Adolphus B. Baker</font></p>
+				</td>
+				<td valign="bottom" style="width:21.76%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">36,103,291</font></p>
+				</td>
+				<td valign="bottom" style="width:26.84%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">6,275,206</font></p>
+				</td>
+				<td valign="bottom" style="width:22.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">2,326,530</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:29.10%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Timothy A. Dawson</font></p>
+				</td>
+				<td valign="bottom" style="width:21.76%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">37,251,033</font></p>
+				</td>
+				<td valign="bottom" style="width:26.84%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">5,127,464</font></p>
+				</td>
+				<td valign="bottom" style="width:22.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">2,326,530</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:29.10%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Sherman Miller</font></p>
+				</td>
+				<td valign="bottom" style="width:21.76%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">38,872,089</font></p>
+				</td>
+				<td valign="bottom" style="width:26.84%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">3,506,408</font></p>
+				</td>
+				<td valign="bottom" style="width:22.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">2,326,530</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:29.10%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Letitia C. Hughes</font></p>
+				</td>
+				<td valign="bottom" style="width:21.76%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">41,976,180</font></p>
+				</td>
+				<td valign="bottom" style="width:26.84%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">402,317</font></p>
+				</td>
+				<td valign="bottom" style="width:22.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">2,326,530</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:29.10%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">James E. Poole</font></p>
+				</td>
+				<td valign="bottom" style="width:21.76%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">42,006,179</font></p>
+				</td>
+				<td valign="bottom" style="width:26.84%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">372,318</font></p>
+				</td>
+				<td valign="bottom" style="width:22.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">2,326,530</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:29.10%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Steve W. Sanders</font></p>
+				</td>
+				<td valign="bottom" style="width:21.76%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">42,006,437</font></p>
+				</td>
+				<td valign="bottom" style="width:26.84%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">372,060</font></p>
+				</td>
+				<td valign="bottom" style="width:22.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">2,326,530</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Amendment of Amended and Restated Certificate of Incorporation to increase the number of authorized shares of common stock and Class A common stock</font><font style="display: inline;font-weight:bold;font-size:11pt;">.</font><font style="display: inline;font-size:11pt;"> The Company&#x2019;s stockholders approved the proposal by the following vote:</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-size:10pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width: 100.00%;margin-left:0pt;">
+			<tr>
+				<td valign="bottom" style="width:22.70%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="bottom" style="width:27.30%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:23.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:26.68%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:22.70%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Votes For</font></p>
+				</td>
+				<td valign="bottom" style="width:27.30%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Votes Against</font></p>
+				</td>
+				<td valign="bottom" style="width:23.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Abstentions</font></p>
+				</td>
+				<td valign="bottom" style="width:26.68%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Non-Votes</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:22.70%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">43,813,932</font></p>
+				</td>
+				<td valign="bottom" style="width:27.30%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">772,066</font></p>
+				</td>
+				<td valign="bottom" style="width:23.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">119,429</font></p>
+				</td>
+				<td valign="bottom" style="width:26.68%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">-</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Advisory vote on executive compensation</font><font style="display: inline;font-weight:bold;font-size:11pt;">.</font><font style="display: inline;font-size:11pt;"> The Company&#x2019;s stockholders approved the proposal by the following vote:</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-size:10pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width: 100.00%;margin-left:0pt;">
+			<tr>
+				<td valign="bottom" style="width:22.70%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="bottom" style="width:27.30%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:23.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:26.68%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:22.70%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Votes For</font></p>
+				</td>
+				<td valign="bottom" style="width:27.30%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Votes Against</font></p>
+				</td>
+				<td valign="bottom" style="width:23.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Abstentions</font></p>
+				</td>
+				<td valign="bottom" style="width:26.68%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Non-Votes</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:22.70%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">41,841,312</font></p>
+				</td>
+				<td valign="bottom" style="width:27.30%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">434,548</font></p>
+				</td>
+				<td valign="bottom" style="width:23.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">103,037</font></p>
+				</td>
+				<td valign="bottom" style="width:26.68%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">2,326,530</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Advisory vote on setting the frequency of</font><font style="display: inline;font-weight:bold;font-size:11pt;">&nbsp;</font><font style="display: inline;font-weight:bold;font-size:11pt;">advisory votes on executive compensation</font><font style="display: inline;font-weight:bold;font-size:11pt;">.</font><font style="display: inline;font-size:11pt;"> The Company&#x2019;s stockholders approved the proposal </font><font style="display: inline;font-size:11pt;">for a vote on frequency of advisory votes on executive compensation every </font><font style="display: inline;font-size:11pt;">three y</font><font style="display: inline;font-size:11pt;">ears </font><font style="display: inline;font-size:11pt;">by the following vote:</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-size:10pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width: 100.00%;margin-left:0pt;">
+			<tr>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Votes For</font></p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Votes For</font></p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Votes For</font></p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">(1 Year)</font></p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">(2 Years)</font></p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">(3 Years)</font></p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Abstentions</font></p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Non-Votes</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">7,288,958</font></p>
+				</td>
+				<td valign="top" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">41,660</font></p>
+				</td>
+				<td valign="top" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">35,014,453</font></p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">33,826</font></p>
+				</td>
+				<td valign="bottom" style="width:20.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">2,326,530</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Ratification of the Appointment of </font><font style="display: inline;font-weight:bold;font-size:11pt;">Frost</font><font style="display: inline;font-weight:bold;font-size:11pt;">,</font><font style="display: inline;font-weight:bold;font-size:11pt;">&nbsp;</font><font style="display: inline;font-weight:bold;font-size:11pt;">PLLC</font><font style="display: inline;font-weight:bold;font-size:11pt;"> as the Independent Registered Public Accountants of the Company for Fiscal </font><font style="display: inline;font-weight:bold;font-size:11pt;">201</font><font style="display: inline;font-weight:bold;font-size:11pt;">5</font><font style="display: inline;font-weight:bold;font-size:11pt;">.</font><font style="display: inline;font-size:11pt;"> The Company&#x2019;s stockholders approved the proposal by the following vote:</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 9pt">
+			<font style="display: inline;font-size:9pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width: 100.00%;margin-left:0pt;">
+			<tr>
+				<td valign="bottom" style="width:22.70%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="bottom" style="width:27.30%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:23.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:26.68%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #auto;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:22.70%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Votes For</font></p>
+				</td>
+				<td valign="bottom" style="width:27.30%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Votes Against</font></p>
+				</td>
+				<td valign="bottom" style="width:23.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Abstentions</font></p>
+				</td>
+				<td valign="bottom" style="width:26.68%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #CCEEFF;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;text-decoration:underline;">Non-Votes</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:22.70%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">44,605,147</font></p>
+				</td>
+				<td valign="bottom" style="width:27.30%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">72,782</font></p>
+				</td>
+				<td valign="bottom" style="width:23.32%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">27,498</font></p>
+				</td>
+				<td valign="bottom" style="width:26.68%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">-</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">No other matters were voted upon at the annual meeting.</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 9pt">
+			<font style="display: inline;font-weight:bold;font-size:9pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">SIGNATURES</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 9pt">
+			<font style="display: inline;font-size:9pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;Pursuant to the requirements </font><font style="display: inline;font-size:11pt;">of</font><font style="display: inline;font-size:11pt;">&nbsp;</font><font style="display: inline;font-size:11pt;">the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width: 100.00%;CellSpacing:0;background-color: #FFFFFF;margin-left:0pt;">
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:149.70pt;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:32.80pt;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:357.50pt;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt 0pt 6pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:149.70pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td colspan="2" valign="top" style="width:390.30pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-weight:bold;font-size:11pt;">CAL-MAINE FOODS, INC. </font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:149.70pt;background-color: #FFFFFF;height:9.00pt;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:32.80pt;background-color: #FFFFFF;height:9.00pt;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:357.50pt;background-color: #FFFFFF;height:9.00pt;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:149.70pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Date: </font><font style="display: inline;font-size:11pt;">October 3, 2014</font></p>
+				</td>
+				<td valign="top" style="width:32.80pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">By:&nbsp;&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:357.50pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">/s/&nbsp;</font><font style="display: inline;font-size:11pt;">Timothy A. Dawson</font><font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td colspan="2" valign="top" style="width:182.50pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:357.50pt;background-color: #FFFFFF;padding:0pt;"><hr style="border-bottom-style:solid;width:60%;height:.75pt; ;color:#000000" align="left"></hr>
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Timothy A. Dawson</font></p>
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Director, Vice President, and Chief Financial Officer</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+
+			<font style="display: inline;">2</font>
+
+		</p>
+
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr>
+	</div></body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

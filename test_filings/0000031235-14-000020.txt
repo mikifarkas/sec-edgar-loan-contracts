@@ -1,0 +1,615 @@
+<SEC-DOCUMENT>0000031235-14-000020.txt : 20141216
+<SEC-HEADER>0000031235-14-000020.hdr.sgml : 20141216
+<ACCEPTANCE-DATETIME>20141216140311
+ACCESSION NUMBER:		0000031235-14-000020
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20141216
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141216
+DATE AS OF CHANGE:		20141216
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EASTMAN KODAK CO
+		CENTRAL INDEX KEY:			0000031235
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHOTOGRAPHIC EQUIPMENT & SUPPLIES [3861]
+		IRS NUMBER:				160417150
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-00087
+		FILM NUMBER:		141289188
+
+	BUSINESS ADDRESS:	
+		STREET 1:		343 STATE ST
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14650-0910
+		BUSINESS PHONE:		7167244000
+
+	MAIL ADDRESS:	
+		STREET 1:		343 STATE STREET
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14650
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>companyofficersannouncement.htm
+<DESCRIPTION>EASTMAN KODAK COMPANY RE DEPARTURE AND NEW APPOINTMENT OF GENERAL COUNSEL
+<TEXT>
+<html>
+<head>
+    <title>companyofficersannouncement.htm</title>
+    <!--Licensed to: kodak-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<div style="MARGIN-LEFT: 9pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">UNITED STATES</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">WASHINGTON, D.C. 20549</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">_______________</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">FORM 8-K</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">CURRENT REPORT</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">PURSUANT TO SECTION 13 OR 15(d) OF THE</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">SECURITIES EXCHANGE ACT OF 1934</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Date of report (Date of earliest event reported): December 16, 2014</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Eastman Kodak Company</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(Exact name of registrant as specified in its charter)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td valign="middle" width="24%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 18pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">New Jersey</font></div>
+</div>
+</td>
+<td valign="middle" width="24%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 18pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">1-87</font></div>
+</div>
+</td>
+<td valign="middle" width="22%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 18pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">16-0417150</font></div>
+</div>
+</td>
+</tr><tr>
+<td valign="middle" width="24%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(State or Other Jurisdiction</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">of Incorporation)</font></div>
+</td>
+<td valign="middle" width="24%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(Commission</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">File Number)</font></div>
+</td>
+<td valign="middle" width="22%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(IRS Employer</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Identification No.)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td valign="bottom" width="48%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 343 State Street,</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Rochester, New York</font></div>
+</div>
+</td>
+<td valign="bottom" width="13%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">14650</font></div>
+</div>
+</td>
+</tr><tr>
+<td valign="middle" width="48%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (Address of Principal Executive Offices)</font></div>
+</td>
+<td valign="middle" width="13%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(Zip Code)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Registrant&#8217;s telephone number, including area code:&#160;&#160;<font style="FONT-WEIGHT: bold; DISPLAY: inline">(585) 724-4000</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="TEXT-DECORATION: underline; DISPLAY: inline">Not Applicable</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(Former Name or Former Address, if Changed Since Last Report)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td align="left" valign="top" width="78%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">[&#160;&#160;]&#160;&#160;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td align="left" valign="top" width="78%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">[&#160;&#160;]&#160;&#160;Soliciting material pursuant to Rule 14a-12 under the Securities Act (17 CFR 240.14a-12)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td align="left" valign="top" width="78%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">[&#160;&#160;]&#160;&#160;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td align="left" valign="top" width="78%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">[&#160;&#160;]&#160;&#160;Pre-commencement communications pursuant to Rule 13e-4(c)under the Exchange Act (17 CFR 240.13e-4(c))</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;<font style="FONT-WEIGHT: bold; DISPLAY: inline">Section&#160;5 &#8212; Corporate Governance and Management</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td style="WIDTH: 72pt">
+<div style="MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Item 5.02</font></div>
+</td>
+<td>
+<div align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Departure of Directors or Certain Officers; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Patrick M. Sheller, Senior Vice President, General Counsel, Secretary &amp; Chief Administrative Officer, has notified the company of his intention to resign to pursue a new opportunity.&#160;&#160;Sharon E. Underberg has been appointed to succeed Mr. Sheller as General Counsel, effective January 6, 2015.&#160;&#160;Ms. Underberg has also been elected by the Board of Directors as Senior Vice President and Secretary, effective January 6, 2015.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">A copy of the press release announcing these senior management changes is attached hereto as Exhibit 99.1 and is incorporated herein by reference.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Section&#160;9 &#8212; Financial Statements and Exhibits</font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td align="left" colspan="2" valign="top" width="52%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0.8pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">Item 9.01<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>Financial Statements and Exhibits</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0.8pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0.8pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-WEIGHT: bold; DISPLAY: inline"><font style="FONT-WEIGHT: bold"><font style="FONT-WEIGHT: normal">(d)</font><font id="TAB2" style="FONT-WEIGHT: bold; LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="FONT-WEIGHT: bold; LETTER-SPACING: 9pt">&#160;&#160;</font><font style="FONT-WEIGHT: normal">Exhibits</font></font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0.8pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0.8pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-WEIGHT: bold; DISPLAY: inline"><font style="TEXT-DECORATION: underline">Exhibit No.</font>&#160;&#160;&#160;<font style="TEXT-DECORATION: underline">Exhibit</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0.8pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0.8pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-WEIGHT: bold; DISPLAY: inline"><font style="FONT-WEIGHT: normal">99.1&#160;</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; <font style="FONT-WEIGHT: normal">Press release issued by Eastman Kodak Company dated December 16, 2014.</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0.8pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0.8pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+</td>
+<td align="left" valign="top" width="48%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0.8pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160;</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div><br>
+&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">2</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">SIGNATURE</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 351pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline"><font id="TAB1" style="MARGIN-LEFT: 234pt"></font>EASTMAN KODAK COMPANY</font></div>
+
+<div style="MARGIN-LEFT: 351pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 351pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 396pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font id="TAB1" style="MARGIN-LEFT: 184.5pt"></font>&#160; By:&#160;&#160;<font style="TEXT-DECORATION: underline; DISPLAY: inline">/s/ Jeffrey Clarke&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 1pt; TEXT-DECORATION: underline; DISPLAY: inline">.</font></font></div>
+
+<div style="MARGIN-LEFT: 351pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font id="TAB1" style="MARGIN-LEFT: 234pt"></font>Name:&#160;Jeffrey Clarke</font></div>
+
+<div style="MARGIN-LEFT: 351pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font id="TAB1" style="MARGIN-LEFT: 234pt"></font>Title:&#160;&#160;&#160;Chief Executive Officer</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">Date:&#160;&#160;December 16, 2014</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">3</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">EXHIBIT INDEX</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td align="left" valign="bottom" width="11%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline"><font style="DISPLAY: inline">Exhibit No.</font></font></div>
+</td>
+<td align="left" valign="bottom" width="69%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline"><font style="DISPLAY: inline">Exhibit</font></font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="11%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="69%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="11%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">99.1</font></div>
+</td>
+<td align="left" valign="top" width="69%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Eastman Kodak Company press release dated December 16, 2014.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">4</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>pressreleasedtd12162014.htm
+<DESCRIPTION>EASTMAN KODAK COMPANY RE PRESS RELEASE
+<TEXT>
+<html>
+<head>
+    <title>pressreleasedtd12162014.htm</title>
+    <!--Licensed to: kodak-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">
+<div style="TEXT-ALIGN: right"><br>
+<font style="FONT-WEIGHT: bold">(Exhibit) &#160;99.1</font><br>
+</div>
+
+<div style="TEXT-ALIGN: left"><font style="FONT-WEIGHT: bold">KODAK</font></div>
+
+<div style="TEXT-ALIGN: left">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline"><font style="TEXT-DECORATION: underline; DISPLAY: inline">Media Contact</font>:</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Christopher Veronda, Kodak, +1 585-724-2622, <font style="TEXT-DECORATION: underline; DISPLAY: inline">christopher.veronda@kodak.com</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Kodak Names Sharon Underberg General Counsel</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">ROCHESTER, N.Y., Dec. 16, 2014 &#8211; Sharon E. Underberg has been promoted to the role of General Counsel and elected Secretary and Senior Vice President, Eastman Kodak Company. With this appointment, effective January 6, 2015, Underberg joins Kodak&#8217;s Executive Leadership Team and will be reporting to Chief Executive Officer Jeff Clarke.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Underberg, 53, will be responsible for leading the company&#8217;s global legal function and for providing legal guidance to senior leadership.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#8220;Sharon is a dynamic people leader, and the combination of her excellent track record on complex commercial transactions, her skills and her strengths as a team builder make her a perfect fit to help drive Kodak&#8217;s comeback,&#8221; said Clarke.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Currently Kodak&#8217;s Deputy General Counsel, Underberg has been an attorney with Kodak for 25 years. Prior to joining Kodak, she spent several years as an associate in the New York office of international law firm Fulbright &amp; Jaworski (currently Norton Rose Fulbright). For much of her tenure with Kodak, Underberg has specialized in global commercial transactions, particularly acquisitions, divestitures, joint ventures and corporate financings.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">She has led the legal team on numerous deals, including the completion of the acquisitions of the Kodak Polychrome Graphics (KPG) and NexPress joint ventures, the divestiture of the Health Imaging business and the spinoff of the Personalized Imaging and Document Imaging businesses. She has advised on every major financing transaction the company has completed in the past 15 years.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">For the past seven years, Underberg has also managed the legal team providing advice to Kodak&#8217;s business units and recently assumed responsibility for labor and employment law advice and worldwide regional legal operations. She was an instrumental part of the team that led the company through its Chapter 11 restructuring, providing advice on a wide range of contractual, litigation, financing and divestiture activities.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Underberg also spent two years in the Kodak Corporate Secretary&#8217;s Office working with the Board of Directors on matters related to corporate governance, executive compensation and SEC reporting and disclosure matters.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Underberg received a B.A. degree in political science from Brandeis University and a J.D. degree from the University of Pennsylvania School of Law. She succeeds Patrick M. Sheller, currently General Counsel, Secretary, Chief Administrative Officer and Senior Vice President, who has decided to leave the company to pursue a new opportunity.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 18pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#8220;Pat has been a strategic and committed leader for many years, including an exceptionally critical time for Kodak, most recently helping guide the company through complex restructuring and reorganization,&#8221; said Clarke. &#8220;We thank Pat for his many contributions and his long commitment to Kodak.&#8221;</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160;</font></div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">About Kodak</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Kodak is a technology company focused on imaging.&#160;&#160;We provide -- directly and through partnerships with other innovative companies -- hardware, software, consumables and services to customers in graphic arts, commercial print, publishing, packaging, electronic displays, entertainment and commercial films, and consumer products markets. With our world-class R&amp;D capabilities, innovative solutions portfolio and highly trusted brand, Kodak is helping customers around the globe to sustainably grow their own businesses and enjoy their lives. For additional information on Kodak, visit us at <font style="TEXT-DECORATION: underline; DISPLAY: inline">kodak.com</font>, follow us on Twitter <font style="TEXT-DECORATION: underline; DISPLAY: inline">@Kodak</font>, or like us on Facebook at <font style="TEXT-DECORATION: underline; DISPLAY: inline">KodakNow</font>.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">2014</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">2</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<br>
+</div>
+
+<div style="TEXT-ALIGN: left; DISPLAY: block; TEXT-INDENT: 0pt">
+<div style="TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div style="TEXT-ALIGN: left"><br>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

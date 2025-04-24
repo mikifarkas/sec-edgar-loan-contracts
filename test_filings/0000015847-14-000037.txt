@@ -1,0 +1,916 @@
+<SEC-DOCUMENT>0000015847-14-000037.txt : 20141215
+<SEC-HEADER>0000015847-14-000037.hdr.sgml : 20141215
+<ACCEPTANCE-DATETIME>20141215162645
+ACCESSION NUMBER:		0000015847-14-000037
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20141215
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141215
+DATE AS OF CHANGE:		20141215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BUTLER NATIONAL CORP
+		CENTRAL INDEX KEY:			0000015847
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		IRS NUMBER:				410834293
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-01678
+		FILM NUMBER:		141286788
+
+	BUSINESS ADDRESS:	
+		STREET 1:		19920 W 161ST ST
+		CITY:			OLATHE
+		STATE:			KS
+		ZIP:			66062
+		BUSINESS PHONE:		8167809595
+
+	MAIL ADDRESS:	
+		STREET 1:		19920 W 161ST ST
+		CITY:			OLATHE
+		STATE:			KS
+		ZIP:			66062
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATIONAL CONNECTOR CORP
+		DATE OF NAME CHANGE:	19701009
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>k121514.htm
+<DESCRIPTION>8K PRESS RELEASE FY15 Q2 FINANCIAL RESULTS AND CONFERENCE CALL
+<TEXT>
+<html>
+<head>
+<title>&#160;</title>
+<!--Licensed to: Butler National Corporation
+    Document created using Disclosure Solutions PROFILE 3.0.2.0
+    Copyright 1995 - 2014 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt;">
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">UNITED STATES<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>SECURITIES AND EXCHANGE COMMISSION<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> WASHINGTON, DC 20549</div>
+
+<div><br>
+</div>
+
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">FORM 8<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#8209;</font>K</div>
+
+<div><br>
+</div>
+
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">CURRENT REPORT<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934</div>
+
+<div><br>
+</div>
+
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> Date of report (Date of earliest event reported) December 15, 2014</div>
+
+<div><br>
+</div>
+
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;"><u>BUTLER NATIONAL CORPORATION</u></font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> (Exact Name of Registrant as Specified in its Charter)</div>
+
+<div><br>
+</div>
+
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;"><u>Kansas</u></font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> (State or Other Jurisdiction of Incorporation)</div>
+
+<table cellpadding="0" cellspacing="0" id="d7c5c5c0f4a547b8b22d08451b868a5b" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 2.53%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+</td>
+<td style="width: 47.86%; vertical-align: top; border-bottom: #000000 2px solid;">
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">0-1678</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>(Commission File Number)<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+</td>
+<td style="width: 47%; vertical-align: top; border-bottom: #000000 2px solid;">
+<div style="text-align: center; margin-left: 15.3pt; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">41-0834293</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>(IRS Employer Identification No.)<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+</td>
+<td style="width: 2.61%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="width: 2.53%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+</td>
+<td style="width: 47.86%; vertical-align: top; border-bottom: #000000 2px solid;">
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">19920 W. 161</font><sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">st</sup><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;"> Street, Olathe, Kansas</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>(Address of Principal Executive Offices)<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+</td>
+<td style="width: 47%; vertical-align: top; border-bottom: #000000 2px solid;">
+<div style="text-align: center; margin-left: 15.3pt; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">66062</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>(Zip Code)<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+</td>
+<td style="width: 2.61%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;"><u>913-780-9595</u></font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> (Registrant's Telephone Number, Including Area Code)</div>
+
+<div><br>
+</div>
+
+<div style="text-align: center;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;"><u>Not Applicable</u></font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>(Former Name or Former Address, if Changed Since Last Report)<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font></font><br>
+</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-style: italic;">see </font>General Instruction A.2. below):</div>
+
+<div><br>
+</div>
+
+<table cellpadding="0" cellspacing="0" id="1bb3d4b617b44bde9645506624aca8db" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 100%; vertical-align: top;">
+<div style="text-align: left; text-indent: -18pt; margin-left: 18pt; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: Wingdings;">o</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;&#160;&#160;&#160;</font>Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</div>
+
+<div style="text-align: left; text-indent: -18pt; margin-left: 18pt; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: Wingdings;">o</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;&#160;&#160;&#160;</font>Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</div>
+
+<div style="text-align: left; text-indent: -17.1pt; margin-left: 17.1pt; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: Wingdings;">o</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;&#160;&#160;&#160;</font>Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</div>
+
+<div style="text-align: left; text-indent: -17.55pt; margin-left: 17.55pt; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: Wingdings;">o</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;&#160;&#160;&#160;</font>Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</div>
+</td>
+</tr>
+</table>
+
+<div style="text-align: left;"><a name="DSPFPAGEBREAKAREA"><!--Anchor--></a><br>
+</div>
+
+<div><br>
+</div>
+
+<table cellpadding="0" cellspacing="0" id="7077ad7cf8a74219ac561c8bd25be08e" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 13.06%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Item 2.02</div>
+</td>
+<td style="width: 86.94%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Results of Operations and Financial Condition<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="width: 13.06%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Item&#160; 2.02</div>
+</td>
+<td style="width: 86.94%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">On December 15, 2014 Butler National Corporation issued a press release announcing its financial results for the second quarter fiscal year 2015 for the period ending October 31, 2014.&#160; Butler National Corporation will have a conference call on December 16, 2014 to discuss the results. A copy of the press release is attached as Exhibit 99 to this Current Report on Form 8-K.<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>The information furnished under this Item 2.02, including Exhibit 99, shall not be deemed "filed" for purposes of Section 18 of the Securities and Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise subject to the liabilities under that Section and shall not be deemed to be incorporated by reference into any filing of the Registrant under the Securities Act of 1933, as amended, of the Exchange Act, except as otherwise expressly stated in any such filing.<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="width: 13.06%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Item 9.01</div>
+</td>
+<td style="width: 86.94%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Financial Statements and Exhibits<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="width: 13.06%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Exhibit 99<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+</td>
+<td style="width: 86.94%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Press release announcing Butler National Corporation second quarter fiscal year 2015 financial results and conference call.<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">SIGNATURES</div>
+
+<div><br>
+</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</div>
+
+<div><br>
+</div>
+
+<table cellpadding="0" cellspacing="0" id="c0592f811c1d4f93805a55ce7568d599" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 49.6%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> &#160;</div>
+</td>
+<td style="width: 50.4%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">BUTLER NATIONAL CORPORATION<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>(Registrant)<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="width: 49.6%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">December 15, 2014<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> Date</div>
+</td>
+<td style="width: 50.4%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">/S/ Clark D. Stewart<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>Clark D. Stewart<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>(President and Chief Executive Officer)<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="width: 49.6%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">December 15, 2014<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> Date</div>
+</td>
+<td style="width: 50.4%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">/S/ Craig D. Stewart<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>Craig D. Stewart<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> (Chief Financial Officer)</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>pr121514.htm
+<DESCRIPTION>PRESS RELEASE FY15 Q2 FINANCIAL RESULTS AND CONFERENCE CALL
+<TEXT>
+<html>
+<head>
+<title>&#160;</title>
+<!--Licensed to: Butler National Corporation
+    Document created using Disclosure Solutions PROFILE 3.0.2.0
+    Copyright 1995 - 2014 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="font-family: 'Times New Roman', Times, serif; font-size: 10pt;">
+<table cellpadding="0" cellspacing="0" id="d26625a48d7f447789839af0e71f3212" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse;">
+<tr>
+<td colspan="2" style="width: 100%; vertical-align: top;">
+<div style="text-align: right; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Exhibit 99</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="width: 51.79%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">PRESS RELEASE<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> FOR IMMEDIATE RELEASE</div>
+</td>
+<td style="width: 48.21%; vertical-align: top;">
+<div style="text-align: right; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">December 15, 2014</div>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" style="width: 100%; vertical-align: top;">
+<div>&#160;</div>
+
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">BUTLER NATIONAL CORPORATION ANNOUNCES SECOND QUARTER AND SIX MONTHS FISCAL YEAR 2015 FINANCIAL RESULTS AND CONFERENCE CALL</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+</td>
+</tr>
+</table>
+
+<div style="text-align: left; margin-left: -4.5pt;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">OLATHE, KANSAS, December 15, 2014,</font> - Butler National Corporation (OTC Pink: BUKS), a leader in the growing global market for structural modification, maintenance, repair and overhaul (MRO) and a recognized provider of management services in diverse business groups, announces its financial results for the second quarter and six months fiscal 2015 for the period ended October 31, 2014.&#160; In conjunction with the release, the Company has scheduled a conference call Tuesday, December 16, 2014 at 9:00 AM Central Standard Time.<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font></font><br>
+</div>
+
+<div style="text-align: left; margin-left: -4.5pt;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">What: Butler National Corporation Second Quarter Fiscal 2015 Conference Call<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>When: Tuesday, December 16, 2014 - 9:00 AM Central Standard Time<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>How: Live via phone by dialing 800-624-7038. Code: Butler National Corporation. &#160;Participants to the conference call should call in at least 5 minutes prior to the start time.&#160; For those who cannot attend the call, an audio replay will be archived on the Company's web site (www.butlernational.com).<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font></font><br>
+</div>
+
+<div style="text-align: left; margin-left: -4.5pt;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Clark D. Stewart, President &amp; CEO, Butler National Corp., will be leading the call and discussing results of the second quarter, the status of new and existing orders, and an outlook on the balance of fiscal 2015.<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font></font><br>
+</div>
+
+<div style="text-align: left; margin-left: -4.5pt; font-weight: bold; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><u>Historical selected financial data related to all operations:</u></div>
+
+<div><br>
+</div>
+
+<table cellpadding="0" cellspacing="0" id="0bbc76da23f9461c8414e17f61aefc79" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; border-collapse: collapse; width: 100%;">
+<tr>
+<td valign="bottom" style="vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom;">&#160;</td>
+<td colspan="10" valign="bottom" style="vertical-align: top;">
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Quarter Ended October 31</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom;">&#160;</td>
+<td colspan="10" valign="bottom" style="vertical-align: top;">
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Six Months Ended October 31</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom;">&#160;</td>
+</tr>
+
+<tr>
+<td valign="bottom" style="vertical-align: top; padding-bottom: 2px;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="10" valign="bottom" style="vertical-align: top; border-bottom: #000000 solid 2px;">
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">(In thousands)</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="10" valign="bottom" style="vertical-align: top; border-bottom: #000000 solid 2px;">
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">(In thousands)</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+</tr>
+
+<tr>
+<td valign="bottom" style="vertical-align: top; padding-bottom: 2px;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="2" valign="bottom" style="vertical-align: top; border-bottom: #000000 solid 2px;">
+<div style="text-align: right; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">2014</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="2" valign="bottom" style="vertical-align: top; border-bottom: #000000 solid 2px;">
+<div style="text-align: right; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">2013</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="2" valign="bottom" style="vertical-align: top; border-bottom: #000000 solid 2px;">
+<div style="text-align: right; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">2012</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="2" valign="bottom" style="vertical-align: top; border-bottom: #000000 solid 2px;">
+<div style="text-align: right; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">2014</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="2" valign="bottom" style="vertical-align: top; border-bottom: #000000 solid 2px;">
+<div style="text-align: right; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">2013</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+<td colspan="2" valign="bottom" style="vertical-align: top; border-bottom: #000000 solid 2px;">
+<div style="text-align: right; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">2012</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; padding-bottom: 2px;">&#160;</td>
+</tr>
+
+<tr>
+<td valign="bottom" style="vertical-align: top; width: 28%; background-color: #CCEEFF;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Net Sales</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">$</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">11,752</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">$</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">10,799</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">$</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">13,152</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">$</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">24,143</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">$</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">21,795</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">$</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">26,175</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+</tr>
+
+<tr>
+<td valign="bottom" style="vertical-align: top; width: 28%; background-color: #FFFFFF;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Operating Income (Loss)</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">367</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">(198</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">)</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">700</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">1,173</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">(55</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">)</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">1,985</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+</tr>
+
+<tr>
+<td valign="bottom" style="vertical-align: top; width: 28%; background-color: #CCEEFF;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Net Income (Loss)</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">29</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">(345</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">)</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">114</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">282</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">(634</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">)</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">382</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+</tr>
+
+<tr>
+<td valign="bottom" style="vertical-align: top; width: 28%; background-color: #FFFFFF;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Total Assets</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">40,373</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">42,457</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">45,288</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">40,373</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">42,457</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">45,288</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+</tr>
+
+<tr>
+<td valign="bottom" style="vertical-align: top; width: 28%; background-color: #CCEEFF;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Long-term Obligations</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">5,228</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">8,571</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">10,624</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">5,228</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">8,571</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">10,624</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+</tr>
+
+<tr>
+<td valign="bottom" style="vertical-align: top; width: 28%; background-color: #FFFFFF;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Stockholders' Equity</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">24,805</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">23,081</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">23,883</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">24,805</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">23,081</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">23,883</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+</tr>
+
+<tr>
+<td valign="bottom" style="vertical-align: top; width: 28%; background-color: #CCEEFF;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Weighted Average Shares &#8211; Diluted</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">60,893</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">59,019</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">57,546</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">60,893</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">59,019</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #CCEEFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">57,546</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #CCEEFF;">&#160;</td>
+</tr>
+
+<tr>
+<td valign="bottom" style="vertical-align: top; width: 28%; background-color: #FFFFFF;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">New Product Research and Development Cost</div>
+</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">354</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">486</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">425</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">795</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">1,043</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+<td colspan="1" valign="bottom" style="vertical-align: bottom; text-align: right; width: 9%; background-color: #FFFFFF;">
+<div style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">797</div>
+</td>
+<td colspan="1" nowrap="nowrap" valign="bottom" style="text-align: left; vertical-align: bottom; width: 1%; background-color: #FFFFFF;">&#160;</td>
+</tr>
+</table>
+
+<div style="text-align: center;"><a name="DSPFPAGEBREAKAREA"><!--Anchor--></a><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">Management Comments</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> "The fiscal quarter-ended October 31, 2014 was a successful period for Butler National Corporation.&#160; Revenue increased 9% to $11.8 million in the three months ended October 31, 2014, as compared to $10.8 million in the three months ended October 31, 2013.&#160; The increase in revenue reflects an increase in Aerospace Products revenue (up 31%) and a decrease in Professional Services revenue (down 1%).&#160; Butler National Corporation continues to drive growth in international markets and through the development of new supplemental type certificates.&#160; This includes significant efforts in South America, Europe, Africa, and Asia.</div>
+
+<div><br>
+</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Second quarter fiscal 2015 resulted in a net income of $29,000 compared to a net loss of $345,000 in the second quarter fiscal 2014.&#160; The $374,000 increase in net income was primarily due to effectively managing costs and expenses.&#160; Butler National Corporation is working to exceed previous revenue levels while continuing to focus on our margin expansion initiatives, including efficiencies in our implementation and operational processes and controlling general and administrative expenses.</div>
+
+<div><br>
+</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">During the three months ending October 31, 2014, we invested approximately $354,000 in projects focused on the development and acquisition of new products.&#160; We feel this expenditure for the design and development engineering, testing, and certification of new products may help stabilize our long-term revenue and enhance our profits.</div>
+
+<div><br>
+</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">This is an exciting time for Butler National Corporation.&#160; Management and all employees are focused on the execution of our numerous business development opportunities as well as increasing revenue while managing costs. We continue to believe we are positioned for the future as we focus on serving the needs of our customers and enhancing shareholder value," commented Clark D. Stewart, President of the Company.</div>
+
+<div><br>
+</div>
+
+<div style="text-align: center; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">Business Segment Highlights</div>
+
+<div><br>
+</div>
+
+<div style="text-align: left; font-weight: bold; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><u>Professional Services:</u></div>
+
+<div><br>
+</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Revenue from professional services decreased 1% to $7.5 million for the three months ended October 31, 2014 from $7.5 million in the three months ended October 31, 2013.&#160; Operating income from professional services increased to an operating income of $397,000 in the three months ended October 31, 2014 compared with an operating loss of $32,000 in the three months ended October 31, 2013.</div>
+
+<div><br>
+</div>
+
+<div style="text-align: left; font-weight: bold; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><u>Aerospace Products:</u></div>
+
+<div><br>
+</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Revenue increased 31% to $4.3 million in the three months ended October 31, 2014, compared to $3.3 million in the three months ended October 31, 2013.&#160; Aerospace products had operating loss of $30,000 in the three months ended October 31, 2014 compared to operating loss of $166,000 in the three months ended October 31, 2013.&#160; We are working to overcome this volatility by increasing marketing efforts in international markets and continuing to diversify product offerings.</div>
+
+<div><br>
+</div>
+
+<div style="text-align: left; font-weight: bold; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><u>Backlog:</u></div>
+
+<div><br>
+</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">As of October 31, 2014, our backlog totaled approximately $5.9 million.&#160; The backlog includes firm, pending, and contract orders, which may not be completed within the next fiscal year.&#160; This is consistent with the industry in which modifications services and related contracts may take several months and sometimes years to complete.&#160; There can be no assurance that all orders will be completed or that some may ever commence.<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;"><u>Our Business:</u></font></div>
+
+<div style="text-align: left;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><br>
+<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font>Butler National Corporation operates in the Aerospace and Services business segments.&#160; The Aerospace segment focuses on the manufacturing of support systems for "Classic" commercial and military aircraft including the Butler National TSD for the Boeing 737 and 747 Classic aircraft, switching equipment for Boeing McDonnell Douglas Aircraft, weapon control systems for Boeing Helicopter and performance enhancement structural modifications for Learjet, Cessna, Dassault and Beechcraft business aircraft.&#160; Services include temporary employee services, gaming services and administrative management services.<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font></font><br>
+</div>
+
+<div style="text-align: left; margin-bottom: 12pt; font-weight: bold; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><u>Forward-Looking Information:</u></div>
+
+<div style="text-align: left; margin-bottom: 12pt; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Statements made in this report, filed with the Securities and Exchange Commission, communications to stockholders, press releases, and oral statements made by representatives of the Company that are not historical in nature, or that state the Company or management intentions, hopes, beliefs, expectations or predictions of the future, may constitute "forward-looking statements" within the meaning of Section 21E of the Securities and Exchange Act of 1934, as amended (the "Exchange Act"). Forward-looking statements can often be identified by the use of forward-looking terminology, such as "could," "should," "will," "intended," "continue," "believe," "may," "expect," "hope," "anticipate," "goal," "forecast," "plan," "guidance" or "estimate" or the negative of these words, variations thereof or similar expressions. Forward-looking statements are not guarantees of future performance or results. They involve risks, uncertainties, and assumptions. It is important to note that any such performance and actual results, financial condition or business, could differ materially from those expressed in such forward-looking statements.&#160; The forward looking statements in this report are only predictions and actual events or results may differ materially.&#160; These factors and risks include, but are not limited to the Cautionary Statements and Risk Factors, filed as Exhibit 99 and Section 1A to the Company's Annual Report on Form 10-K, incorporated herein by reference.&#160; Investors are specifically referred to such Cautionary Statements and Risk Factors for discussion of factors, which could affect the Company's operations, and forward-looking statements contained herein.</div>
+
+<div style="margin-bottom: 12pt;"><br>
+</div>
+
+<div style="text-align: left; margin-bottom: 12pt; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">FOR MORE INFORMATION, CONTACT:</div>
+
+<table cellpadding="0" cellspacing="0" id="15a4b41ec55a421ca82efe449ea6efcd" style="font-family: 'Times New Roman', Times, serif; font-size: 10pt; width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 50%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">David Drewitz, Public Relations<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> david@creativeoptionscommunications.com</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">www.creativeoptionscommunications.com<font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</font></div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Butler National Corporation Investor Relations</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+</td>
+<td style="width: 50%; vertical-align: top;">
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Ph&#160; (972) 814-5723</div>
+
+<div style="text-align: left; text-indent: 9pt; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">&#160;</div>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;">Ph&#160; (913) 780-9595</div>
+</td>
+</tr>
+</table>
+
+<div style="text-align: left; font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif; font-weight: bold;">THE WORLDWIDE WEB:</font><font style="font-size: 10pt; font-family: '\'Times New Roman\'', Times, serif;"><br>
+</font> Please review www.butlernational.com for pictures of our products and details about Butler National Corporation and its subsidiaries.</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

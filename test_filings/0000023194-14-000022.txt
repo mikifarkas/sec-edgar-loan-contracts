@@ -1,0 +1,882 @@
+<SEC-DOCUMENT>0000023194-14-000022.txt : 20141119
+<SEC-HEADER>0000023194-14-000022.hdr.sgml : 20141119
+<ACCEPTANCE-DATETIME>20141119091422
+ACCESSION NUMBER:		0000023194-14-000022
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20141118
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141119
+DATE AS OF CHANGE:		20141119
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMSTOCK RESOURCES INC
+		CENTRAL INDEX KEY:			0000023194
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				941667468
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03262
+		FILM NUMBER:		141233804
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5300 TOWN AND COUNTRY BLVD
+		STREET 2:		STE 500
+		CITY:			FRISCO
+		STATE:			TX
+		ZIP:			75034
+		BUSINESS PHONE:		9726688800
+
+	MAIL ADDRESS:	
+		STREET 1:		5300 TOWN AND COUNTRY BLVD
+		STREET 2:		STE 500
+		CITY:			FRISCO
+		STATE:			TX
+		ZIP:			75034
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	COMSTOCK TUNNEL & DRAINAGE CO
+		DATE OF NAME CHANGE:	19880121
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8knovem182014.htm
+<DESCRIPTION>COMSTOCK RESOURCES, INC. FORM 8-K
+<TEXT>
+<html>
+<head>
+    <title>form8knovem182014.htm</title>
+    <!--Licensed to: Comstock Resources-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">UNITED STATES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Washington, D.C. 20549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">FORM 8-K</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">CURRENT REPORT</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">PURSUANT TO SECTION 13 OR 15(d) OF THE</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">SECURITIES EXCHANGE ACT OF 1934</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Date of Report (Date of Earliest Event Reported):&#160;&#160;<font style="DISPLAY: inline; FONT-WEIGHT: bold">November 18, 2014</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">COMSTOCK RESOURCES, INC.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Exact Name of Registrant as Specified in Charter)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">STATE OF NEVADA</font></div>
+</td>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">001-03262</font></div>
+</td>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">94-1667468</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(State or other</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">jurisdiction incorporation)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Commission File Number)</font></div>
+</td>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(I.R.S. Employer</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Identification Number)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">5300 Town and Country Boulevard</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Suite 500</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Frisco, Texas 75034</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Address of principal executive offices)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(972) 668-8800</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Registrant's Telephone No.)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="5%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Wingdings">&#168;</font></div>
+</td>
+<td align="left" valign="top" width="75%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="5%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Wingdings">&#168;</font></div>
+</td>
+<td align="left" valign="top" width="75%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="5%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Wingdings">&#168;</font></div>
+</td>
+<td align="left" valign="top" width="75%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="5%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt" face="Wingdings">&#168;</font></div>
+</td>
+<td align="left" valign="top" width="75%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div>&#160;</div>
+
+<div><br>
+&#160;</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 5.02&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; FONT-SIZE: 10pt">&#160;</font>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers</font></div>
+
+<div style="TEXT-INDENT: 18pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 18pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">On November 19, 2014 the Company issued a press release, attached hereto as Exhibit 99.1 and incorporated herein by reference, announcing the appointment of Ms. LaRae L. Sanders as its Vice President of Land.&#160;&#160;The Company also announced that D. Dale Gillette will continue to serve as its Vice President of Legal and General Counsel.&#160;A copy of the press release containing these organizational changes is attached hereto as Exhibit 99.1.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 8.01&#160;&#160;&#160;&#160;Other Events</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font></div>
+
+<div style="TEXT-INDENT: 18pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">On November 18, 2014, the Company announced that its Board of Directors declared a dividend of $0.125 per share which will be paid on December 15, 2014 to all stockholders of record as of the close of business on December 5, 2014.&#160;&#160;A copy of this press release is attached hereto as Exhibit 99.2.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 18pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The information in this Form 8-K and the Exhibits attached hereto shall not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, except as shall be expressly set forth by specific reference in such filing.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Item 9.01</font>&#160;&#160;&#160;<font style="DISPLAY: inline; FONT-WEIGHT: bold">Financial Statements and Exhibits</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="17%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 18pt"></font>Exhibit 99.1</font></div>
+</td>
+<td valign="top" width="63%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Press Release dated November 19, 2014 announcing certain management changes.</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="17%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="63%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="17%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 18pt"></font>Exhibit 99.2</font></div>
+</td>
+<td valign="top" width="63%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Press Release dated November 18, 2014 announcing the Company's dividend declaration.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURES</font><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 18pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="middle" width="33%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="5%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="middle" width="41%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">COMSTOCK RESOURCES, INC.</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="33%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="5%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="41%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="33%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="5%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="41%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="middle" width="33%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Dated:&#160;&#160;November 19, 2014</font></div>
+</td>
+<td align="left" valign="middle" width="5%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">By:</font></div>
+</td>
+<td align="left" valign="middle" width="41%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">/s/ ROLAND O. BURNS</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="33%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="5%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="middle" width="41%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Roland O. Burns</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="33%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="5%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="middle" width="41%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">President and Chief Financial Officer</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+&#160;</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>exhibit99pnt1nov19.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<html>
+<head>
+    <title>exhibit99pnt1nov19.htm</title>
+    <!--Licensed to: Comstock Resources-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div>
+<div>
+<div>
+<div style="TEXT-ALIGN: right"><font style="FONT-FAMILY: Times New Roman; FONT-SIZE: 11pt">Exhibit 99.1</font></div>
+
+<div style="TEXT-ALIGN: right">&#160;</div>
+
+
+
+<div>
+<div>
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="95%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="51%">&#160;</td>
+<td align="left" valign="middle" width="49%">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">5300 Town and Country Blvd., Suite 500</font></font></font></div>
+</td>
+</tr><tr style="HEIGHT: 0px;">
+<td align="left" rowspan="4" valign="top" width="51%">
+<div><font style="FONT-SIZE: 11pt"><img src="comstocklogo.jpg" alt="comstock resources, inc. logo"> </font></div>
+</td>
+<td align="left" valign="middle" width="49%">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">Frisco, Texas 75034</font></font></font></div>
+</td>
+</tr><tr style="HEIGHT: 0px;">
+<td align="left" valign="middle" width="49%">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">Telephone: (972) 668-8834</font></font></font></div>
+</td>
+</tr><tr style="HEIGHT: 0px;">
+<td align="left" valign="middle" width="49%">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">Contact: Gary H. Guyton</font></font></font></div>
+</td>
+</tr><tr style="HEIGHT: 0px;">
+<td valign="middle" width="49%" style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">Director of Planning and Investor Relations</font></font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="51%">&#160;</td>
+<td align="left" valign="middle" width="49%">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">Web Site: www.comstockresources.com</font></font></font></div>
+</td>
+</tr></table>
+</div>
+
+<br>
+</div>
+
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold"><font style="FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt">NEWS <font style="FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt">RELEASE</font></font></font></font></div>
+
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center">
+<div>
+<hr style="COLOR: black" align="center" noshade size="1" width="100%">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">For Immediate Release</font></font></font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div>&#160;</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">COMSTOCK RESOURCES, INC. ANNOUNCES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">NEW VICE PRESIDENT OF LAND</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font><br>
+&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">FRISCO, TEXAS, November 19, 2014</font> &#8211; Comstock Resources, Inc. ("Comstock" or the "Company") (NYSE: CRK) announced the appointment of LaRae L. Sanders as Vice President of Land.&#160;&#160;Ms. Sanders has been with Comstock since 1995.&#160;&#160;She has served as the Company's Land Manager since 2007, and has been instrumental in all of the Company's active development programs and major acquisitions. Prior to joining Comstock, Ms. Sanders held positions with Bridge Oil Company and Kaiser-Francis Oil Company, as well as other independent exploration and production companies.&#160;&#160;Ms. Sanders is a Certified Professional Landman with 35 years experience.&#160;&#160;She became the nation's first Certified Professional Lease and Title Analyst in 1990.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Comstock also announced Mr. D. Dale Gillette, the Company's current Vice President of Land and General Counsel, will continue to serve the Company as its Vice President of Legal and General Counsel.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">"We congratulate LaRae Sanders on her promotion and look forward to Dale Gillette's continuing contributions to our management team", commented M. Jay Allison, Comstock's Chief Executive Officer.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">This press release may contain "forward-looking statements" as that term is defined in the Private Securities Litigation Reform Act of 1995.&#160;&#160;Such statements are based on management's current expectations and are subject to a number of factors and uncertainties which could cause actual results to differ materially from those described herein.&#160;&#160;Although the Company believes the expectations in such statements to be reasonable, there can be no assurance that such expectations will prove to be correct.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Comstock Resources, Inc. is an independent energy company based in Frisco, Texas and is engaged in oil and gas acquisitions, exploration and development primarily in Texas and Louisiana.&#160;&#160;The Company's stock is traded on the New York Stock Exchange under the symbol CRK.</font></div>
+
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>3
+<FILENAME>exhibit99pnt2nov18.htm
+<DESCRIPTION>EXHIBIT 99.2
+<TEXT>
+<html>
+<head>
+    <title>exhibit99pnt2nov18.htm</title>
+    <!--Licensed to: Comstock Resources-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div>
+<div>
+<div>
+<div style="TEXT-ALIGN: right"><font style="FONT-FAMILY: Times New Roman; FONT-SIZE: 11pt">Exhibit 99.2</font></div>
+
+<div style="TEXT-ALIGN: right">&#160;</div>
+
+
+
+<div>
+<div>
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left">
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="95%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="51%">&#160;</td>
+<td align="left" valign="middle" width="49%">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">5300 Town and Country Blvd., Suite 500</font></font></font></div>
+</td>
+</tr><tr style="HEIGHT: 0px;">
+<td align="left" rowspan="4" valign="top" width="51%">
+<div><font style="FONT-SIZE: 11pt"><img src="comstocklogo.jpg" alt="comstock resources, inc. logo"> </font></div>
+</td>
+<td align="left" valign="middle" width="49%">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">Frisco, Texas 75034</font></font></font></div>
+</td>
+</tr><tr style="HEIGHT: 0px;">
+<td align="left" valign="middle" width="49%">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">Telephone: (972) 668-8834</font></font></font></div>
+</td>
+</tr><tr style="HEIGHT: 0px;">
+<td align="left" valign="middle" width="49%">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">Contact: Gary H. Guyton</font></font></font></div>
+</td>
+</tr><tr style="HEIGHT: 0px;">
+<td valign="middle" width="49%" style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">Director of Planning and Investor Relations</font></font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="51%">&#160;</td>
+<td align="left" valign="middle" width="49%">
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">Web Site: www.comstockresources.com</font></font></font></div>
+</td>
+</tr></table>
+</div>
+
+<br>
+</div>
+
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold"><font style="FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt">NEWS <font style="FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt">RELEASE</font></font></font></font></div>
+
+<div style="LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center">
+<div>
+<hr style="COLOR: black" align="center" noshade size="1" width="100%">
+</div>
+</div>
+
+<div style="TEXT-ALIGN: left; LINE-HEIGHT: 1.25; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 11pt"><font style="DISPLAY: inline; FONT-SIZE: 11pt; FONT-WEIGHT: bold"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-SIZE: 11pt">For Immediate Release</font></font></font></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">COMSTOCK RESOURCES, INC. BOARD OF DIRECTORS</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">DECLARES QUARTERLY DIVIDEND</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font><br>
+&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">FRISCO, TEXAS, November 18, 2014</font> &#8211; Comstock Resources, Inc. ("Comstock" or the "Company") (NYSE: CRK) announced today that its Board of Directors declared a dividend of $0.125 per share on the Company&#8217;s common stock.&#160;&#160;The dividend will be paid on December 15, 2014 to all stockholders of record as of the close of business on December 5, 2014.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">This press release may contain "forward-looking statements" as that term is defined in the Private Securities Litigation Reform Act of 1995.&#160;&#160;Such statements are based on management's current expectations and are subject to a number of factors and uncertainties which could cause actual results to differ materially from those described herein.&#160;&#160;Although the Company believes the expectations in such statements to be reasonable, there can be no assurance that such expectations will prove to be correct.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Comstock Resources, Inc. is an independent energy company based in Frisco, Texas and is engaged in oil and gas acquisitions, exploration and development primarily in Texas and Louisiana.&#160;&#160;The Company's stock is traded on the New York Stock Exchange under the symbol CRK.</font></div>
+
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>comstocklogo.jpg
+<DESCRIPTION>COMSTOCK RESOURCES, INC. LOGO
+<TEXT>
+begin 644 comstocklogo.jpg
+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
+8EZAXP,_RHJ2"&1;J-B`%&<\^U%=1)__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

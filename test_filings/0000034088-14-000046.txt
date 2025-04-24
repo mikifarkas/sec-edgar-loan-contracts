@@ -1,0 +1,473 @@
+<SEC-DOCUMENT>0000034088-14-000046.txt : 20141124
+<SEC-HEADER>0000034088-14-000046.hdr.sgml : 20141124
+<ACCEPTANCE-DATETIME>20141124172122
+ACCESSION NUMBER:		0000034088-14-000046
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20141121
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+FILED AS OF DATE:		20141124
+DATE AS OF CHANGE:		20141124
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXXON MOBIL CORP
+		CENTRAL INDEX KEY:			0000034088
+		STANDARD INDUSTRIAL CLASSIFICATION:	PETROLEUM REFINING [2911]
+		IRS NUMBER:				135409005
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-02256
+		FILM NUMBER:		141247162
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+		BUSINESS PHONE:		9724441000
+
+	MAIL ADDRESS:	
+		STREET 1:		5959 LAS COLINAS BLVD
+		CITY:			IRVING
+		STATE:			TX
+		ZIP:			75039-2298
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EXXON CORP
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	STANDARD OIL CO OF NEW JERSEY
+		DATE OF NAME CHANGE:	19721123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>r8K112114.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+
+<html>
+
+<head>
+<meta content="text/html; charset=utf-8" />
+
+
+
+
+&nbsp;</head>
+
+<body><a name="page_1"></a><DIV bclPageBorder STYLE="PADDING-TOP: 0.5in; PADDING-BOTTOM: 0.5in; WIDTH: 100%; PADDING-RIGHT: 0.5in; PADDING-LEFT: 0.5in">
+
+<DIV bclHeader>
+
+
+<p style="margin:0in;margin-bottom:.0001pt;tab-stops:center 3.25in right 6.5in;"><font face=Calibri,sans-serif lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+
+</DIV>
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">UNITED STATES</font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">SECURITIES AND
+EXCHANGE COMMISSION</font></b><font face="Times New Roman,serif" lang=EN-US style="font-size:14.0pt;"> &nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">Washington, D.C.
+20549 </font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:14.0pt;">FORM 8-K</font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:12.0pt;">CURRENT REPORT</font></b><b><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;"><br>
+</font></b><b><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">Pursuant to Section 13 OR 15(d) of The
+Securities Exchange Act of 1934</font></b><b><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;"> &nbsp;</font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">Date of Report (Date
+of earliest event reported):&#160; November 21, 2014</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:20.0pt;">Exxon Mobil Corporation</font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">(Exact name of
+registrant as specified in its charter)</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align=center>
+
+<table cellpadding=0 cellspacing=0 border=0 style="border-collapse:collapse;width:100%;">
+ <tr>
+  <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" style="font-size:12.0pt;">New Jersey</font></b></p>
+  </td>
+ <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" style="font-size:12.0pt;">1-2256</font></b></p>
+  </td>
+ <td valign=top width=34% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" style="font-size:12.0pt;">13-5409005</font></b></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">(State or other
+  jurisdiction</font></p>
+  </td>
+ <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">(Commission</font></p>
+  </td>
+ <td valign=top width=34% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">(IRS Employer </font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">of incorporation)</font></p>
+  </td>
+ <td valign=top width=33% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">File Number)</font></p>
+  </td>
+ <td valign=top width=34% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">Identification No.)</font></p>
+  </td>
+ </tr>
+</table>
+
+
+</div>
+
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><b><font face="Times New Roman,serif" lang=EN-US style="font-size:12.0pt;">5959 LAS COLINAS BOULEVARD, IRVING, TEXAS 75039-2298</font></b></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (Address of
+principal executive offices)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (Zip
+Code)</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&#160;Registrant&#8217;s
+telephone number, including area code:&#160; </font><b><font face="Times New Roman,serif" lang=EN-US style="font-size:12.0pt;">(972)
+444-1000</font></b><font face="Times New Roman,serif" lang=EN-US style="font-size:12.0pt;"> &nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:1.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<div align=left><table cellpadding=0 cellspacing=0 border=0 style="border-collapse:collapse;width:100%;">
+ <tr>
+  <td valign=top width=17% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=66% style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=17% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=17% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=66% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">(Former name or
+  former address, if changed since last report)</font></p>
+  </td>
+ <td valign=top width=17% style="padding:0in 5.4pt 0in 5.4pt;">
+  <p align=center style="margin:0in;margin-bottom:.0001pt;text-align:center;"><font face="Times New Roman,serif" style="font-size:10.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+</table></div>
+
+
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:9.0pt;">Check the appropriate box below
+if the Form 8-K filing is intended to simultaneously satisfy the filing
+obligation of the registrant under any of the following provisions:</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:9.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:9.0pt;">[ ] Written communications
+pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:8.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:9.0pt;">[ ] Soliciting material
+pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:8.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:9.0pt;">[ ] Pre-commencement
+communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR
+240.14d-2(b))</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:8.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:9.0pt;">[ ] Pre-commencement
+communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR
+240.13e-4(c))</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;">&#160;&nbsp;</font></p>
+
+
+
+
+
+
+
+
+
+<DIV bclFooter>
+
+
+<p style="margin:0in;margin-bottom:.0001pt;tab-stops:center 3.25in right 6.5in;"><font face=Calibri,sans-serif lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+
+</DIV>
+</DIV><HR noshade STYLE="page-break-after: always" align="center" width="100%" size=2><a name="page_2"></a><DIV bclPageBorder STYLE="PADDING-TOP: 0.5in; PADDING-BOTTOM: 0.5in; WIDTH: 100%; PADDING-RIGHT: 0.5in; PADDING-LEFT: 0.5in">
+
+<DIV bclHeader>
+
+
+<p style="margin:0in;margin-bottom:.0001pt;mso-line-height-rule:exactly;mso-pagination:widow-orphan no-line-numbers;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;line-height:.7pt;">&nbsp;</font></p>
+
+
+</DIV>
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;"></font></p>
+
+<div align=left><table cellpadding=0 cellspacing=0 border=0 style="border:none;border-collapse:collapse;width:100%;">
+ <tr>
+  <td valign=top width=17% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-left:0pt;text-indent:.9pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">Item 5.02</font></p>
+  </td>
+ <td valign=top width=83% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">Departure of Directors or
+  Certain Officers; Election of Directors; Appointment of Certain Officers;
+  Compensatory Arrangements of Certain Officers</font></p>
+  </td>
+ </tr>
+</table></div>
+
+
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-left:1.0in;text-indent:-1.0in;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160; On November 21,
+2014, S.D. Pryor, a Vice President of the Corporation and a Named Executive
+Officer, announced his intention to retire effective January 1, 2015.</font></p>
+
+
+
+
+<p style="margin:0in;margin-bottom:10.0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;line-height:115%;">&nbsp;</font></p>
+
+
+<DIV bclFooter>
+
+
+<p align=center style="border:none;margin:0in;margin-bottom:10.0pt;mso-border-shadow:yes;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;text-align:center;"><a name="_GoBack_0"></a><font style="mso-bookmark:_GoBack_0;"><font style="border:none;mso-fareast-font-family:Calibri;"><font style="mso-no-proof:yes;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;line-height:115%;">- 2
+-</font></font></font></font><font style="mso-bookmark:_GoBack_0;">&nbsp;</font><font style="border:none;mso-fareast-font-family:Calibri;">&nbsp;</font></p>
+
+
+</DIV>
+</DIV><HR noshade STYLE="page-break-after: always" align="center" width="100%" size=2><a name="page_3"></a><DIV bclPageBorder STYLE="PADDING-TOP: 0.5in; PADDING-BOTTOM: 0.5in; WIDTH: 100%; PADDING-RIGHT: 0.5in; PADDING-LEFT: 0.5in">
+
+<DIV bclHeader>
+
+
+<p style="margin:0in;margin-bottom:.0001pt;mso-line-height-rule:exactly;mso-pagination:widow-orphan no-line-numbers;"><font face="Times New Roman,serif" lang=EN-US style="font-size:10.0pt;line-height:.7pt;">&nbsp;</font></p>
+
+
+</DIV>
+<p style="margin:0in;margin-bottom:10.0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;line-height:115%;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">SIGNATURE</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p align=center style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:center;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has
+duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+<p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &nbsp;</font></p>
+
+<div align=left><table cellpadding=0 cellspacing=0 border=0 style="border:none;border-collapse:collapse;width:100%;">
+ <tr>
+  <td valign=top width=43% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td colspan=4 valign=top width=57% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">EXXON MOBIL CORPORATION</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=43% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=6% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=3% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td colspan=2 valign=top width=48% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=43% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=6% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=3% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td colspan=2 valign=top width=48% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=43% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">Date: November 24, 2014</font></p>
+  </td>
+ <td valign=top width=6% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">By:</font></p>
+  </td>
+ <td colspan=3 valign=top width=51% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">/s/
+  David S. Rosenthal</font></p>
+  </td>
+ </tr>
+<tr style="height:3.85pt;">
+  <td valign=top width=43% style="border:none;height:3.85pt;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=6% style="border:none;height:3.85pt;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td colspan=3 valign=top width=51% style="border:none;height:3.85pt;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">---------------------------------------------</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=43% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=6% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td colspan=2 valign=top width=15% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">Name:</font></p>
+  </td>
+ <td valign=top width=36% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;"><font face="Times New Roman,serif" style="font-size:11.0pt;">David
+  S. Rosenthal</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=43% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=6% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td colspan=2 valign=top width=15% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">Title:&#160; </font></p>
+  </td>
+ <td valign=top width=36% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">Vice President, Controller and</font></p>
+  </td>
+ </tr>
+<tr>
+  <td valign=top width=43% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=6% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td colspan=2 valign=top width=15% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">&nbsp;</font></p>
+  </td>
+ <td valign=top width=36% style="border:none;padding:0in 5.4pt 0in 5.4pt;">
+  <p style="margin:0in;margin-bottom:.0001pt;margin-right:0pt;text-align:justify;"><font face="Times New Roman,serif" style="font-size:11.0pt;">Principal Accounting Officer</font></p>
+  </td>
+ </tr>
+<tr height=0>
+  <td width=43% style="border:none;">&nbsp;</td>
+ <td width=6% style="border:none;">&nbsp;</td>
+ <td width=3% style="border:none;">&nbsp;</td>
+ <td width=12% style="border:none;">&nbsp;</td>
+ <td width=36% style="border:none;">&nbsp;</td>
+ </tr>
+</table></div>
+
+
+
+<p style="margin:0in;margin-bottom:.0001pt;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;">&nbsp;</font></p>
+
+
+
+
+<DIV bclFooter>
+
+
+<p align=center style="border:none;margin:0in;margin-bottom:10.0pt;mso-border-shadow:yes;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;text-align:center;"><a name="_GoBack_0"></a><font style="mso-bookmark:_GoBack_0;"><font style="border:none;mso-fareast-font-family:Calibri;"><font style="mso-no-proof:yes;"><font face="Times New Roman,serif" lang=EN-US style="font-size:11.0pt;line-height:115%;">- 3
+-</font></font></font></font><font style="mso-bookmark:_GoBack_0;">&nbsp;</font><font style="border:none;mso-fareast-font-family:Calibri;">&nbsp;</font></p>
+
+
+</DIV>
+</DIV><HR noshade align="center" width="100%" size=2></BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,429 @@
+<SEC-DOCUMENT>0000031107-14-000030.txt : 20141215
+<SEC-HEADER>0000031107-14-000030.hdr.sgml : 20141215
+<ACCEPTANCE-DATETIME>20141215165624
+ACCESSION NUMBER:		0000031107-14-000030
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20141215
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141215
+DATE AS OF CHANGE:		20141215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EASTERN CO
+		CENTRAL INDEX KEY:			0000031107
+		STANDARD INDUSTRIAL CLASSIFICATION:	CUTLERY, HANDTOOLS & GENERAL HARDWARE [3420]
+		IRS NUMBER:				060330020
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			0102
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35383
+		FILM NUMBER:		141287079
+
+	BUSINESS ADDRESS:	
+		STREET 1:		112 BRIDGE ST
+		STREET 2:		P O BOX 460
+		CITY:			NAUGATUCK
+		STATE:			CT
+		ZIP:			06770
+		BUSINESS PHONE:		2037292255
+
+	MAIL ADDRESS:	
+		STREET 1:		112 BRIDGE STREET
+		STREET 2:		P O BOX 460
+		CITY:			NAUGATUCK
+		STATE:			CT
+		ZIP:			06770
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8kargo.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<html>
+<head>
+    <title>form8kargo.htm</title>
+    <!--Licensed to: The Eastern Company-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">UNITED STATES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Washington, D.C. 20549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">FORM 8-K</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CURRENT REPORT</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Pursuant to Section 13 or 15(d) of the</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Securities Exchange Act of 1934</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Date of Report:</font><font style="DISPLAY: inline; FONT-WEIGHT: bold; TEXT-DECORATION: underline"> December 15, 2014</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Date of earliest event reported)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 18pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline">The Eastern Company</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;(Exact name of Registrant as specified in its charter)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;</font><br>
+&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline">Connecticut</font></div>
+</td>
+<td valign="top" width="26%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline">0-599</font></div>
+</td>
+<td valign="top" width="23%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold; TEXT-DECORATION: underline">06-0330020</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(State or other jurisdiction</font></div>
+</td>
+<td valign="top" width="26%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Commission File Number)</font></div>
+</td>
+<td valign="top" width="23%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(IRS Employer</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">of incorporation)</font></div>
+</td>
+<td valign="top" width="26%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="23%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">identification No.)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline; TEXT-DECORATION: underline">112 Bridge Street, Naugatuck, Connecticut</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font style="DISPLAY: inline; TEXT-DECORATION: underline">06770</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Address of principal executive offices)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<font id="TAB1" style="MARGIN-LEFT: 12pt"></font>(Zip Code)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font style="DISPLAY: inline; TEXT-DECORATION: underline">(203) 729-2255</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160;(Registrant&#8217;s telephone number, including area code)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">________________________________________________</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(Former name or former address, if changed since last report)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">[ ]&#160;&#160;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">[ ]&#160;&#160;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">[ ]&#160;&#160;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">[ ]&#160;&#160;Pre-commencement communications pursuant to Rule 13e-4( c) under the Exchange Act (17 CFR 240.13e-4( c))</font></div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Section 7 &#8211; Regulation FD</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>ITEM 7.01 - Regulation FD Disclosure</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 72pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">On December 15, 2014, pursuant to an Asset Purchase Agreement dated December 15, 2014 between the Registrant and Argo Transdata Corp., a Connecticut corporation (the &#8220;Seller&#8221;), the Registrant acquired certain assets and assumed certain liabilities of the Seller.&#160;&#160;&#160;See attached press release.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Section 9 &#8211; Financial Statements and Exhibits</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>ITEM 9.01 - (d) Exhibits</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" id="list" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr valign="top">
+<td align="right" style="WIDTH: 125px">
+<div><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(99)&#160;&#160;</font></div>
+</td>
+<td width="1112">
+<div style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Press Release dated December 15, 2014 announcing an Asset Purchase Agreement between the Registrant and Argo Transdata Corp.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">SIGNATURES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Pursuant to the requirements of the Securities Exchange Act of 1934, The Registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td valign="middle" width="35%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="middle" width="39%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">The Eastern Company</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td valign="middle" width="35%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Date: <font style="TEXT-DECORATION: underline">December 15, 2014</font></font></div>
+</td>
+<td valign="middle" width="39%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; TEXT-DECORATION: underline">/s/John L. Sullivan III</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="35%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="middle" width="39%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">John L. Sullivan III</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Vice President and CFO</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>ex99agro.htm
+<DESCRIPTION>PRESS RELEASE
+<TEXT>
+<html>
+<head>
+    <title>ex99agro.htm</title>
+    <!--Licensed to: The Eastern Company-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Exhibit 99</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">FOR IMMEDIATE RELEASE</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font><br>
+&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">December 15, 2014</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">THE EASTERN COMPANY ACQUIRES ASSETS AND BUSINESS OF ARGO TRANSDATA</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold">Naugatuck, CT</font> &#8211; The Eastern Company (NASDAQ-EML) today announced that it has completed the acquisition of the Assets and Business of Argo Transdata located in Clinton, Connecticut.&#160;&#160;Argo is a manufacturer and supplier of printed circuit board assemblies used in medical devices, measurement and control equipment and in many other industrial products and has been operating successfully since 1969.&#160;&#160;The terms of the transaction were not disclosed. The acquisition will increase sales by approximately 4% and will be accretive to Eastern earnings.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Mr. Leonard F. Leganza, Chairman, President and CEO stated: &#8220;The acquisition of Argo by Eastern, as have several other acquisitions, will also be an excellent addition for The Eastern Company. Argo&#8217;s business, like that of Eastern, is as a manufacturer of components that, in most cases, are found and used in products made by Original Equipment Manufacturers. In addition, this business represents a new initiative and further diversification of Eastern&#8217;s markets and security segments. Its operations will become part of our Security Products Group which utilizes printed circuit boards in several of its products.&#160;We plan to expand this business in the coming years both organically and through acquisitions of similar and technologically related companies.&#8221;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Mr. John Hughes, the outgoing President of Argo, stated, &#8220;We are delighted that Eastern will be taking over the Argo business.&#160;&#160;Eastern shares our strong focus on product quality and customer service that have been the hallmarks of our business since its inception in 1969. I believe that Argo&#8217;s customers and its employees will be in good hands with The Eastern Company.&#8221;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The Eastern Company is a 156-year old manufacturer of industrial hardware, security products and metal castings.&#160;&#160;It operates from eleven locations in the U.S., Canada, Mexico, Taiwan and China.&#160;&#160;The diversity of the Company&#8217;s products helps it respond to the changing requirements of a broad array of markets.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font style="DISPLAY: inline; TEXT-DECORATION: underline">Forward-Looking Statements:</font> Information in this news release contains statements which reflect the Company&#8217;s current expectations regarding its future operating performance and achievements.&#160;&#160;Actual results may differ due to the many economic uncertainties that affect the Company&#8217;s business environment.&#160;&#160;Further information about the potential factors which could affect the Company&#8217;s financial results is included in the Company&#8217;s reports and filings with the Securities and Exchange Commission.&#160;&#160;The Company is not obligated to update or revise the aforementioned statements for those new developments.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Contact:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Leonard F. Leganza or John L. Sullivan III</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>(203) 729-2255</font></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

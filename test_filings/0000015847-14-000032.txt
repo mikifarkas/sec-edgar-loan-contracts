@@ -1,0 +1,358 @@
+<SEC-DOCUMENT>0000015847-14-000032.txt : 20141105
+<SEC-HEADER>0000015847-14-000032.hdr.sgml : 20141105
+<ACCEPTANCE-DATETIME>20141105153810
+ACCESSION NUMBER:		0000015847-14-000032
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20141105
+ITEM INFORMATION:		Submission of Matters to a Vote of Security Holders
+FILED AS OF DATE:		20141105
+DATE AS OF CHANGE:		20141105
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BUTLER NATIONAL CORP
+		CENTRAL INDEX KEY:			0000015847
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		IRS NUMBER:				410834293
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-01678
+		FILM NUMBER:		141196728
+
+	BUSINESS ADDRESS:	
+		STREET 1:		19920 W 161ST ST
+		CITY:			OLATHE
+		STATE:			KS
+		ZIP:			66062
+		BUSINESS PHONE:		8167809595
+
+	MAIL ADDRESS:	
+		STREET 1:		19920 W 161ST ST
+		CITY:			OLATHE
+		STATE:			KS
+		ZIP:			66062
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NATIONAL CONNECTOR CORP
+		DATE OF NAME CHANGE:	19701009
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>am8kfy14.htm
+<DESCRIPTION>8K FY14 ANNUAL SHAREHOLDER MEETING RESULTS
+<TEXT>
+<html>
+<head>
+<title>&#160;</title>
+<!--Licensed to: Butler National Corporation
+    Document created using Disclosure Solutions PROFILE 3.0.2.0
+    Copyright 1995 - 2014 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">
+<hr style="BORDER-TOP: black 4px solid; HEIGHT: 10px; BORDER-BOTTOM: black 1px solid; COLOR: #ffffff; BACKGROUND-COLOR: #ffffff">
+UNITED STATES<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font>SECURITIES AND EXCHANGE COMMISSION<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> WASHINGTON, DC 20549</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">FORM 8-K</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">CURRENT REPORT<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: center"><br>
+<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> Date of report (Date of earliest event reported) November 5, 2014</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: center"><br>
+<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold"><u>BUTLER NATIONAL CORPORATION</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> (Exact Name of Registrant as Specified in its Charter)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold"><u>Kansas</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> (State or Other Jurisdiction of Incorporation)</div>
+
+<table id="6c9fe7ae095f40fbb01b176177ed5cc1" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 47.09%; VERTICAL-ALIGN: top; BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold">0-1678</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font>(Commission File Number)<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></font> &#160;</div>
+</td>
+<td style="WIDTH: 52.91%; VERTICAL-ALIGN: top; BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold">41-0834293</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font>(IRS Employer Identification No.)<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></font> &#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 47.09%; VERTICAL-ALIGN: top; BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold">19920 W. 161</font><sup style="vertical-align: text-top; line-height: 1; font-size: smaller;">st</sup><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold"> Street, Olathe, Kansas</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font>(Address of Principal Executive Offices)<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></font> &#160;</div>
+</td>
+<td style="WIDTH: 52.91%; VERTICAL-ALIGN: top; BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold">66062</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font>(Zip Code)<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></font> &#160;</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold"><u>913-780-9595</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> (Registrant's Telephone Number, Including Area Code)</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold"><u>Not Applicable</u></font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font>(Former Name or Former Address, if Changed Since Last Report)<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></font><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-STYLE: italic">see </font>General Instruction A.2. below):</div>
+
+<div><br>
+</div>
+
+<table id="4111831ec9bb4c0288ab6b2438fdc3e9" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 100%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 18pt; TEXT-INDENT: -18pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Wingdings">o</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 6pt">&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div>
+
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 18pt; TEXT-INDENT: -18pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Wingdings">o</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 6pt">&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div>
+
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 44.1pt; TEXT-INDENT: -44.1pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Wingdings">o</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 5.51pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div>
+
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 44.1pt; TEXT-INDENT: -44.1pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Wingdings">o</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 5.51pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div>
+</td>
+</tr>
+</table>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<table id="d8392f9fb3a245cca5a3c9555e8a5839" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.04%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left">Item 5.07</div>
+</td>
+<td style="WIDTH: 86.96%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif">Submission of Matters to Vote of Security Holders<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></font> &#160;</div>
+</td>
+</tr>
+</table>
+
+<div style="TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif">Butler National Corporation Annual Meeting of Shareholders was held on November 4, 2014 (the "Annual Meeting").&#160; At the Annual Meeting, 42,757,709 shares of common stock, or approximately 69% of the 61,493,092 shares of common stock outstanding and entitled to vote at the Annual Meeting, were present in person or by proxies.<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font><br>
+<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font>Set forth below are the matters acted upon by Butler National Corporation shareholders at the Annual Meeting, and the final voting results on each matter.<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></font><br>
+</div>
+
+<div>
+<table id="7e3613cdd49049af9c05e0c3a55818e3" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt; VERTICAL-ALIGN: top; align: right">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left">1.</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold">Election of Directors.</font>&#160; Two persons were nominated by the Board of Directors for election as directors of Butler National Corporation, to hold office for a three year term expiring at the 2017 annual meeting of shareholders and until his or her successors are duly elected and qualified.&#160; The nominees were incumbent directors, no other person was nominated and the nominees were elected.&#160; There were 25,063,125 broker non-votes with respect to each nominee.&#160; The votes cast for or against, as well as abstentions with respect to, each nominee were as follows:<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></div>
+</td>
+</tr>
+</table>
+</div>
+
+<table id="dcad36728fba442b9cb43f21ecaac672" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 22.96%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> Name of Director</div>
+</td>
+<td style="WIDTH: 27.05%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> Shares of Common Stock Voted For</div>
+</td>
+<td style="WIDTH: 25%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: center">Shares of Commons Stock Voted Against/Withheld</div>
+</td>
+<td style="WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> Abstentions</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 22.96%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left">David B. Hayden</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 27.05%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: center">16,214,467</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 25%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: center">1,480,117</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 24.99%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 36pt">0</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 22.96%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left">Michael J. Tamburelli</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 27.05%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: center">16,240,042</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 25%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: center">1,454,542</div>
+</td>
+<td style="BORDER-TOP: #000000 2px solid; WIDTH: 24.99%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left; MARGIN-LEFT: 36pt">0</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left">Having received a plurality of the votes cast by holders of common stock at the Annual Meeting, Mr. David B. Hayden and Mr. Michael J. Tamburelli were elected as directors for the coming three year term scheduled to end at the 2017 Annual Meeting.</div>
+
+<div><br>
+</div>
+
+<div>
+<table id="6dd34d7cfce74fb3869be50af1568913" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt; VERTICAL-ALIGN: top; align: right">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">2.</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold">Ratification of Selection of L.L. Bradford and Company, LLC as Auditors.&#160; </font>A resolution that the shareholders ratify the selection and appointment of L.L. Bradford and Company, LLC as the independent registered public accounting firm for Butler National Corporation for the year ending April 30, 2015 was submitted to, and voted upon by, the shareholders.&#160; There were 42,486,618 shares of common stock voted in favor of, and 247,337 shares of common stock voted against said resolution.&#160; The holders of 23,754 shares of common stock abstained and there were 0 broker non-votes.&#160; Having received the affirmative vote of the holders of at least a majority of shares of common stock outstanding and entitled to vote at the Annual Meeting, the appointment of L.L. Bradford and Company, LLC was ratified.<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></div>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table id="b6c1866ea8254ee59e83362840a18ce6" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 13.5pt; VERTICAL-ALIGN: top; align: right">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: left">3.</div>
+</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold">Advisory Vote on Executive Compensation.&#160; </font>An advisory vote on executive compensation was submitted to, and voted upon by, the shareholders.&#160; There were 16,317,038 shares of common stock voted in favor of, and 1,357,996 shares of common stock voted against, said resolution.&#160; The holders of 19,550 shares of common stock abstained and there were 25,063,125 broker non-votes.&#160; Based on these results and consistent with a majority of votes cast with respect to this matter,&#160;the Company's Board of Directors has adopted a policy to hold an advisory vote on executive compensation every year.<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></div>
+</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<hr id="DSPFPageBreak" style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; PAGE-BREAK-AFTER: always; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">SIGNATURES</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</div>
+
+<div><br>
+</div>
+
+<table id="e21e25b3085b409598833388c5b55555" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman', Times, serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 46.35%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> &#160;</div>
+</td>
+<td style="WIDTH: 53.65%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif">BUTLER NATIONAL CORPORATION<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font>(Registrant)<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></font> &#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 46.35%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left">November 5, 2014<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> Date</div>
+</td>
+<td style="WIDTH: 53.65%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif">/s/ Clark D. Stewart<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font>Clark D. Stewart<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font>(President and Chief Executive Officer)<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font></font> &#160;</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 46.35%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left">November 5, 2014<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> Date</div>
+</td>
+<td style="WIDTH: 53.65%; VERTICAL-ALIGN: top">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left">/s/ Craig D. Stewart</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif; TEXT-ALIGN: left">Craig D. Stewart<font style="FONT-SIZE: 10pt; FONT-FAMILY: ''Times New Roman'', Times, serif"><br>
+</font> (Chief Financial Officer)</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div>
+<hr style="BORDER-TOP: black 1px solid; HEIGHT: 10px; BORDER-BOTTOM: black 4px solid; COLOR: #ffffff; BACKGROUND-COLOR: #ffffff">
+<br>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

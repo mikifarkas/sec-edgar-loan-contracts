@@ -1,0 +1,1476 @@
+<SEC-DOCUMENT>0000008177-14-000013.txt : 20141110
+<SEC-HEADER>0000008177-14-000013.hdr.sgml : 20141110
+<ACCEPTANCE-DATETIME>20141110140009
+ACCESSION NUMBER:		0000008177-14-000013
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20140930
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141110
+DATE AS OF CHANGE:		20141110
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATLANTIC AMERICAN CORP
+		CENTRAL INDEX KEY:			0000008177
+		STANDARD INDUSTRIAL CLASSIFICATION:	LIFE INSURANCE [6311]
+		IRS NUMBER:				581027114
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			0228
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-03722
+		FILM NUMBER:		141207927
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4370 PEACHTREE RD NE
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30319
+		BUSINESS PHONE:		4042665500
+
+	MAIL ADDRESS:	
+		STREET 1:		4370 PEACHTREE ROAD
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30319
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>form8k_3rdqtr2014.htm
+<DESCRIPTION>CURRENT REPORT
+<TEXT>
+<html>
+<head>
+    <title>form8k_3rdqtr2014.htm</title>
+    <!--Licensed to: atla2010-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;UNITED STATES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">WASHINGTON, D.C. 20549</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">FORM 8-K</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">CURRENT REPORT</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td align="left" colspan="2" valign="top" width="40%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Date of report (Date of earliest event reported)</font></div>
+</td>
+<td align="left" colspan="4" valign="top" width="40%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">November 10, 2014 (November 10, 2014)</font></div>
+</td>
+</tr><tr>
+<td colspan="2" valign="top" width="40%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td colspan="4" valign="top" width="40%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td colspan="6" valign="top" width="80%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 12pt; FONT-WEIGHT: bold">ATLANTIC AMERICAN CORPORATION</font></div>
+</td>
+</tr><tr>
+<td colspan="6" valign="top" width="80%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Exact name of registrant as specified in its charter)</font></div>
+</td>
+</tr><tr>
+<td colspan="2" valign="top" width="40%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td colspan="4" valign="top" width="40%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Georgia</font></div>
+</td>
+<td colspan="3" valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">0-3722</font></div>
+</td>
+<td colspan="2" valign="top" width="27%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">58-1027114</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(State or other jurisdiction</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">of incorporation)</font></div>
+</td>
+<td colspan="3" valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Commission File Number)</font></div>
+</td>
+<td colspan="2" valign="top" width="27%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(IRS Employer</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Identification No.)</font></div>
+</td>
+</tr><tr>
+<td colspan="2" valign="top" width="40%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td colspan="4" valign="top" width="40%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" colspan="5" valign="top" width="69%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">4370 Peachtree Road, N.E., Atlanta, Georgia</font></div>
+</td>
+<td valign="top" width="11%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">30319</font></div>
+</td>
+</tr><tr>
+<td align="left" colspan="5" valign="top" width="69%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;&#160;&#160;&#160;(Address of principal executive offices)</font></div>
+</td>
+<td valign="top" width="11%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Zip Code)</font></div>
+</td>
+</tr><tr>
+<td colspan="2" valign="top" width="40%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td colspan="4" valign="top" width="40%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" colspan="3" valign="top" width="44%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Registrant&#8217;s telephone number, including area code</font></div>
+</td>
+<td align="left" colspan="3" valign="top" width="36%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(404) 266-5500</font></div>
+</td>
+</tr><tr>
+<td colspan="2" valign="top" width="40%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td colspan="4" valign="top" width="40%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td colspan="6" valign="top" width="80%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">N/A</font></div>
+</td>
+</tr><tr>
+<td colspan="6" valign="top" width="80%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Former name or former address, if changed since last report)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Item 2.02.<font style="DISPLAY: inline; FONT-WEIGHT: bold">&#160;&#160;Results of Operations and Financial Condition</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">On November 10, 2014, Atlantic American Corporation (the &#8220;Registrant&#8221;) reported its results of operations for its third quarter ended September 30, 2014. A copy of the press release issued by the Registrant concerning the foregoing results is furnished herewith as Exhibit 99.1 and is incorporated herein by reference.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Item 9.01.<font style="DISPLAY: inline; FONT-WEIGHT: bold">&#160;&#160;Financial Statements and Exhibits</font></font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">(d) Exhibits</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">99.1 Press Release, dated November 10, 2014, reporting the results of operations of the Registrant for its third quarter ended September 30, 2014.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">The information contained herein and in the accompanying exhibit shall not be incorporated by reference into any filing of the Registrant, whether made before or after the date hereof, regardless of any general incorporation language in such filing, unless expressly incorporated by specific reference to such filing. The information in this report, including the exhibit hereto, shall not be deemed to be &#8220;filed&#8221; for purposes of Section 18 of the Securities Exchange Act of 1934,&#160;&#160;or otherwise subject to the liabilities of that section or Sections 11 and 12(a)(2) of the Securities Act of 1933.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SIGNATURES</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, hereunto duly authorized.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font></font>
+
+<div>&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="50%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<tr>
+<td colspan="2" width="50%" style="BORDER-LEFT: black 3px; BORDER-RIGHT: black 87px"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; ATLANTIC AMERICAN CORPORATION</font></td>
+</tr><tr>
+<td width="50%" style="TEXT-ALIGN: right; BORDER-LEFT: black 3px; BORDER-RIGHT: black 87px"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr><tr>
+<td width="50%" style="BORDER-LEFT: black 3px; PADDING-BOTTOM: 2px; BORDER-RIGHT: black 87px"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;</font>By:</font></td>
+<td width="50%" style="BORDER-BOTTOM: black 2px solid"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;/s/ John G. Sample, Jr.<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font></font></td>
+</tr><tr>
+<td width="50%" style="BORDER-LEFT: black 3px; BORDER-RIGHT: black 87px"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;John G. Sample, Jr.</font></td>
+</tr><tr>
+<td width="50%" style="BORDER-LEFT: black 3px; BORDER-RIGHT: black 87px"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+<td width="50%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;Senior Vice President and Chief Financial Officer</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;&#160;</font>Date:&#160;&#160;November 10, 2014</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">EXHIBIT INDEX</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Exhibits:</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Exhibit 99.1&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Press release dated November 10, 2014</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99..1
+<SEQUENCE>2
+<FILENAME>pressrelease_11102014.htm
+<DESCRIPTION>PRESS RELEASE DATED 11/10/2014
+<TEXT>
+<html>
+<head>
+    <title>pressrelease_11102014.htm</title>
+    <!--Licensed to: atla2010-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">
+<br>
+<br>
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">ATLANTIC AMERICAN REPORTS INCREASED YEAR TO DATE OPERATING INCOME</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div>&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="100%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font><font style="DISPLAY: inline; FONT-FAMILY: times new roman">&#9679;&#160;&#160;&#160;<font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Insurance premiums and operating earnings increase 6.9% and 2.0%, respectively, during the nine month period ended September 30, 2014 as compared to the comparable period in 2013.</font></font></font></td>
+</tr><tr>
+<td width="100%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font><font style="DISPLAY: inline; FONT-FAMILY: times new roman">&#9679;&#160;&#160;&#160;<font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Debt reduced by $7.5 million in the quarter ended September 30, 2014.</font></font></font></td>
+</tr><tr>
+<td width="100%"><font style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">ATLANTA, Georgia, November 10, 2014 - Atlantic American Corporation (Nasdaq-AAME) today reported net income of $1.5 million, or $0.06 per diluted share, for the three month period ended September 30, 2014, compared to net income of $2.7 million, or $0.12 per diluted share, for the three month period ended September 30, 2013.&#160;&#160;For the nine month period ended September 30, 2014, net income was $3.1 million, or $0.13 per diluted share, compared to net income of $9.6 million, or $0.42 per diluted share, for the comparable period in 2013.&#160;&#160;Realized investment gains for the three month and nine month periods ended September 30, 2014 were $0.8 million and $1.4 million, respectively, decreasing from $2.3 million and $8.4 million, respectively, in the comparable periods in 2013.&#160;&#160;Included in net income for the three month and nine month periods ended September 30, 2014 was $0.8 million in other income resulting from the open market purchase of Company debt at a discount.&#160;&#160;&#160;Operating income (income before income taxes and realized investment and other gains, net) for the three month period ended September 30, 2014 was a loss of $11,000, as compared to $406,000 of operating income for the three month period ended September 30, 2013.&#160;&#160;For the nine month period ended September 30, 2014, operating income was $1.4 million, or 2.0% higher than the $1.3 million of operating income for the comparable nine month period of 2013.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Total revenues for the three month period ended September 30, 2014 were $42.7 million, decreasing 1.4% from $43.2 million for the three month period ended September 30, 2013.&#160;&#160;Insurance premiums during this quarter decreased nominally from the comparable 2013 premiums.&#160;&#160;For the nine month period ended September 30, 2014, total revenues were $125.4 million, increasing slightly from the comparable 2013 period revenues of $124.5 million.&#160;&#160;Insurance premiums during the nine month period ended September 30, 2014 increased $7.4 million, or 6.9%, from the comparable period in 2013.&#160;&#160;Premiums earned from the Company&#8217;s life and health and property and casualty operations were up 2.3% and 17.1%, respectively for the nine month period ended September 30, 2014.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Commenting, Hilton H. Howell, Jr., chairman, president and chief executive officer, stated, &#8220;Our premium growth this year has been good; however, it leveled off during this current quarter as rate increases resulted in decreased sales activity.&#160;&#160;We have been closely monitoring our new business activity and aggressively working to not only diversify our product offering but also update our existing products to be not only more cost competitive but reflective of consumer needs.&#160;&#160;Licensing and product approval in our recently acquired company, Bankers Fidelity Assurance Company, has been progressing well and we believe that future quarters will reflect the substantial efforts which have been put forth.&#160;&#160;Our previously announced special $0.02 per share dividend to shareholders of record on November 14, 2014 and to be paid on or about December 5, 2014 is reflective of our recent successes and the confidence we have in our Company going forward.&#8221;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Atlantic American is an insurance holding company involved through its subsidiary companies in specialty markets of the life, health, and property and casualty insurance industries.&#160;&#160;Its principal subsidiaries consist of American Southern Insurance Company, American Safety Insurance Company, Bankers Fidelity Life Insurance Company and Bankers Fidelity Assurance Company.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt">Note regarding Private Securities Litigation Reform Act: Except for historical information contained herein, this press release contains forward-looking statements that involve a number of risks and uncertainties.&#160;&#160;Actual results could differ materially from those indicated by such forward-looking statements due to a number of factors and risks detailed from time to time in statements and reports that Atlantic American Corporation files with the Securities and Exchange Commission.</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="35%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">For further information contact:</font></div>
+</td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="top" width="32%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="35%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">John G. Sample, Jr.</font></div>
+</td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="32%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Hilton H. Howell, Jr.</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="35%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Senior Vice President and Chief Financial Officer</font></div>
+</td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="32%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Chairman, President &amp; CEO</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="35%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Atlantic American Corporation</font></div>
+</td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="32%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Atlantic American Corporation</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="35%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">404-266-5501</font></div>
+</td>
+<td valign="top" width="7%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" valign="top" width="32%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">404-266-5505</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block">&#160;</div>
+</td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font></div>
+
+<div id="PGBRK" style="TEXT-INDENT: 0pt; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">&#160;</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Atlantic American Corporation</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Financial Data</font></div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td colspan="3" valign="bottom" width="22%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Three months ended</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td colspan="3" valign="bottom" width="22%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Nine months ended</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td colspan="3" valign="bottom" width="22%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">September 30,</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td colspan="3" valign="bottom" width="22%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">September 30,</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-STYLE: italic; DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(Unaudited; In thousands, except per share data)</font></div>
+</td>
+<td valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2014</font></div>
+</td>
+<td valign="bottom" width="2%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2013</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2014</font></div>
+</td>
+<td valign="bottom" width="2%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2013</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Insurance premiums</font></div>
+</td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Life and health</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;25,146</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;25,248</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$&#160;&#160;&#160;&#160;&#160;&#160;76,069</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$&#160;&#160;&#160;&#160;&#160;&#160;74,359</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Property and casualty</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">13,191</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">13,137</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">39,142</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">33,418</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Investment income</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2,678</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2,534</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">7,875</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">8,213</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Realized investment gains, net</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">848</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2,283</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1,441</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">8,415</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Other income</font></div>
+</td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">793</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">45</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">875</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">140</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 18pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Total revenue</font></div>
+</td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">42,656</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">43,247</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">125,402</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">124,545</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Insurance benefits and losses incurred</font></div>
+</td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 9pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Life and health</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">17,564</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">17,632</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">51,784</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">53,614</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 9pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Property and casualty</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">9,530</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">9,154</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">29,207</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">21,533</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Commissions and underwriting expenses</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">10,238</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">10,396</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">30,219</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">30,081</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Interest expense</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">388</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">442</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1,251</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1,457</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Other</font></div>
+</td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">3,349</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2,934</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">9,375</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">8,097</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;&#160;Total benefits and expenses</font></div>
+</td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">41,069</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">40,558</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">121,836</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">114,782</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Income before income taxes</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">1,587</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2,689</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">3,566</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">9,763</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Income tax expense</font></div>
+</td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">136</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">9</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">418</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">201</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Net income</font></div>
+</td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1,451</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2,680</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;3,148</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;9,562</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Basic earnings per common share</font></div>
+</td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.06</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.12</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.13</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.43</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Diluted earnings per common share</font></div>
+</td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.06</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.12</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.13</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;0.42</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Reconciliation of net income to non-GAAP measurement</font></div>
+</td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Net income</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1,451</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2,680</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;3,148</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;9,562</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Income tax expense</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">136</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">9</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">418</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">201</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Realized investment and other gains, net</font></div>
+</td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(1,598)</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(2,283)</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(2,191)</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">(8,415)</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Operating (loss) income</font></div>
+</td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(11)</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;406</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1,375</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%" style="BORDER-BOTTOM: black 4px double">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">$&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1,348</font></div>
+</td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="left" colspan="2" valign="bottom" width="12%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; September 30,</font></div>
+</td>
+<td colspan="2" valign="bottom" width="12%" style="TEXT-ALIGN: left">
+<div style="TEXT-ALIGN: left; TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;December 31,</font></div>
+</td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Selected Balance Sheet Data</font></div>
+</td>
+<td valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2014</font></div>
+</td>
+<td align="left" valign="bottom" width="2%" style="BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">2013</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td valign="bottom" width="31%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Total cash and investments</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0.1pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$&#160;&#160;&#160;&#160;&#160;&#160;251,923</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">$&#160;&#160;262,063</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: -36pt; DISPLAY: block; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;&#160;&#160; Insurance subsidiaries</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0.1pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">231,004</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">228,605</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: -36pt; DISPLAY: block; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;&#160;&#160; Parent and other</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0.1pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">20,919</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">33,458</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Total assets</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0.1pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">316,925</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">319,381</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Insurance reserves and policyholder funds</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0.1pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">165,564</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">162,373</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Debt</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0.1pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">33,738</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">41,238</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Total shareholders' equity</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0.1pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">102,182</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">100,927</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Book value per common share</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0.1pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">4.64</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">4.47</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">Statutory capital and surplus</font></div>
+</td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: -36pt; DISPLAY: block; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;&#160;&#160; Life and health</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0.1pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">33,888</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">34,530</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="bottom" width="31%">
+<div style="TEXT-INDENT: -36pt; DISPLAY: block; MARGIN-LEFT: 36pt; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160;&#160;&#160; Property and casualty</font></div>
+</td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0.1pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">38,940</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td align="right" valign="bottom" width="10%">
+<div style="TEXT-INDENT: 0pt; DISPLAY: block; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">39,092</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="2%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+<td valign="bottom" width="10%"><font style="DISPLAY: inline; FONT-FAMILY: times new roman; FONT-SIZE: 10pt">&#160; </font></td>
+</tr></table>
+</div>
+
+<div style="TEXT-INDENT: 0pt; DISPLAY: block"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="TEXT-INDENT: 0pt; WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; FONT-SIZE: 8pt">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

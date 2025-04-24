@@ -1,0 +1,2208 @@
+<SEC-DOCUMENT>0000016160-14-000034.txt : 20141223
+<SEC-HEADER>0000016160-14-000034.hdr.sgml : 20141223
+<ACCEPTANCE-DATETIME>20141223165542
+ACCESSION NUMBER:		0000016160-14-000034
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20141223
+ITEM INFORMATION:		Results of Operations and Financial Condition
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141223
+DATE AS OF CHANGE:		20141223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CAL-MAINE FOODS INC
+		CENTRAL INDEX KEY:			0000016160
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE PRODUCTION - LIVESTOCK & ANIMAL SPECIALTIES [0200]
+		IRS NUMBER:				640500378
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04892
+		FILM NUMBER:		141307495
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3320 WOODROW WILSON DRIVE
+		CITY:			JACKSON
+		STATE:			MS
+		ZIP:			39209
+		BUSINESS PHONE:		6019486813
+
+	MAIL ADDRESS:	
+		STREET 1:		3320 WOODROW WILSON DR
+		CITY:			JACKSON
+		STATE:			MS
+		ZIP:			39209
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CAL MAINE FOODS INC
+		DATE OF NAME CHANGE:	19961018
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHICKEN CHEF SYSTEMS INC
+		DATE OF NAME CHANGE:	19710315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>calm-20141223x8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<!--HTML document created with Rivet Software Powered by Crossfire 5.11.95.0-->
+<!--Created on: 12/23/2014 3:52:17 PM-->
+<html>
+	<head>
+		<title>
+			calm-8kpressrelease20141129
+		</title>
+	</head>
+	<body><div style="margin-left:72pt;margin-right:45pt;"><div style="width:100%">
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+
+			<font style="display: inline;font-family:Arial;font-size:11pt;">&nbsp;</font>
+
+		</p>
+
+</div>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<a name="_GoBack"></a><font style="display: inline;font-size:11pt;">UNITED STATES</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">SECURITIES AND EXCHANGE COMMISSION</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">WASHINGTON, DC 20549</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">CURRENT REPORT</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">FORM 8-K</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Pursuant to Section 13 or 15(d) of the Securities Exchange Act</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Date of Report (Date of Earliest Event Reported): </font><font style="display: inline;font-size:11pt;">December</font><font style="display: inline;font-size:11pt;"> &nbsp;2</font><font style="display: inline;font-size:11pt;">3</font><font style="display: inline;font-size:11pt;">, 2014</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Cal-Maine Foods, Inc.</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(Exact name of registrant as specified in its charter)</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width: 100.00%;CellSpacing:0;background-color: #FFFFFF;margin-left:0pt;">
+			<tr style="CellSpacing:0;">
+				<td valign="middle" style="width:33.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="middle" style="width:33.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="middle" style="width:33.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Delaware</font></p>
+				</td>
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">000-04892</font></p>
+				</td>
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">64-0500378</font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(State or other jurisdiction</font></p>
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">of incorporation)</font></p>
+				</td>
+				<td valign="top" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(Commission File Number)</font></p>
+				</td>
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(IRS Employer</font></p>
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Identification No.)</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">3320 Woodrow Wilson Avenue</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Jackson, MS 39207</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(Address of principal executive offices (zip code))</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">601-948-6813</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(Registrant&#x2019;s telephone number, including area code)</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&#x2610;</font><font style="display: inline;font-size:11pt;"> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font><br /><font style="display: inline;font-size:11pt;"></font><font style="display: inline;font-size:11pt;">&#x2610;</font><font style="display: inline;font-size:11pt;"> Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font><br /><font style="display: inline;font-size:11pt;"></font><font style="display: inline;font-size:11pt;">&#x2610;</font><font style="display: inline;font-size:11pt;"> Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font><br /><font style="display: inline;font-size:11pt;"></font><font style="display: inline;font-size:11pt;">&#x2610;</font><font style="display: inline;font-size:11pt;"> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font>
+		</p>
+		<p><font size="1"> </font></p><hr size="3" style="color:#999999" width="100%" align="center"></hr><p style="page-break-after:always">&nbsp;</p><div style="width:100%">
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+
+			<font style="display: inline;font-family:Arial;font-size:11pt;">&nbsp;</font>
+
+		</p>
+
+</div>
+		<p style="margin:0pt;font-family:Times New Roman;;font-size: 11pt"><font style="display: inline;font-size:11pt;"></font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Item 2.02.</font><font style="display: inline;font-size:11pt;">&nbsp;&nbsp; </font><font style="display: inline;font-weight:bold;font-size:11pt;">Results of Operations and Financial Condition </font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">On </font><font style="display: inline;font-size:11pt;">December</font><font style="display: inline;font-size:11pt;"> 23</font><font style="display: inline;font-size:11pt;">, 2014</font><font style="display: inline;font-size:11pt;">, Cal-Maine Foods, Inc. (the &#x201C;Company&#x201D;) issued a press release announcing its financial results for the fiscal </font><font style="display: inline;font-size:11pt;">201</font><font style="display: inline;font-size:11pt;">5</font><font style="display: inline;font-size:11pt;">&nbsp;</font><font style="display: inline;font-size:11pt;">second</font><font style="display: inline;font-size:11pt;"> quarter</font><font style="display: inline;font-size:11pt;">&nbsp;</font><font style="display: inline;font-size:11pt;">ended</font><font style="display: inline;font-size:11pt;">&nbsp;</font><font style="display: inline;font-size:11pt;">November 29</font><font style="display: inline;font-size:11pt;">, 2014</font><font style="display: inline;font-size:11pt;">. A copy of the Company&#x2019;s press release is attached hereto as Exhibit 99.1 to this Current Report.</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Item 9.01.</font><font style="display: inline;font-size:11pt;">&nbsp;&nbsp; </font><font style="display: inline;font-weight:bold;font-size:11pt;">Financial Statements and Exhibits</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(</font><font style="display: inline;font-size:11pt;">d</font><font style="display: inline;font-size:11pt;">)</font><font style="display: inline;font-size:11pt;">&nbsp;&nbsp;</font><font style="display: inline;font-size:11pt;">Exhibits</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">99.1</font><font style="display: inline;font-size:11pt;">&nbsp;&nbsp;&nbsp;</font><font style="display: inline;font-size:11pt;">&nbsp;Press R</font><font style="display: inline;font-size:11pt;">elease issued by the Company on December</font><font style="display: inline;font-size:11pt;"> 23</font><font style="display: inline;font-size:11pt;">, 2014</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">SIGNATURES</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Pursuant to the requirements for the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-indent:36pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width: 100.00%;CellSpacing:0;background-color: #FFFFFF;margin-left:0pt;">
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:50.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:01.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:49.00%;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;background-color: #FFFFFF;height:1.00pt;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:50.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:01.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:49.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:239.25pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td colspan="2" valign="top" style="width:255.75pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-weight:bold;font-size:11pt;">CAL-MAINE FOODS, INC. </font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:239.25pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font><br /><font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:21.40pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font><br /><font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:234.35pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font><br /><font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:239.25pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Date: </font><font style="display: inline;font-size:11pt;">December</font><font style="display: inline;font-size:11pt;"> &nbsp;2</font><font style="display: inline;font-size:11pt;">3</font><font style="display: inline;font-size:11pt;">, 2014</font></p>
+				</td>
+				<td valign="top" style="width:21.40pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">By:&nbsp;&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:234.35pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">/s/&nbsp;</font><font style="display: inline;font-size:11pt;">Timothy A. Dawson</font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td colspan="2" valign="top" style="width:260.65pt;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:234.35pt;background-color: #FFFFFF;padding:0pt;"><hr style="border-bottom-style:solid;width:60%;height:.75pt; ;color:#000000" align="left"></hr>
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Timothy A. Dawson </font></p>
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Director, Vice President, and Chief Financial Officer</font><font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p><font size="1"> </font></p><hr size="3" style="color:#999999" width="100%" align="center"></hr>
+	</div></body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>calm-20141223ex991262d7d.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!--HTML document created with Rivet Software Powered by Crossfire 5.11.95.0-->
+<!--Created on: 12/23/2014 3:52:21 PM-->
+<html>
+	<head>
+		<title>
+			calm-Ex991 20141129
+		</title>
+	</head>
+	<body><div style="margin-left:72pt;margin-right:54pt;"><div style="width:100%">
+
+		<p style="margin:0pt;text-align:right;font-family:Times New Roman;font-size: 12pt">
+
+			<font style="display: inline;font-weight:bold;">Exhibit 99.1</font>
+
+		</p>
+
+</div>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<a name="_GoBack"></a><font style="display: inline;font-family:Arial;font-size:11pt;"><img src="calm-20141223ex991262d7dg001.jpg" style="width: 1.403472in; height: 0.725in" alt="CALM_logo"></font><font style="display: inline;font-family:Arial;font-size:11pt;;font-size: 11pt;font-family:Times New Roman;text-indent:0pt;margin-left:0pt;padding:0pt 36pt 0pt 0pt;"></font><font style="display: inline;font-family:Arial;font-size:11pt;"></font><font style="display: inline;font-family:Arial;font-size:11pt;"></font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="text-indent:0pt;margin-left:0pt; padding-right:110.5pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:left"><font style="display: inline;font-family:Arial;font-size:11pt;"></font></font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="text-indent:0pt;margin-left:0pt; padding-right:110.5pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:left"><font style="display: inline;font-family:Arial;font-size:11pt;"></font></font><a name="OLE_LINK11"></a><a name="OLE_LINK12"></a>
+		</p>
+		<p style="margin:0pt 0pt 0pt 36pt;line-height:normal;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin-left:108.9pt;">
+			<tr>
+				<td valign="top" style="width:54.00pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Contact:</font></p>
+				</td>
+				<td valign="top" style="width:232.85pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Dolph Baker, Chairman, President and CEO</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:54.00pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:232.85pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Timothy A. Dawson, Vice President and CFO</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:54.00pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:232.85pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">(601) 948-6813</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;text-align:center;font-family:Arial;font-weight:bold;font-size: 10pt">
+			<font style="display: inline;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 5pt">
+			<font style="display: inline;font-family:Arial;font-size:5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			&nbsp;
+		</p></div><div style="margin-left:72pt;margin-right:72pt;">
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 8pt">
+			<font style="display: inline;font-family:Arial;font-size:8pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Arial;font-weight:bold;font-size: 12pt">
+			<font style="display: inline;font-size:12pt;">CAL-MAINE FOODS, INC. REPORTS SECOND QUARTER FISCAL 201</font><font style="display: inline;font-size:12pt;">5 &nbsp;</font><font style="display: inline;font-size:12pt;">RESULTS</font>
+		</p>
+		<p style="margin:0pt;line-height:120%;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 9pt">
+			<font style="display: inline;font-family:Arial;font-weight:bold;font-size:9pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">JACKSON, Miss. (December </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">23</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">, 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">4</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">) &nbsp;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;font-family:Symbol;">&#xF0BE;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> Cal-Maine Foods, Inc. (NASDAQ: CALM) today announced results&nbsp;for the second quarter and six months ended November </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">29</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">, 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">4</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">Net sales for the second quarter of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">5</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> were $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">378.6</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> million, a </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">6.9</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> percent increase compared with net sales of $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">354.3</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> million for the second quarter of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">4</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.&nbsp;&nbsp;The Company reported net income of $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">36.6</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> million, or $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">0.76</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> per basic share and $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">0.76</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> per diluted share, for the second quarter of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">5</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> compared with $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">26.1</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;million, or&nbsp;$</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">0.54</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> per basic and </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">$</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">0.54</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">diluted share, for the second quarter of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">4</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:left"><font style="display: inline;font-family:Arial;font-size:10.5pt;">For the first six months of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">5</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">, net sales were $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">735.6 </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">million compared with net sales&nbsp;of $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">673.8 </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">million for the prior-year period.&nbsp;&nbsp;The Company reported net income of $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">64.3 </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">million, or $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">1.3</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">4</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;per basic&nbsp;share and $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">1.33</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> per diluted share, for the first half of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">5</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> compared with net income of $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">34.9</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> million, or $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">0</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">73</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;per basic&nbsp;share and $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">0.7</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">2</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> per diluted share,</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> for the year-earlier period.</font></font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="text-indent:0pt;margin-left:0pt; padding-right:18pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:left"><font style="display: inline;font-family:Arial;font-size:10.5pt;">The </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">net </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">income per share numbers for the second quarter and six month periods for fiscal 2015 and fiscal 2014 reflect the</font><font style="display: inline;font-family:Arial;font-size:11pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:11pt;">two-for-one stock split for shares of the Company&#x2019;s common stock and Class A common stock, effective O</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">ctober 31, 2014. </font></font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;;font-size: 10pt;font-family:Times New Roman;text-indent:0pt;margin-left:0pt;padding:0pt 36pt 0pt 0pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">Dolph Baker, chairman, president and chief executive officer of Cal-Maine Foods, Inc., stated, &#x201C;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">We are pleased with the continued growth in sales and improved operating performance for the second quarter of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">5</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.&nbsp; </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">These results reflect</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> both a 4.2</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> percent increase in </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">total dozens</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">of shell eggs sold </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">and 2.9 percent higher average selling prices compared with the second quarter of fiscal 2014.</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&#x201C;Our specialty egg sales continued to trend higher and accounted for </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">19.0</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">percent of dozens sold and 26.8 </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">percent of total shell egg sales revenue for the </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">second </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">quarter. Specialty eggs </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">continue to be </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">an important area of focus for Cal-Maine Food&#x2019;s growth strategy</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.&nbsp;&nbsp;We have recently expanded our market reach through our latest joint venture, Southwest Specialty Eggs, LLC, with licensing agreements for </font><font style="display: inline;font-family:Arial;font-size:11pt;">the sale of</font><font style="display: inline;font-family:Arial;font-style:italic;font-size:11pt;"> Egg-Land&#x2019;s Best&#xAE; </font><font style="display: inline;font-family:Arial;font-size:11pt;">and </font><font style="display: inline;font-family:Arial;font-style:italic;font-size:11pt;">Land O&#x2019; Lakes&#xAE;</font><font style="display: inline;font-family:Arial;font-size:11pt;"> branded specialty eggs, as well as </font><font style="display: inline;font-family:Arial;font-style:italic;font-size:11pt;">4Grain&#xAE;, Farmhouse Eggs&#xAE; a</font><font style="display: inline;font-family:Arial;font-size:11pt;">nd other premium brands in </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">Arizona, southern California and Nevada</font><font style="display: inline;font-family:Arial;font-size:11pt;">.&nbsp;&nbsp; </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">We will continue to identify ways to enhance our product mix </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">and provide a variety of healthy choices for our customers.</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&#x201D;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">Baker added, &#x201C;We experienced </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">strong demand and</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">favorable market</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> conditions</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> during the second quarter of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">5</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.&nbsp;&nbsp;Our feed costs</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">were </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">11.0 </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">percent lower than </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">the same period </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">a year ago</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">, and </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">10.6</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> percent lower </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">through </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">the first half of this fiscal year</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.&nbsp; </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">While </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">corn and soybean meal </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">basis prices are still at relatively high levels, we</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">expect to benefit from more stable feed costs in fiscal 2015 compared to our last fiscal year.</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> &nbsp; &nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&#x201C;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">Overall, our operations </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">have continued to perform very well </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">this quarter and </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">through the first half of </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">this fiscal year</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.&nbsp;&nbsp;O</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">perating income for the second quarter of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">5</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> was $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">55.6</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> million compared with $</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">40.9</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> million for the second quarter of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">4</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.&nbsp;&nbsp;These results reflect our </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">lower costs and our focused </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">efforts to be an efficient, low-cost producer</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> across all of the Company&#x2019;s operations.</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">We are pleased with our progress at our latest e</font><font style="display: inline;font-family:Arial;font-size:11pt;">xpansion projects in </font><font style="display: inline;font-family:Arial;font-size:11pt;">Florida, </font><font style="display: inline;font-family:Arial;font-size:11pt;">Kansas, </font>
+		</p>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">-MORE-</font>
+
+		</p>
+
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+
+			<font style="text-indent:0pt;margin-left:0pt; padding-right:133pt;"><font style="display: inline;font-family:Arial;font-weight:bold;">CAL-MAINE FOODS, INC.</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:78pt;text-align:left"><font style="display: inline;font-family:Arial;"></font><font style="display: inline;font-family:Arial;font-size:8pt;">POST OFFICE BOX 2960&nbsp;&nbsp;&nbsp; </font><font style="display: inline;font-family:Arial;">&#x25AA;</font><font style="display: inline;font-family:Arial;font-size:8pt;">&nbsp;</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:8pt;">JACKSON, MISSISSIPPI 39207</font></font>
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 8pt">
+
+			<font style="text-indent:0pt;margin-left:0pt; padding-right:178pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:left"><font style="display: inline;font-family:Arial;font-size:8pt;">PHONE&nbsp;&nbsp;601-948-6813</font></font><font style="display: inline;font-family:Arial;font-size:8pt;;font-size: 8pt;font-family:Times New Roman;text-indent:0pt;margin-left:0pt;padding:0pt 36pt 0pt 0pt;"></font><font style="display: inline;font-family:Arial;font-size:8pt;">FAX&nbsp;&nbsp;601-969-0905</font>
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr><p style="page-break-after:always">&nbsp;</p><div style="width:100%">
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+
+			<font style="display: inline;font-family:Arial;font-size:11pt;">C</font><font style="display: inline;font-family:Arial;font-size:11pt;">ALM Reports Second Quarter Fiscal 201</font><font style="display: inline;font-family:Arial;font-size:11pt;">5</font><font style="display: inline;font-family:Arial;font-size:11pt;"> Results</font>
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+
+			<font style="display: inline;font-family:Arial;font-size:11pt;">Page </font><font style="display: inline;font-family:Arial;font-size:11pt;">2</font>
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+
+			<font style="display: inline;font-family:Arial;font-size:11pt;">December </font><font style="display: inline;font-family:Arial;font-size:11pt;">23</font><font style="display: inline;font-family:Arial;font-size:11pt;">, 201</font><font style="display: inline;font-family:Arial;font-size:11pt;">4</font>
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+</div>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt"><font style="display: inline;font-family:Arial;font-size:11pt;">Kentucky and </font><font style="display: inline;font-family:Arial;font-size:11pt;">Texas</font><font style="display: inline;font-family:Arial;font-size:11pt;">,</font><font style="display: inline;font-family:Arial;font-size:11pt;"> and </font><font style="display: inline;font-family:Arial;font-size:11pt;">we believe </font><font style="display: inline;font-family:Arial;font-size:11pt;">the</font><font style="display: inline;font-family:Arial;font-size:11pt;"> additional capacity and improved efficiencies </font><font style="display: inline;font-family:Arial;font-size:11pt;">will result in</font><font style="display: inline;font-family:Arial;font-size:11pt;"> less dependence on outside egg purchases.&nbsp; </font><font style="display: inline;font-family:Arial;font-size:11pt;">We are also expanding our capacity for specialty eggs at both the Kansas and Kentucky facilities, which will enhance our ability to meet the needs of our customers.</font><font style="display: inline;font-family:Arial;font-size:11pt;">&#x201D;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;text-align:justify;text-justify:inter-ideograph;font-family:CG Times;font-size: 10pt">
+			<font style="text-indent:0pt;margin-left:0pt; padding-right:29.5pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:left"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">In closing, Baker added, </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&#x201C;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">We are very pleased with our performance through the first half of fiscal 2015 and look forward to the new opportunities ahead for Cal</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&#8209;Maine Foods.&nbsp;&nbsp;However, along with the rest of the egg industry, we will be closely monitoring the pending implementation of </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">Proposition 2 and Assembly Bill 1437 related to egg production standards and sales in California.&nbsp;&nbsp;This legislation, scheduled to be effective January 1, 2015, could have a significant impact on egg production throughout the country.&nbsp;&nbsp;While </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">it is too early to </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">determine</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> the outcome for our operations</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">, we will continue to manage the aspects of our business we can control.&nbsp;&nbsp;As such, we remain focused on the key elements of our growth strategy: identify value-added acquisition opportunities, provide the right product mix for our customers with expanded sales of specialty eggs, and maximiz</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">e</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> our operating efficiencies.&nbsp;&nbsp;We believe these efforts will continue to produce favorable results for our customers and shareholders in fiscal 2015</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">&#x201D; &nbsp;</font></font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">For the second quarter of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">5</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">, Cal-Maine Foods will pay a cash dividend of approximately $</font><a name="OLE_LINK3"></a><a name="OLE_LINK4"></a><font style="display: inline;font-family:Arial;font-size:10.5pt;">0.</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">252 </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">per&nbsp;share to holders of its common and Class A common stock.&nbsp;&nbsp;Pursuant to Cal-Maine Foods&#x2019; variable dividend policy, in each quarter for which the Company reports net income, the Company pays a cash dividend to shareholders in an amount equal to one-third of such quarterly income.&nbsp;&nbsp;No dividends are paid in a quarter for which the Company does not report net income. The amount paid could vary&nbsp;slightly&nbsp;based on the amount of outstanding shares on the record date.&nbsp;&nbsp;The dividend is payable February&nbsp;</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">12</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">,&nbsp;201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">5</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">, to shareholders of record on </font><font style="display: inline;font-family:Arial;font-size:10.5pt;">January 28</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">, 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">5</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">. Selected operating statistics for the second quarter and year to date periods of fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">5</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> compared with the prior year periods are shown below: </font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width:468.00pt;margin-left:0pt;">
+			<tr>
+				<td valign="bottom" style="width:164.00pt;padding:0pt 0pt 0pt 0pt;">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">&nbsp;</font></p>
+				</td>
+				<td colspan="2" valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;border-bottom:1pt solid #000000 ;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">13 Weeks Ended</font></p>
+				</td>
+				<td colspan="2" valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;border-bottom:1pt solid #000000 ;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">26 Weeks Ended</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:164.00pt;padding:0pt 0pt 0pt 0pt;">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">&nbsp;</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;border-bottom:1pt solid #000000 ;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">November </font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">29</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">, 201</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">4</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;border-bottom:1pt solid #000000 ;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">November 30</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">, 201</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">3</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;border-bottom:1pt solid #000000 ;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">November </font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">29</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">, 201</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">4</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;border-bottom:1pt solid #000000 ;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">November 30</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">, 201</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">3</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:164.00pt;padding:0pt 0pt 0pt 0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Dozen Eggs Sold (000)</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.1pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">263,448</font></font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.1pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">252,766</font></font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.1pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">515,171</font></font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.1pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">495,315</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:164.00pt;padding:0pt 0pt 0pt 0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Dozen Eggs Produced (000)</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">201,283</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.1pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">185,538</font></font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.1pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">393,498</font></font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.1pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">365,265</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:164.00pt;padding:0pt 0pt 0pt 0pt;">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:164.00pt;padding:0pt 0pt 0pt 0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">% Specialty Sales (dozen)</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>19.0%&nbsp;
+				</td>
+				<td valign="bottom" style="width:75.60pt;;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>16.4%&nbsp;
+				</td>
+				<td valign="bottom" style="width:75.60pt;;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>18.9%&nbsp;
+				</td>
+				<td valign="bottom" style="width:75.60pt;;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>16.3%&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:164.00pt;padding:0pt 0pt 0pt 0pt;">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:164.00pt;padding:0pt 0pt 0pt 0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Net Average Selling Price (dozen)</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.1pt;"><font style="display: inline;font-family:Arial;font-size:10.5pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">1.379</font></font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.1pt;"><font style="display: inline;font-family:Arial;font-size:10.5pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">1.340</font></font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.1pt;"><font style="display: inline;font-family:Arial;font-size:10.5pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">1.367</font></font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>1.297&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:164.00pt;padding:0pt 0pt 0pt 0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Feed Cost (dozen)</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.1pt;"><font style="display: inline;font-family:Arial;font-size:10.5pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">0</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">.</font><font style="display: inline;font-family:Arial;font-size:10.5pt;">432</font></font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.1pt;"><font style="display: inline;font-family:Arial;font-size:10.5pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">0.486</font></font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.1pt;"><font style="display: inline;font-family:Arial;font-size:10.5pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font><font style="display: inline;font-family:Arial;font-size:10.5pt;">0.457</font></font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>0.512&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:164.00pt;padding:0pt 0pt 0pt 0pt;">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;padding:0pt 4.3pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:164.00pt;padding:0pt 0pt 0pt 0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">% Specialty Sales Dollars</font></p>
+				</td>
+				<td valign="bottom" style="width:75.60pt;;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>26.8%&nbsp;
+				</td>
+				<td valign="bottom" style="width:75.60pt;;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>23.7%&nbsp;
+				</td>
+				<td valign="bottom" style="width:75.60pt;;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>26.8%&nbsp;
+				</td>
+				<td valign="bottom" style="width:75.60pt;;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>24.1%&nbsp;
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="text-indent:0pt;margin-left:0pt; padding-right:34pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:left"><font style="display: inline;font-family:Arial;font-size:10.5pt;"></font></font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">Cal-Maine Foods, Inc. is primarily engaged in the production, grading, packing and sale&nbsp;of fresh</font><font style="display: inline;font-family:Arial;font-size:10.5pt;"> shell&nbsp;eggs, including conventional, cage-free, organic and nutritionally-enhanced eggs.&nbsp;&nbsp;The&nbsp;Company, which is headquartered in&nbsp;Jackson, Mississippi, is the largest producer and distributor of fresh shell eggs in the United&nbsp;States and sells&nbsp;the&nbsp;majority of its shell eggs in approximately 29&nbsp;states across the southwestern, southeastern, mid-western and mid-Atlantic regions of the United States. </font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-style:italic;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">Statements contained in this press release that are not historical facts are forward-looking statements&nbsp;as that term is defined in the Private Securities Litigation Reform Act of 1995.&nbsp;&nbsp;The forward-looking statements are based on management&#x2019;s current intent, belief, expectations, estimates and projections regarding our company and our industry.&nbsp;&nbsp;These statements are not guarantees of future performance and involve risks, uncertainties, assumptions and other factors&nbsp;that are difficult to predict and may be beyond our control.&nbsp;&nbsp;The factors that could cause actual results to differ materially from those projected in the forward</font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">&#8209;looking statements include, among others, (i) the risk factors set forth in Item 1A of our Annual Report on Form 10-K for the fiscal year ended May 31, 2014, as updated by our </font>
+		</p>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+
+			<font style="display: inline;font-family:Arial;font-size:10pt;">-MORE-</font>
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr><p style="page-break-after:always">&nbsp;</p><div style="width:100%">
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+
+			<font style="display: inline;font-family:Arial;font-size:11pt;">C</font><font style="display: inline;font-family:Arial;font-size:11pt;">ALM Reports Second Quarter Fiscal 201</font><font style="display: inline;font-family:Arial;font-size:11pt;">5</font><font style="display: inline;font-family:Arial;font-size:11pt;"> Results</font>
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+
+			<font style="display: inline;font-family:Arial;font-size:11pt;">Page </font><font style="display: inline;font-family:Arial;font-size:11pt;">3</font>
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+
+			<font style="display: inline;font-family:Arial;font-size:11pt;">December </font><font style="display: inline;font-family:Arial;font-size:11pt;">23</font><font style="display: inline;font-family:Arial;font-size:11pt;">, 201</font><font style="display: inline;font-family:Arial;font-size:11pt;">4</font>
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+</div>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt"><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">subsequent Quarterly Reports on Form 10-Q and Current Reports on Form 8</font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">&#8209;K, (ii)&nbsp;the&nbsp;risks and hazards inherent in the shell egg business (including disease, pests, weather conditions&nbsp;and potential for recall), (iii)&nbsp;changes in the demand for and market prices of shell eggs and feed costs, (iv) risks, changes or obligations that could result from our future acquisition of new&nbsp;flocks or businesses, and (v) adverse results&nbsp;in pending litigation&nbsp;matters. SEC filings may be&nbsp;obtained from&nbsp;the SEC or the Company&#x2019;s website, </font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">www.calmainefoods.com</font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">.&nbsp;&nbsp;Readers are cautioned&nbsp;not to place undue reliance on forward-looking statements&nbsp;because, while we believe&nbsp;the&nbsp;assumptions on which&nbsp;the forward-looking statements are based are reasonable, there&nbsp;can be no assurance that these forward-looking statements will prove to be accurate.&nbsp;&nbsp;Further,&nbsp;the forward</font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">&#8209;looking statements&nbsp;included herein are only made as of the respective dates thereof, or if no&nbsp;date is stated, as of the&nbsp;date hereof.&nbsp;&nbsp;Except as otherwise required by law, we disclaim any intent&nbsp;or obligation to update&nbsp;publicly these forward-looking statements, whether as a&nbsp;result of new information, future events or otherwise.</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			&nbsp;
+		</p></div><div style="margin-left:72pt;margin-right:72pt;">
+		<p style="margin:0pt;line-height:normal;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+
+		</p>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">-END-</font>
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr><p style="page-break-after:always">&nbsp;</p><div style="width:100%">
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+
+			<font style="display: inline;font-family:Arial;font-size:10pt;">CALM Reports Second Quarter Fiscal 201</font><font style="display: inline;font-family:Arial;font-size:10pt;">5</font><font style="display: inline;font-family:Arial;font-size:10pt;"> Results</font>
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+
+			<font style="display: inline;font-family:Arial;font-size:10pt;">Page 3</font>
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+
+			<font style="display: inline;font-family:Arial;font-size:10pt;">December </font><font style="display: inline;font-family:Arial;font-size:10pt;">23</font><font style="display: inline;font-family:Arial;font-size:10pt;">, 201</font><font style="display: inline;font-family:Arial;font-size:10pt;">4</font>
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+</div>
+		<p style="margin:0pt;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;;font-size: 10pt"><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;"></font>
+		</p>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			&nbsp;
+		</p></div><div style="margin-left:72pt;margin-right:72pt;">
+		<p style="margin:0pt;line-height:100%;text-align:center;font-family:Arial;font-weight:bold;font-size: 10pt">
+			<font style="display: inline;font-size:10pt;">CAL-MAINE FOODS, INC. AND SUBSIDIARIES</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">FINANCIAL HIGHLIGHTS</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:center;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">SUMMARY STATEMENTS OF INCOME</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10pt;">(Unaudited)</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10pt;">(In thousands, except per share amounts)</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" style="border-collapse:collapse;width:520.65pt;margin-left:8.1pt;">
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td colspan="3" valign="top" style="width:156.80pt;border-bottom:1pt solid #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">13 </font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">Weeks Ended</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td colspan="3" valign="top" style="width:156.85pt;border-bottom:1pt solid #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">26 Weeks </font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10pt;">Ended</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;border-top:1pt solid #000000 ;border-bottom:1pt solid #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 6.3pt 0pt 5.05pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">November 29,</font></p>
+					<p style="margin:0pt 6.3pt 0pt 5.05pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">2014</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;border-top:1pt solid #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-top:1pt solid #000000 ;border-bottom:1pt solid #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 6.3pt 0pt 5.05pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">November 30</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">,</font></p>
+					<p style="margin:0pt 6.3pt 0pt 5.05pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">2013</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;border-top:1pt solid #000000 ;border-bottom:1pt solid #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 6.3pt 0pt 5.05pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">November 29,</font></p>
+					<p style="margin:0pt 6.3pt 0pt 5.05pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">2014</font></p>
+				</td>
+				<td valign="top" style="width:13.55pt;border-top:1pt solid #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-top:1pt solid #000000 ;border-bottom:1pt solid #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 6.3pt 0pt 5.05pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">November 30</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">,</font></p>
+					<p style="margin:0pt 6.3pt 0pt 5.05pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">2013</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Net sales</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;border-top:1pt solid #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:15.4pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">378,617</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-top:1pt solid #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:15.4pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">354,275</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;border-top:1pt solid #000000 ;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>735,561&nbsp;
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-top:1pt solid #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 0pt 0pt 0.95pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:14.45pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">673,803</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Gross profit</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">92,709</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">74,667</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>173,810&nbsp;
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:20.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">119,578</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Operating income</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 10.1pt 0pt 0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:23.6pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">55,597</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">40,858</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>96,760&nbsp;
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">51,928</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Other income </font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>912&nbsp;
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:39.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">58</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>2,535&nbsp;
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:28.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">2,769</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Income before income taxes</font><font style="display: inline;font-family:Arial;font-size:10pt;"> and noncontrolling interest</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>56,509&nbsp;
+				</td>
+				<td valign="bottom" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">40,916</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>99,295&nbsp;
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">54,697</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Income before income taxes attributable to Cal-Maine Foods, Inc.</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>56,251&nbsp;
+				</td>
+				<td valign="bottom" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">40,775</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>98,507&nbsp;
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">54,414</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 6.35pt 0pt 0pt;text-align:right;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:47.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Net income</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:19.4pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">36,60</font><font style="display: inline;font-family:Arial;font-size:10pt;">3</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:19.4pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">26,106</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;border-bottom:2pt double #000000 ;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>64,258&nbsp;
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:19.4pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">34,862</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;border-top:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 6.35pt 0pt 0pt;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-top:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;border-top:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-top:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Net income per share:</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 6.35pt 0pt 0pt;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;"> &nbsp;&nbsp;Basic</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.4pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">0.76</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.4pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">0.54</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;border-bottom:2pt double #000000 ;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>1.34&nbsp;
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.4pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">0.73</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;"> &nbsp;&nbsp;Diluted</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;border-top:2pt double #000000 ;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.4pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">0.76</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-top:2pt double #000000 ;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.4pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">0.54</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;border-top:2pt double #000000 ;border-bottom:2pt double #000000 ;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>1.33&nbsp;
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-top:2pt double #000000 ;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:27.4pt;"><font style="display: inline;font-family:Arial;font-size:10pt;">$</font></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">0.72</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Weighted average shares outstanding</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;border-top:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 6.35pt 0pt 0pt;text-align:right;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-top:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;border-top:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-top:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:180.00pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;"> &nbsp;&nbsp;Basic</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:72.00pt;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 6.35pt 0pt 0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><font style="display: inline;font-family:Arial;font-size:10pt;">48,136</font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">48,091</font></font></p>
+				</td>
+				<td valign="top" style="width:13.50pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;border-bottom:2pt double #000000 ;height:7.20pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>48,133&nbsp;
+				</td>
+				<td valign="top" style="width:13.55pt;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.30pt;border-bottom:2pt double #000000 ;height:7.20pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">48,084</font></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="bottom" style="width:180.00pt;height:12.95pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-indent:6.85pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Diluted</font></p>
+				</td>
+				<td valign="bottom" style="width:13.50pt;height:12.95pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:right;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;border-top:2pt double #000000 ;border-bottom:2pt double #000000 ;height:12.95pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt 6.35pt 0pt 0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:26.85pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">48,404</font></font></p>
+				</td>
+				<td valign="bottom" style="width:13.50pt;height:12.95pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:right;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.30pt;border-top:2pt double #000000 ;border-bottom:2pt double #000000 ;height:12.95pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">48,275</font></font></p>
+				</td>
+				<td valign="bottom" style="width:13.50pt;height:12.95pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:right;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:72.00pt;border-top:2pt double #000000 ;border-bottom:2pt double #000000 ;height:12.95pt;font-family:Arial;font-size:10pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>48,400&nbsp;
+				</td>
+				<td valign="bottom" style="width:13.55pt;height:12.95pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;text-align:right;font-family:Times New Roman;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.30pt;border-top:2pt double #000000 ;border-bottom:2pt double #000000 ;height:12.95pt;padding:0pt 6.9pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="text-indent:0pt;margin-left:0pt; padding-right:24.4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:right"><font style="display: inline;font-family:Arial;font-size:10pt;"></font><font style="display: inline;font-family:Arial;font-size:10pt;">48,268</font></font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">SUMMARY BALANCE SHEETS</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:center;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" style="border-collapse:collapse;width:477.90pt;margin-left:0pt;">
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;border-bottom:1pt solid #000000 ;padding:0pt 6.5pt">
+					<p style="margin:0pt 6.3pt 0pt 5.05pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">November 29</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">,</font></p>
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">201</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">4</font></p>
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:74.15pt;border-bottom:1pt solid #000000 ;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">May 31</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">,</font></p>
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">201</font><font style="display: inline;font-family:Arial;font-weight:bold;font-size:10.5pt;">4</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">ASSETS</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;border-top:1pt solid #000000 ;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:74.15pt;border-top:1pt solid #000000 ;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Cash and short-term investments</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.45pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>201,418&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>209,259&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Receivables</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.45pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>118,850&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>87,516&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Inventories</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.45pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>146,529&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>146,117&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Prepaid expenses and other current assets</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.45pt;border-bottom:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>4,029&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;border-bottom:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>2,501&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;"> &nbsp;&nbsp;Current assets</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.45pt;border-top:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>470,826&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;border-top:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>445,393&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.45pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Property, plant and equipment (net)</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.45pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>339,249&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>314,935&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Other noncurrent assets</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.45pt;border-bottom:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>58,513&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;border-bottom:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>51,333&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;"> &nbsp;&nbsp;Total assets</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.45pt;border-top:1pt solid #000000 ;border-bottom:2pt double #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>868,588&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;border-top:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>811,661&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;border-top:2pt double #000000 ;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;border-top:2pt double #000000 ;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">LIABILITIES AND STOCKHOLDERS' EQUITY</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Accounts payable and accrued expenses</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:71.45pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>100,085&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>80,434&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Current maturities of long-term debt</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>10,047&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>10,216&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Deferred income taxes</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;border-bottom:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>30,617&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;border-bottom:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>30,451&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;"> &nbsp;&nbsp;Current liabilities</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;border-top:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>140,749&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;border-top:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>121,101&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Long-term debt, less current maturities</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>45,845&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>50,877&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Deferred income taxes and other liabilities</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>43,338&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>44,938&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;">Stockholders' equity</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;border-bottom:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>638,656&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="bottom" style="width:74.15pt;border-bottom:1pt solid #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left"></div>594,745&nbsp;
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:306.90pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10.5pt;"> &nbsp;&nbsp;Total liabilities and stockholders' equity</font></p>
+				</td>
+				<td valign="top" style="width:13.15pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:71.45pt;border-top:1pt solid #000000 ;border-bottom:2pt double #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>868,588&nbsp;
+				</td>
+				<td valign="top" style="width:12.25pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="width:74.15pt;border-top:1pt solid #000000 ;border-bottom:2pt double #000000 ;font-family:Arial;font-size:10.5pt;text-align:right;" nowrap="nowrap"><div style="float:left">$</div>811,661&nbsp;
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+
+			<font style="display: inline;font-family:Arial;font-size:10pt;">-</font><font style="display: inline;font-family:Arial;font-size:10pt;">END-</font>
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr>
+	</div></body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>calm-20141223ex991262d7dg001.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 calm-20141223ex991262d7dg001.jpg
+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
+2O&/N^E.V4ZB["R6P4444#/_9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

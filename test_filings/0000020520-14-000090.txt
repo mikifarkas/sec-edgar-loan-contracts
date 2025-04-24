@@ -1,0 +1,1282 @@
+<SEC-DOCUMENT>0000020520-14-000090.txt : 20141024
+<SEC-HEADER>0000020520-14-000090.hdr.sgml : 20141024
+<ACCEPTANCE-DATETIME>20141024110455
+ACCESSION NUMBER:		0000020520-14-000090
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20141024
+ITEM INFORMATION:		Completion of Acquisition or Disposition of Assets
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141024
+DATE AS OF CHANGE:		20141024
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FRONTIER COMMUNICATIONS CORP
+		CENTRAL INDEX KEY:			0000020520
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				060619596
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11001
+		FILM NUMBER:		141171582
+
+	BUSINESS ADDRESS:	
+		STREET 1:		HIGH RIDGE PK BLDG 3
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06905
+		BUSINESS PHONE:		2036145600
+
+	MAIL ADDRESS:	
+		STREET 1:		THREE HIGH RIDGE PARK
+		CITY:			STAMFORD
+		STATE:			CT
+		ZIP:			06905
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CITIZENS COMMUNICATIONS CO
+		DATE OF NAME CHANGE:	20000619
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CITIZENS UTILITIES CO
+		DATE OF NAME CHANGE:	19920703
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>ftr-20141024x8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<!--HTML document created with Rivet Software Powered by Crossfire 5.10.188.0-->
+<!--Created on: 10/24/2014 10:57:43 AM-->
+<html>
+	<head>
+		<title>
+			ATT Closing CoBank 8K
+		</title>
+	</head>
+	<body><div style="margin-left:72pt;margin-right:72pt;">
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<a name="_GoBack"></a><font style="display: inline;font-weight:bold;font-size:12pt;">UNITED STATES</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;font-weight:bold;">Washington</font><font style="display: inline;font-weight:bold;text-transform:uppercase;">, &nbsp;</font><font style="display: inline;font-weight:bold;text-transform:uppercase;">DC</font><font style="display: inline;font-weight:bold;text-transform:uppercase;">&nbsp;</font><font style="display: inline;font-weight:bold;text-transform:uppercase;">20549</font><font style="display: inline;font-weight:bold;text-transform:uppercase;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 16pt">
+			<font style="display: inline;font-weight:bold;font-size:16pt;">FORM 8-K</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;font-weight:bold;text-transform:uppercase;">CURRENT REPORT </font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;font-weight:bold;">Pursuant</font><font style="display: inline;font-weight:bold;text-transform:uppercase;">&nbsp;</font><font style="display: inline;font-weight:bold;">to Section 13 or 15(d) </font><font style="display: inline;font-weight:bold;">o</font><font style="display: inline;font-weight:bold;">f the</font><font style="display: inline;font-weight:bold;text-transform:uppercase;">&nbsp;</font><font style="display: inline;font-weight:bold;">Securities Exchange Act of </font><font style="display: inline;font-weight:bold;text-transform:uppercase;">1934</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">Date of </font><font style="display: inline;">R</font><font style="display: inline;">eport (</font><font style="display: inline;">d</font><font style="display: inline;">ate of earliest event reported)</font><font style="display: inline;">:</font><font style="display: inline;"> &nbsp; &nbsp;</font><font style="display: inline;">October 24</font><font style="display: inline;">, 20</font><font style="display: inline;">1</font><font style="display: inline;">4</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;font-weight:bold;text-decoration:underline;">Frontier </font><font style="display: inline;font-weight:bold;text-decoration:underline;">Communications Co</font><font style="display: inline;font-weight:bold;text-decoration:underline;">rporation</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(Exact name of registrant as specified in its charter)</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;font-weight:bold;text-decoration:underline;">Delaware</font><font style="display: inline;font-weight:bold;text-decoration:underline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(State or other jurisdiction</font><font style="display: inline;font-size:11pt;">&nbsp;</font><font style="display: inline;font-size:11pt;">of incorporation)</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;font-weight:bold;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;margin-left:0pt;">
+			<tr>
+				<td valign="top" style="width:239.40pt;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:239.40pt;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:239.40pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;font-weight:bold;text-decoration:underline;">001-11001</font></p>
+				</td>
+				<td valign="top" style="width:239.40pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;font-weight:bold;text-decoration:underline;">06-0619596</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:239.40pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(Commission File Number)</font></p>
+				</td>
+				<td valign="top" style="width:239.40pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(IRS Employer Identification No.)</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:239.40pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;font-weight:bold;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:239.40pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:239.40pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;font-weight:bold;text-decoration:underline;">3 High Ridge Park, </font><font style="display: inline;font-weight:bold;text-decoration:underline;">Stamford</font><font style="display: inline;font-weight:bold;text-decoration:underline;">, &nbsp;</font><font style="display: inline;font-weight:bold;text-decoration:underline;">Connecticut</font></p>
+				</td>
+				<td valign="top" style="width:239.40pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;font-weight:bold;text-decoration:underline;">06905</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:239.40pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(Address of principal executive offices)</font></p>
+				</td>
+				<td valign="top" style="width:239.40pt;padding:0pt 6.5pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(Zip Code)</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;font-weight:bold;text-decoration:underline;">(203) 614-5600</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(</font><font style="display: inline;font-size:11pt;">Registrant&#x2019;s telephone number, including area code)</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;font-weight:bold;">_________________</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(Former name or former address, if changed since last report)</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:13pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:left"><font style="display: inline;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (</font><font style="display: inline;font-style:italic;">see </font><font style="display: inline;">General Instruction A.2. below):</font></font>
+		</p>
+		<p style="margin:0pt;line-height:13pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin-left:0pt;">
+			<tr>
+				<td colspan="2" valign="top" style="border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;width:32.40pt;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;width:446.40pt;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:23.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&#x2610;</font></p>
+				</td>
+				<td colspan="2" valign="top" style="border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:455.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:23.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&nbsp;</font></p>
+				</td>
+				<td colspan="2" valign="top" style="border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:455.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:23.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&#x2610;</font></p>
+				</td>
+				<td colspan="2" valign="top" style="border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:455.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:23.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&nbsp;</font></p>
+				</td>
+				<td colspan="2" valign="top" style="border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:455.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:23.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&#x2610;</font></p>
+				</td>
+				<td colspan="2" valign="top" style="border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:455.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 0pt 36pt;line-height:13pt;text-indent: -36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17</font></p>
+					<p style="margin:0pt 0pt 0pt 36pt;line-height:13pt;text-indent: -36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">CFR 240.14d-2(b))</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:23.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&nbsp;</font></p>
+				</td>
+				<td colspan="2" valign="top" style="border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:455.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="border-right:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;width:23.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&#x2610;</font></p>
+				</td>
+				<td colspan="2" valign="top" style="border-left:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;width:455.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:13pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt 0pt 12pt 70pt;text-indent: -70pt;border-bottom:1pt none #D9D9D9 ;font-family:Times New Roman;font-size: 12pt">
+
+		</p>
+		<p><font size="1"> </font></p><hr size="3" style="color:#999999" width="100%" align="center"></hr><p style="page-break-after:always">&nbsp;</p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:right;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+</div>
+		<p style="margin:0pt 0pt 12pt 70pt;text-indent: -70pt;border-bottom:1pt none #D9D9D9 ;font-family:Times New Roman;;font-size: 12pt"><font style="display: inline;"></font><font style="display: inline;">Item </font><font style="display: inline;">2</font><font style="display: inline;">.01</font><font style="display: inline;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><font style="display: inline;text-decoration:underline;">Completion of Acquisition or Disposition of Assets</font>
+		</p>
+		<p style="margin:0pt 0pt 12pt;text-indent:70pt;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">On </font><font style="display: inline;">October 24</font><font style="display: inline;">, 201</font><font style="display: inline;">4</font><font style="display: inline;">, Frontier Communications Corporation (the &#x201C;Company&#x201D;) </font><font style="display: inline;">acquired all of the issued and outstanding capital stock of The Southern New England Telephone Company and SNET America, Inc. (the &#x201C;Transferred Companies&#x201D;) from AT&amp;T Inc. for a purchase price of $2 billion in cash</font><font style="display: inline;">, subject to adjustment based on the net working capital of the Transferred Companies at closing</font><font style="display: inline;">.&nbsp;&nbsp;The Transferred Companies operate, among other things, </font><font style="display: inline;">AT&amp;T</font><font style="display: inline;">&#x2019;</font><font style="display: inline;">s wireline business, statewide fiber network, and U-verse </font><font style="display: inline;">operations in Connecticut.&nbsp; </font><font style="display: inline;">As part of the acquisition, the Company also acquired AT&amp;T&#x2019;s </font><font style="display: inline;">DISH </font><font style="display: inline;">satellite TV customers in Connecticut.&nbsp; </font>
+		</p>
+		<p style="margin:0pt 0pt 12pt;text-indent:70pt;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">The Company financed the acquisition with (i) </font><font style="display: inline;">the net proceeds of $1.519 billion from its registered debt offerings in September 2014, which had been placed in escrow pending the closing of the acquisition</font><font style="display: inline;">, (ii) a drawdown of </font><font style="display: inline;">$350 million </font><font style="display: inline;">under its </font><font style="display: inline;">senior unsecured delayed draw term loan facility with CoBank, ACB, as administrative agent, lead arranger and a lender, and the other lenders from time to time part</font><font style="display: inline;">y</font><font style="display: inline;"> thereto, </font><font style="display: inline;">and (iii) </font><font style="display: inline;">cash on hand for the remainder of the purchase price.&nbsp; </font>
+		</p>
+		<p style="margin:0pt 0pt 12pt 70pt;text-indent: -70pt;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">Item 2.03</font><font style="display: inline;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><font style="display: inline;text-decoration:underline;">Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant</font>
+		</p>
+		<p style="margin:0pt 0pt 12pt;text-indent:70pt;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">The information set forth under Item </font><font style="display: inline;">2</font><font style="display: inline;">.01 of this Current Report on Form 8-K is incorporated herein by reference.</font>
+		</p>
+		<p style="margin:0pt 0pt 12pt;text-indent:0pt;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">Item 8.01</font><font style="display: inline;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><font style="display: inline;text-decoration:underline;">Other Events</font>
+		</p>
+		<p style="margin:0pt 0pt 12pt;text-indent:70pt;border-top:1pt none #D9D9D9 ;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">A copy of the press release announcing the completion of the acquisition is attached here as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated herein by reference.</font>
+		</p>
+		<p style="margin:0pt 0pt 12pt 72pt;text-indent: -72pt;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">Item 9.01</font><font style="display: inline;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><font style="display: inline;text-decoration:underline;">Financial Statements and Exhibits</font>
+		</p>
+		<p style="margin:0pt 0pt 12pt;text-indent:36pt;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">(d)</font><font style="display: inline;;font-size: 12pt;font-family:Times New Roman;text-indent:0pt;margin-left:0pt;padding:0pt 25.2pt 0pt 0pt;"></font><font style="display: inline;">Exhibits</font>
+		</p>
+		<p style="margin:0pt 0pt 12pt 108pt;text-indent: -36pt;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">99</font><font style="display: inline;">.1</font><font style="display: inline;;font-size: 12pt;font-family:Times New Roman;text-indent:0pt;margin-left:0pt;padding:0pt 28.8pt 0pt 0pt;"></font><font style="display: inline;"></font><font style="display: inline;">Press Release, dated October </font><font style="display: inline;">24</font><font style="display: inline;">, 2014, of the Company.</font>
+		</p>
+		<p style="margin:0pt 0pt 12pt;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt 0pt 12pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+
+		</p>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr><p style="page-break-after:always">&nbsp;</p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:right;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+</div>
+		<p style="margin:0pt 0pt 12pt;text-align:center;font-family:Times New Roman;;font-size: 12pt"><font style="display: inline;"></font><font style="display: inline;">SIGNATURES</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-align:center;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt 0pt 12pt;text-indent:36pt;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font>
+		</p>
+		<p style="margin:0pt 0pt 0pt 210.25pt;border-bottom:1pt none #D9D9D9 ;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt 0pt 0pt 5pt;border-top:1pt none #D9D9D9 ;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width:490.40pt;margin-left:0pt;">
+			<tr>
+				<td valign="top" style="width:195.40pt;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:295.00pt;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:1.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;height:1.00pt;overflow:hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:195.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:295.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;font-weight:bold;">FRONTIER </font><font style="display: inline;font-weight:bold;text-transform:uppercase;">Communications CORPORATION</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:195.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:295.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:195.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">Date:&nbsp; </font><font style="display: inline;">October </font><font style="display: inline;">24</font><font style="display: inline;">, 201</font><font style="display: inline;">4</font></p>
+				</td>
+				<td valign="top" style="width:295.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;border-bottom:1pt solid #000000 ;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">By:</font><font style="display: inline;">/s/</font><font style="display: inline;"> David G. Schwartz</font><font style="display: inline;"></font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:195.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:295.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">David G. Schwartz</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:195.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:295.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">Vice President</font><font style="display: inline;">, Corporate Counsel and</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:195.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:295.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">Assistant Secretary</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:195.40pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						<font style="display: inline;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:295.00pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr>
+	</div></body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>ftr-20141024ex9919f9970.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!--HTML document created with Rivet Software Powered by Crossfire 5.10.188.0-->
+<!--Created on: 10/24/2014 10:57:47 AM-->
+<html>
+	<head>
+		<title>
+			ATT Closing CoBank PR
+		</title>
+	</head>
+	<body><div style="margin-left:72pt;margin-right:72pt;">
+		<p style="margin:0pt;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt">
+			<a name="_GoBack"></a><font style="display: inline;font-family:Calibri;font-weight:bold;font-size:11pt;"><img src="ftr-20141024ex9919f9970g1.jpg" style="width: 1.988372in; height: 0.69979in" alt="C:\Users\biantorn\Desktop\frontierlogo.JPG"></font>
+		</p>
+		<p style="margin:0pt;text-align:right;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Calibri;font-weight:bold;font-size:11pt;">Exhibit 99.1</font>
+		</p>
+		<p style="margin:0pt;text-align:right;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Calibri;font-weight:bold;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:right;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Calibri;font-weight:bold;font-size:11pt;">Frontier Communications</font>
+		</p>
+		<p style="margin:0pt;text-align:right;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Calibri;font-weight:bold;font-size:11pt;">3 High Ridge Park</font>
+		</p>
+		<p style="margin:0pt;text-align:right;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Calibri;font-weight:bold;font-size:11pt;">Stamford, CT 06905</font>
+		</p>
+		<p style="margin:0pt;text-align:right;border-top:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Calibri;font-weight:bold;font-size:11pt;">203.614.5600</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 14pt">
+			<font style="display: inline;font-weight:bold;font-size:14pt;">Frontier Communications Completes</font><font style="display: inline;font-weight:bold;font-size:14pt;">&nbsp;</font><font style="display: inline;font-weight:bold;font-size:14pt;">Acquisition of AT&amp;T Connecticut&#x2019;s Wireline, Broadband and Video Operations </font>
+		</p>
+		<p style="margin:0pt;line-height:100%;text-align:center;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-style:italic;">Frontier Extends </font><font style="display: inline;font-weight:bold;font-style:italic;">its Cutting-Edge Products </font><font style="display: inline;font-weight:bold;font-style:italic;">&amp; Services to</font><font style="display: inline;font-weight:bold;font-style:italic;"> Connecticut</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;">STAMFORD, Conn., October 24, 2014 </font><font style="display: inline;font-weight:bold;">&#x2013;</font><font style="display: inline;"> Frontier Communications Corporation (NASDAQ: FTR) today announced completion of its $2 billion acquisition of AT&amp;T Inc.&#x2019;s (NYSE: T) wireline business, statewide fiber network, and U-verse operations in Connecticut.&nbsp;&nbsp;As part of the acquisition, Frontier also acquired AT&amp;T&#x2019;s </font><font style="display: inline;">DISH </font><font style="display: inline;">satellite TV customers in Connecticut.&nbsp;&nbsp;As a result of the transaction, Frontier will offer </font><font style="display: inline;">broadband, voice, video and other products to residential and business customers in Connecticut, the 28</font><font style="display: inline;font-size:6pt;top:-4.4pt;position:relative;line-height:100%">th</font><font style="display: inline;"> state in the company&#x2019;s portfolio.&nbsp; </font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&#x201C;Frontier is excited to offer our products and services to customers in our home state,&#x201D; said Maggie Wilderotter, Frontier&#x2019;s Chairman and Chief Executive Officer.&nbsp; </font><font style="display: inline;">&#x201C;W</font><font style="display: inline;">e look forward to bringing our local engagement management model to Connecticut</font><font style="display: inline;"> and</font><font style="display: inline;"> empowering all Frontier employees to provide high-quality service to their friends and neighbors and to become active contributors to their communities.</font><font style="display: inline;">&#x201D;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">Wilderotter added, &#x201C;</font><font style="display: inline;">O</font><font style="display: inline;">ur </font><font style="display: inline;">expansion into </font><font style="display: inline;">Connecticut</font><font style="display: inline;"> shows </font><font style="display: inline;">Frontier is growing </font><font style="display: inline;">strategically</font><font style="display: inline;"> in addition to organically in our </font><font style="display: inline;">suburban and rural markets. </font><font style="display: inline;"> We offer</font><font style="display: inline;"> great broadband products that include customer protection for their online experience. </font><font style="display: inline;">&nbsp;</font><font style="display: inline;">Frontier is a leader in </font><font style="display: inline;">offering </font><font style="display: inline;">comprehensive </font><font style="display: inline;">end-to-end online protection. </font><font style="display: inline;">&nbsp;</font><font style="display: inline;">It sets Frontier apart, and it demonstrates that </font><font style="display: inline;">focusing on </font><font style="display: inline;">our customers will </font><font style="display: inline;">maximize shareholder value.&#x201D;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&#x201C;Frontier&#x2019;s solid reputation and track record for providing high-quality products and service to customers across the country was a major consideration in our decision to sell them our Connecticut operations,&#x201D; said Randall Stephenson, AT&amp;T Chairman and CEO. </font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Calibri;font-size:11pt;">Frontier&#x2019;s customers, local communities</font><font style="display: inline;font-family:Calibri;font-size:11pt;">,</font><font style="display: inline;font-family:Calibri;font-size:11pt;"> employees</font><font style="display: inline;font-family:Calibri;font-size:11pt;"> and shareholders</font><font style="display: inline;font-family:Calibri;font-size:11pt;"> will benefit substantially as a result of this transaction:&nbsp; </font>
+		</p>
+		<p style="margin:0pt;border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Calibri;font-size:11pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table style="width:100%;" cellpadding="0" cellspacing="0"><tr><td style="width:18pt;"><p style="width:18pt;font-size:0pt;"></p></td><td valign="top" align="left" style="width: 18.00pt; display: inline;">
+			<p style="border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt;margin:0pt;">
+				<font style="margin:0pt;font-family:Symbol;border-top:1pt none #D9D9D9;border-bottom:1pt none #D9D9D9;line-height:100%;font-size:11pt;;"> &#xB7;</font>
+			</p>
+		</td><td style="width:0pt;"><p style="width:0pt;width:0pt;font-size:0pt;"></p></td><td align="left" valign="top">
+			<p style="border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt;margin:0pt;">
+			<font style="display: inline;font-family:Calibri;font-size:11pt;">Frontier is implementing its proven local engagement community-oriented go-to-market strategy in Connecticut led by General M</font><font style="display: inline;font-family:Calibri;font-size:11pt;">anagers </font><font style="display: inline;font-family:Calibri;font-size:11pt;">and a </font><font style="display: inline;font-family:Calibri;font-size:11pt;">Senior Vice President for the state</font><font style="display: inline;font-family:Calibri;font-size:11pt;">.</font></p></td></tr></table></div>
+		<div style="width:100%"><table style="width:100%;" cellpadding="0" cellspacing="0"><tr><td style="width:18pt;"><p style="width:18pt;font-size:0pt;"></p></td><td valign="top" align="left" style="width: 18.00pt; display: inline;">
+			<p style="border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt;margin:0pt;">
+				<font style="margin:0pt;font-family:Symbol;border-top:1pt none #D9D9D9;border-bottom:1pt none #D9D9D9;line-height:100%;font-size:11pt;;"> &#xB7;</font>
+			</p>
+		</td><td style="width:0pt;"><p style="width:0pt;width:0pt;font-size:0pt;"></p></td><td align="left" valign="top">
+			<p style="border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt;margin:0pt;">
+			<font style="display: inline;font-family:Calibri;font-size:11pt;">Connecticut customers will have the same products and services that they enjoyed </font><font style="display: inline;font-family:Calibri;font-size:11pt;">with </font><font style="display: inline;font-family:Calibri;font-size:11pt;">AT&amp;T, including U-verse</font><font style="display: inline;font-family:Calibri;font-size:11pt;">, &nbsp;</font><font style="display: inline;font-family:Calibri;font-size:11pt;">plus new products </font><font style="display: inline;font-family:Calibri;font-size:11pt;">such as</font><font style="display: inline;font-family:Calibri;font-size:11pt;">&nbsp;</font><font style="display: inline;font-family:Calibri;font-size:11pt;">Frontier Secure</font><font style="display: inline;font-family:Calibri;font-size:11pt;">, a suite of services to protect all aspects of </font><font style="display: inline;font-family:Calibri;font-size:11pt;">customers&#x2019; online </font><font style="display: inline;font-family:Calibri;font-size:11pt;">li</font><font style="display: inline;font-family:Calibri;font-size:11pt;">ves, including </font><font style="display: inline;font-family:Calibri;font-size:11pt;">identity t</font><font style="display: inline;font-family:Calibri;font-size:11pt;">heft </font><font style="display: inline;font-family:Calibri;font-size:11pt;">p</font><font style="display: inline;font-family:Calibri;font-size:11pt;">rotection</font><font style="display: inline;font-family:Calibri;font-size:11pt;">.</font></p></td></tr></table></div>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:right;line-height:100%;font-family:Calibri;font-size: 11pt">
+
+			<font style="display: inline;">1</font>
+
+		</p>
+
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+
+			&nbsp;
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr><p style="page-break-after:always">&nbsp;</p>
+		<div style="width:100%"><table style="width:100%;" cellpadding="0" cellspacing="0"><tr><td style="width:18pt;"><p style="width:18pt;font-size:0pt;"></p></td><td valign="top" align="left" style="width: 18.00pt; display: inline;">
+			<p style="border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt;margin:0pt;">
+				<font style="margin:0pt;font-family:Symbol;border-top:1pt none #D9D9D9;border-bottom:1pt none #D9D9D9;line-height:100%;font-size:11pt;;"> &#xB7;</font>
+			</p>
+		</td><td style="width:0pt;"><p style="width:0pt;width:0pt;font-size:0pt;"></p></td><td align="left" valign="top">
+			<p style="border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt;margin:0pt;">
+			<font style="display: inline;font-family:Calibri;font-size:11pt;">Frontier has committed to capital investments to expand and further upgrade the high-quality broadband network.</font></p></td></tr></table></div>
+		<div style="width:100%"><table style="width:100%;" cellpadding="0" cellspacing="0"><tr><td style="width:18pt;"><p style="width:18pt;font-size:0pt;"></p></td><td valign="top" align="left" style="width: 18.00pt; display: inline;">
+			<p style="border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt;margin:0pt;">
+				<font style="margin:0pt;font-family:Symbol;border-top:1pt none #D9D9D9;border-bottom:1pt none #D9D9D9;line-height:100%;font-size:11pt;;"> &#xB7;</font>
+			</p>
+		</td><td style="width:0pt;"><p style="width:0pt;width:0pt;font-size:0pt;"></p></td><td align="left" valign="top">
+			<p style="border-top:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt;margin:0pt;">
+			<font style="display: inline;font-family:Calibri;font-size:11pt;">The all-cash transaction means Frontier shareholders receive the benefit of increased diversification of assets and operations without any dilution in ownership. </font></p></td></tr></table></div>
+		<div style="width:100%"><table style="width:100%;" cellpadding="0" cellspacing="0"><tr><td style="width:18pt;"><p style="width:18pt;font-size:0pt;"></p></td><td valign="top" align="left" style="width: 18.00pt; display: inline;">
+			<p style="border-top:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt;margin:0pt;">
+				<font style="margin:0pt;font-family:Symbol;border-top:1pt none #D9D9D9;line-height:100%;font-size:11pt;;"> &#xB7;</font>
+			</p>
+		</td><td style="width:0pt;"><p style="width:0pt;width:0pt;font-size:0pt;"></p></td><td align="left" valign="top">
+			<p style="border-top:1pt none #D9D9D9 ;line-height:100%;font-family:Times New Roman;font-size: 11pt;margin:0pt;">
+			<font style="display: inline;font-family:Calibri;font-size:11pt;">Frontier is retaining the transferred AT&amp;T Connecticut workforce and is in discussions with the state&#x2019;s Department of Economic and Community Development about bringing a substantial number of new jobs to Connecticut.</font></p></td></tr></table></div>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">Since the </font><font style="display: inline;">transaction was announced</font><font style="display: inline;"> December 17, 2013, Frontier received approval from the U.S. Department of Justice, the Federal Communications Commission, the Connecticut Public Utilities Regulatory Authority and other state regulatory authorities.&nbsp;&nbsp;Additionally, the company received the full support of Communications Workers of America (CWA) Local 1298 and signed a new agreement with the Local that will add 85 jobs to the workforce in Connecticut.&nbsp; </font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">Frontier will make </font><font style="display: inline;font-family:Calibri;">capital</font><font style="display: inline;font-family:Calibri;">&nbsp;</font><font style="display: inline;font-family:Calibri;">investment</font><font style="display: inline;font-family:Calibri;">s</font><font style="display: inline;font-family:Calibri;">&nbsp;</font><font style="display: inline;font-family:Calibri;">of </font><font style="display: inline;font-family:Calibri;">$63</font><font style="display: inline;font-family:Calibri;"> million</font><font style="display: inline;font-family:Calibri;"> over </font><font style="display: inline;font-family:Calibri;">the next three years</font><font style="display: inline;font-family:Calibri;"> for U-verse </font><font style="display: inline;font-family:Calibri;">expansion </font><font style="display: inline;font-family:Calibri;">and broadband network </font><font style="display: inline;font-family:Calibri;">speed enhancements to increase </font><font style="display: inline;font-family:Calibri;">speeds </font><font style="display: inline;font-family:Calibri;">to 10Mbps or greater for more than 100,000 </font><font style="display: inline;font-family:Calibri;">households</font><font style="display: inline;font-family:Calibri;">.&nbsp;&nbsp;It will also </font><font style="display: inline;font-family:Calibri;">construct an ultra</font><font style="display: inline;font-family:Calibri;">-</font><font style="display: inline;font-family:Calibri;">high</font><font style="display: inline;font-family:Calibri;">-</font><font style="display: inline;font-family:Calibri;">speed middle</font><font style="display: inline;font-family:Calibri;">&nbsp;</font><font style="display: inline;font-family:Calibri;">mile fiber network connecting central offices across the state</font><font style="display: inline;font-family:Calibri;"> and </font><font style="display: inline;font-family:Calibri;">dedicate at least $3</font><font style="display: inline;font-family:Calibri;"> million</font><font style="display: inline;font-family:Calibri;"> of capital to expanding broadband to areas currently unserved or underserved.&nbsp; </font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;font-family:Calibri;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">Frontier acquired approximately 415,000 data, 875,000 voice, and 215,000 video connections (count</font><font style="display: inline;">s</font><font style="display: inline;"> as of 6/30/14) in Connecticut</font><font style="display: inline;">,</font><font style="display: inline;">&nbsp;</font><font style="display: inline;">including </font><font style="display: inline;">AT&amp;T&#x2019;s local business connections and existing carrier wholesale relationships.&nbsp; </font><font style="display: inline;">Frontier</font><font style="display: inline;"> is welcoming</font><font style="display: inline;"> approximately 2,</font><font style="display: inline;">5</font><font style="display: inline;">00 former AT&amp;T Connecticut employees to the company, ensuring continuity of existing customer relationships and a trained and trusted workforce.</font><font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;background-color: #FFFFFF;line-height:normal;border-bottom:1pt none #D9D9D9 ;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Calibri;font-size:11pt;">Frontier is proud that 13 percent of its workforce comprises veterans and military families.&nbsp;&nbsp;It will continue its strong support through v</font><font style="display: inline;font-family:Calibri;font-size:11pt;">eteran-focused initiatives</font><font style="display: inline;font-family:Calibri;font-size:11pt;"> in the state, including </font><font style="display: inline;font-family:Calibri;font-size:11pt;">a pilot program to improve the adoption and utilization of the </font><font style="display: inline;font-family:Calibri;font-size:11pt;background-color: #FFFFFF;">Department of Veteran</font><font style="display: inline;font-family:Calibri;font-size:11pt;background-color: #FFFFFF;">s</font><font style="display: inline;font-family:Calibri;font-size:11pt;background-color: #FFFFFF;"> Affairs MyHealtheVet and home Telehealth</font><font style="display: inline;font-family:Calibri;font-size:11pt;background-color: #FFFFFF;">.</font><font style="display: inline;font-family:Calibri;font-size:11pt;">&nbsp;</font><font style="display: inline;font-family:Calibri;font-size:11pt;">Frontier will work with the Attorney General and Office of the Consumer Counsel to provide subsidized broadband service to eligible low-income veterans and host veteran-focused job fairs.</font>
+		</p>
+		<p style="margin:0pt;background-color: #FFFFFF;line-height:normal;border-top:1pt none #D9D9D9 ;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Calibri;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">Beginning October 25, 2014, the company will undertake a full conversion of AT&amp;T&#x2019;s Connecticut wireline, broadband </font><font style="display: inline;">and video </font><font style="display: inline;">operations into Frontier&#x2019;s systems</font><font style="display: inline;">, providing residential and business customers with seamless, high-quality performance and enhanced customer service</font><font style="display: inline;">.&nbsp;&nbsp;Frontier has successfully completed numerous complex system and network migrations, most recently converting former Verizon operations in 14 states. </font><font style="display: inline;"> Frontier estimates that it will realize significant cost savings from leveraging its current infrastructure in supporting the new Connecticut business operations.</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;text-decoration:underline;">About&nbsp;Frontier Communications</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">Frontier Communications Corporation&nbsp;(NASDAQ: FTR) offers broadband, voice, video, wireless Internet data access, data </font><font style="display: inline;">security solutions, specialized bundles for residential customers, small businesses and home offices, and advanced communications for medium and large businesses in 28 states.&nbsp;&nbsp;Frontier's approximately 16,</font><font style="display: inline;">4</font><font style="display: inline;">00 employees are based entirely in&nbsp;the United States. </font><font style="display: inline;">&nbsp;</font><font style="display: inline;">More information is available at&nbsp;</font><font style="display: inline;text-decoration:underline;">www.frontier.com</font><font style="display: inline;">.</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt 0pt 8pt;line-height:107.92%;font-family:Calibri;font-size: 11pt">
+
+		</p>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:right;line-height:100%;font-family:Calibri;font-size: 11pt">
+
+			<font style="display: inline;">2</font>
+
+		</p>
+
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+
+			&nbsp;
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr><p style="page-break-after:always">&nbsp;</p>
+		<p style="margin:0pt 0pt 8pt;line-height:107.92%;font-family:Calibri;;font-size: 11pt"><font style="display: inline;font-weight:bold;"></font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;">Forward-Looking Statements</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">This press release contains forward-looking statements that are made pursuant to the safe harbor provisions of The Private Securities Litigation Reform Act of 1995. These statements are made on the basis of management's views and assumptions regarding future events and business performance. Words such as "believe," "anticipate," "expect" and similar expressions are intended to identify forward-looking statements. Forward-looking statements (including oral representations) involve risks and uncertainties that may cause actual results to differ materially from any future results, performance or achievements expressed or implied by such statements. These risks and uncertainties include, but are not limited to:&nbsp;&nbsp;the ability to successfully integrate the Connecticut operations into our existing operations and the diversion of management&#x2019;s attention from ongoing business and regular business responsibilities to effect such integration; the effects of increased expenses </font><font style="display: inline;">or unanticipated liabilities </font><font style="display: inline;">incurred due to activities related to the AT&amp;T transaction; the risk that the cost savings from the AT&amp;T transaction may not be fully realized; the sufficiency of the assets to be acquired from AT&amp;T to enable the combined company to operate </font><font style="display: inline;">all aspects of </font><font style="display: inline;">the acquired business; disruption from the AT&amp;T transaction making it more difficult to maintain relationships with customers or suppliers of the Connecticut operations; </font><font style="display: inline;">our ability to meet </font><font style="display: inline;">our debt and debt service obligations, which have increased as a result of the AT&amp;T transaction; the effects of greater than anticipated competition from cable, wireless and other wireline carriers that could require us to implement new pricing, marketing strategies or new product or service offerings and the risk that we will not respond on a timely or profitable basis; reductions in the number of our voice customers that we cannot offset with increases in broadband subscribers and sales of other products and services; our ability to maintain relationships with customers, employees or suppliers; the effects of ongoing changes in the regulation of the communications industry as a result of federal and state legislation and regulation, or changes in the enforcement or interpretation of such legislation and regulation; the effects of any unfavorable outcome with respect to any current or future legal, governmental or regulatory proceedings, audits or disputes; the effects of changes in the availability of federal and state universal service funding or other subsidies to us and our competitors; our ability to successfully adjust to changes in the communications industry and to implement strategies for growth; continued reductions in switched access revenues as a result of regulation, competition or technology substitutions; our ability to effectively manage service quality in our territories and meet mandated service quality metrics; our ability to successfully introduce new product offerings, including our ability to offer bundled service packages on terms that are both profitable to us and attractive to customers; the effects of changes in accounting policies or practices adopted voluntarily or as required by generally accepted accounting principles or regulations; our ability to effectively manage our operations, operating expenses and capital expenditures, and to repay, reduce or refinance our debt; the effects of changes in both general and local economic conditions on the markets that we serve, which can affect demand for our products and services, customer purchasing decisions, collectability of revenues and required levels of capital expenditures related to new construction of residences and businesses; the effects of technological changes and competition on our capital expenditures, products and service offerings, including the lack of assurance that our network improvements in speed and capacity will be sufficient to meet or exceed the capabilities and quality of competing networks; the effects of increased medical expenses (including as a result of the impact of the Patient Protection and Affordable Care Act) and pension and postemployment expenses, such as retiree medical and severance costs, and related funding requirements; the effects of changes in income tax rates, tax laws, regulations or rulings, or federal or state tax assessments; our ability to successfully renegotiate union contracts; changes in pension plan assumptions and/or the value of our pension plan assets, which could require us to make increased contributions to the pension plan in 201</font><font style="display: inline;">5</font><font style="display: inline;"> and beyond; the effects of economic downturns which could result in difficulty in collection of revenues and loss of </font>
+		</p>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:right;line-height:100%;font-family:Calibri;font-size: 11pt">
+
+			<font style="display: inline;">3</font>
+
+		</p>
+
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+
+			&nbsp;
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr><p style="page-break-after:always">&nbsp;</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;;font-size: 11pt"><font style="display: inline;">customers; adverse changes in the credit markets or in the ratings given to our debt securities by nationally accredited ratings organizations, which could limit or restrict the availability, or increase the cost, of financing to us; our cash flow from operations, amount of capital expenditures, debt service requirements, cash paid for income taxes and liquidity may affect our payment of dividends on our common shares; the effects of state regulatory cash management practices that could limit our ability to transfer cash among our subsidiaries or dividend funds up to the parent company; and the effects of severe weather events such as hurricanes, tornadoes, ice storms or other natural or man-made disasters, which may increase our operating expenses or adversely impact customer revenue.&nbsp;&nbsp;These and other uncertainties related to our business are described in greater detail in our filings with the U.S. Securities and Exchange Commission, including our reports on Forms 10-K and 10-Q, and the foregoing information should be read in conjunction with these filings. We do not intend to update or revise these forward-looking statements to reflect the occurrence of future events or circumstances.</font>
+		</p>
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" style="border-collapse:collapse;line-height:100%;margin-bottom:0pt;margin-left:0pt;">
+			<tr>
+				<td valign="top" style="width:233.75pt;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:4.95pt;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;text-align:center;font-family:Calibri;height:4.95pt;overflow: hidden;font-size:0pt;">
+						<font style="display: inline;font-size:1pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:233.75pt;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;height:4.95pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;height:4.95pt;overflow: hidden;font-size:0pt;">
+						&nbsp;</p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;width:233.75pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;text-decoration:underline;">INVESTOR CONTACT</font><font style="display: inline;">:</font></p>
+				</td>
+				<td valign="top" style="border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;width:233.75pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 10pt;text-align:center;border-bottom:1pt solid #000000 ;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">MEDIA CONTACT</font><font style="display: inline;">S</font><font style="display: inline;">:</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="border-right:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-left:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;width:233.75pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">Luke Szymczak</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">Vice President, Investor Relations</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">(203) 614-5044</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">luke.szymczak@ftr.com</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						&nbsp;</p>
+				</td>
+				<td valign="top" style="border-left:1pt none #D9D9D9 ;border-top:1pt none #D9D9D9 ;border-right:1pt none #D9D9D9 ;border-bottom:1pt none #D9D9D9 ;width:233.75pt;padding:0pt 6.5pt">
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">Steve Crosby</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">SVP, </font><font style="display: inline;">Corporate Communications</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">(916) 206-8198</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">steven.crosby@ftr.com</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						&nbsp;</p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">OR</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">Brigid Smith</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">AVP, Corporate Communications</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">(</font><font style="display: inline;">203</font><font style="display: inline;">) &nbsp;</font><font style="display: inline;">614-5042</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						<font style="display: inline;">brigid.smith@ftr.com</font></p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						&nbsp;</p>
+					<p style="margin:0pt 0pt 10pt;text-align:center;line-height:115%;font-family:Calibri;font-size: 11pt">
+						&nbsp;</p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;font-family:Calibri;font-size: 11pt">
+			<font style="display: inline;">&nbsp;</font>
+		</p>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:right;line-height:100%;font-family:Calibri;font-size: 11pt">
+
+			<font style="display: inline;">4</font>
+
+		</p>
+
+		<p style="margin:0pt;line-height:100%;font-family:Calibri;font-size: 11pt">
+
+			&nbsp;
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr>
+	</div></body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>ftr-20141024ex9919f9970g1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 ftr-20141024ex9919f9970g1.jpg
+M_]C_X``02D9)1@`!`0$`W`#<``#_VP!#``(!`0(!`0("`@("`@("`P4#`P,#
+M`P8$!`,%!P8'!P<&!P<("0L)"`@*"`<'"@T*"@L,#`P,!PD.#PT,#@L,#`S_
+MVP!#`0("`@,#`P8#`P8,"`<(#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,
+M#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`S_P``1"`":`;8#`2(``A$!`Q$!_\0`
+M'P```04!`0$!`0$```````````$"`P0%!@<("0H+_\0`M1```@$#`P($`P4%
+M!`0```%]`0(#``01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T?`D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0`'P$``P$!`0$!
+M`0$!`0````````$"`P0%!@<("0H+_\0`M1$``@$"!`0#!`<%!`0``0)W``$"
+M`Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O`58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H`#`,!``(1`Q$`/P#]_****`"B
+MBB@`HHHH`****`"BD:0)C)QFL_7_`!`='TBZN+:SN=6N;>,NEE:/$L]P1T1/
+M-=$#'_:91[B@J,7)V1HT5^<?[>'_``5[^.7[-^FWSZ+^S9XET33[?('B#Q$X
+MO;.(9ZNMDSQ+[9N,?6OS2^,G_!:W]I/XSM-'<?$?4/#UE+G%MX?ACTP1@]A+
+M&/._.0UPULPI4WRN]_3_`#/VKA'P%XBSZBL52G2ITGU=13_"GSZ^3:/Z,O%O
+MC_0_`6G->:[K&EZ-:(<-/?7<=M$/^!.0*\$^*'_!7O\`9N^$L,K:E\6?#%]+
+M%UBTB1]5<G.,#[,KC/U(K^;'Q;XWUKQ_K$NHZ[J^J:UJ$Q+27-_=27,SDG))
+M=R223[UEY(Z5P3S>7V8G[3E/T5,#"SS/'SGW4(*'XR<_R1^\?CS_`(.7O@+X
+M:+QZ/HGQ"\22#[KP:?!;0'ZM+,KC_O@]*\9\<_\`!TW"%D3PY\&Y78@A)M2\
+M0A0IQP3''`<]^-X^M?D%17/+,Z[V=OD?H.`^CKP3A[>TH3JV_FJ2_P#;'%'Z
+M1>)_^#G/XV:BS#2O!WPVTQ">#+:WERX&/7[0HZ\]*X#7_P#@X?\`VF-8W?9]
+M>\,:5N7;_HN@P-@^H\W?S^GM7P]#`]Q(J1HTCN=JJHR6/H!WKUSX7?L`_&WX
+MS^4WAKX5^.M2MYON7)TB:"V/_;:15C_\>K-8K$3T4F_3_@'O5?#;@#*H<^)P
+M="G%=:EK??-L]6U?_@N;^U+J\H=OBE/;D#&(-$TV('\K>L"X_P""PO[3%R[L
+MWQ?\4*7Y.P0(!]`(QC\*]3^&7_!NY^TCX^@274]*\*^#D<_=U?64=P..<6RS
+M8^AP>*]T\#?\&M/B>^C1O$GQ<T+3F_B33=%EO/7HTDD7MVK6-+&2[_-_YGS.
+M-XH\)<M;C)85V_DI1G_Z1"2/B*\_X*I?M&7SEG^,OCQ23G]WJ31C\EQ4*_\`
+M!47]HI2"/C-\0LCUU>4_UK]0_!'_``:]?"S3(P?$7Q#\>:Q*"#_H*6MA&1W!
+M#1RGGV85Z3X?_P"#<_\`9MT:)5N=.\7ZNRK@M=:XZ%CZ_NE3G]*VC@L6]Y6^
+M;/E\7XR>%]%VI8)5/\.'@O\`TKE/R%L/^"N'[2>FH5C^,7C!@?\`GK.DI_-E
+M-:VF_P#!:+]I_25*Q?%O6G![S65G.?S>$FOV8T?_`((2?LL:/M9?A>EPX7:6
+MN->U.7=[D&XVY^@%;^E_\$:OV9='!$/PB\..#_SWEN9__0Y#6D<!B?\`GY^+
+M/GL3XV^&\KI9+S>M&@O_`&YGXX:)_P`%\_VH](9/,\?V5^B#&RX\/Z?AO<E8
+M5)/XUVGA[_@Y'_:*T95%U%\/]7"@`FZT:1"WO^ZF3G]/:OUG_P"'0_[-?_1'
+MO"&?^N,G_P`72-_P2$_9J="I^#WA$!ACB*0'_P!#JXX3%K_EY^9XF(\5O#&M
+M\>0_=3I1_P#29(_-_P`'_P#!T5\1K*YC;7_AEX,U.$$[UT^\N;%F'L7,P!_`
+MUZ[X)_X.E/!UVJ#Q%\)_$VG$CYSIVK07N#CL)$A[^]?5=[_P1,_9>OO,+_";
+M24,G7RM1OH\?3;.,?A7-:S_P0!_9;U0*(/`>HZ:5ZFV\1:BQ;Z^9,_Z5HJ6-
+M7VT_Z]#Q<1Q3X08O^)E5>F^\';\/;6_`YOP'_P`'&O[-_B]D&HW?C/PL7."=
+M3T4R!.>_V9YOTKW[X=_\%-/V?_BH8UT;XN^!))9>%ANM4CL9F.<8"3[&/Y5\
+MV>)?^#:O]GW6E/V+4/B)H[$8'V?5X9`.>O[V!Z\K\;_\&M'AF\EE;PW\7==T
+MY"3Y<>I:+%>D#'`+1R19Y[A?PJU/&+>*?HSR:V5>$^,UP^-Q.&?]^"FONC%O
+M_P`F/U.T/Q%8>)K)+K3KRUO[6096:WE66-OHRD@U=K\8?^(=;X^?!+5FU'X9
+M_&/0[6\B;='/!>7^B7!Z\@PK)@]/XNYYXYV+2U_X*7_LJS87[5\1-(M0#AY+
+M'6EGQVY*WA_3/O5K%S7\2FUZ:GE5O##)\5KDF>X>IV57FH2?DN;F5_N/V&HK
+M\I_"_P#P<$?$OX)RPV7QV_9]\1:$Z-LFO[&WN=.!YZK;W2X;CTFP:^I/V?/^
+M"W'[.G[0:P00^.(?"6IS$#[#XFC_`+-92>@\UB8#^$A-:4\72D[)Z]GI^9\U
+MF_A;Q/E]-UZF$E4I_P`])JK&W>\'*R];'UI15/1/$%CXETZ&]TZ[M;^RN4#P
+MW%O*LL4JGH59201[BKE=)\`TT[,****!!1110`4444`%%%%`!1110`4444`%
+M%%%`!1110`4444`,G^X/K11/]P?6B@!]%%%`!1110`4444`!.`3Z5\B?\%+O
+M^"NW@?\`X)]Z.-*2)?%7Q"O8MUKH,$X06JD9$UTXR8D/&%P6?L`,L.F_X*D_
+MM_Z=_P`$^OV;[KQ`JPWOBS6F:P\.V#G*S7)4DS..OE1##-CJ2BY!<&OYO/B1
+M\1]=^+WCO5?$WB75+O6=>UNX:ZO;RY??)/(QZGT`&``,``````"O-Q^.]E[D
+M/B_(_H?P2\&X\33>;9NFL)!V26CJ26ZONHK9M:MZ+9V^FO%_[>'[3O\`P4P^
+M,5GX2TOQ-XBGNO$,_DVGA[P],^G6,2=3O",-T:C)9YF;:`26Q7M_QM_X(80?
+ML@_LU7_Q'^*WQQCT"^L47R['2=&>],UVV3';Q2/<1-+(Q'95"A68G:"1]H?\
+M$"?V"]._9V_9>L/B/JEFK^-?B3:+>&61!NL=.8[K>%">0)%"RL>,ED'\`->6
+M_P#!TAH'B.^^#_PJU"RANI/"VGZI?KJC("8HKEXX!:L^.GRK<@$^I'>N9X:U
+M!UZUY2MWV/T2'B!#$\9X?@_A;DP>#C-PG.,(7J.";DES1:2;CR1=FY-W;=TC
+M\[OV9O\`@K!\;_V7O$-K)IGC?6?$>@PN!/HFOW#W]C=1=X]LA9HLCO&RD>_0
+M^P_\%-/V>_A]\7_V9/!?[47PAT2W\,:'XNNSIGBK0+<CRM)U+Y\LJC`0%D92
+M%"J08G"C>:^#`"3CUK]@?^"=7_!//Q1^U?\`\$6[GP+<ZI!X6M_'7C3^WK6\
+MN[4SM#8Q"!#)'&"NYGDMVVY905.<X(SR8;GK*5)ZZ77DS]2\0EE7"N)P?$M%
+MQP\G6C3JN*LJE*2?-SQBO><$N>+LY*UEN?C\!DXR*]!^!W[*'Q*_:5U+[+X#
+M\$>)/%#!MCRV-D[V\)_Z:3$"-/\`@3"OW9_9;_X('_`7]GB*WO-8T6;XC:]$
+M0[7?B$B6V5NX2U7$.W/.)`Y_VJ^S/#WAG3?"6D6^GZ5I]EIEA:KLAMK2%888
+M5_NJB@`#V`KJHY3)ZU)6]#\YXH^E+@J+=+(,*ZK_`)ZCY8^JBKR:]7%GX??L
+M_?\`!M!\6OB!!;W?COQ-X:\`VTH#/;1!M5OX_8JA6$'W$K5]I_`S_@W+^`/P
+MQMXI?$\?B+X@WZ'<S:C?M:6N?]F*WV''LSM7WX`!T&**]"E@*$/LW]=3\"S_
+M`,<.,LUO&>+=*+^S27);_MY>_P#?)GG/P<_9$^%W[/J*?!?P_P#"/AN91M^T
+M6.EPQ7##T:4+O;\6->BA`.@`_"EHKK225D?EN*QE?$U'5Q,W.3ZR;;^]ZA@>
+M@HQ[444SG"BBB@`HHHH`****`"BBB@`HHHH`"`>H!HP#U`HI-XSC.30!'=V,
+M%_;O#/#%-#(-KI(@96'H0>HKP'XQ_P#!*S]GSXZ^:VO?"KPHEQ-DM<Z9;G2[
+M@G^\7MC&2?\`>S7T%N]C1N''J:F4(R5I*YZ&79OCL!4]K@:TZ4N\).+^]-'P
+M"?\`@A_J/P%U:?5/V>_CG\0/A9/(WG'3+J0:GIDS^C1Y0$=!F02D>_2MS3OV
+M@?VO_P!E.,0?$;X7Z)\;]!@^]KO@6Y\C4U3U>RD5?-<XSB)%'/7U^XZ@U2U:
+M]TVYA25X'EB9%D7[T9((##W'6LEAXKX&UZ;?=L?55./<9C+1SJE3Q2[U(VJ?
+M^#:?)4?_`&]*2\F?C9^V7_P<I^)KWQ"NE_!GP[%H.GVZC[3J/B*T$M^\F/FC
+M6!7,<84Y4EBY..-O?N/^"8O_``<#:W\9_C'H_P`/?C%8Z-;R^([@6>F>(-/C
+M-LBW+<10SQ$E<2-\H=,89E!7!++^2?QD^%NM_!3XIZ_X3\1VD]EK?A^^ELKN
+M*52#O1B-P]58?,".""".#6_^R7\(O%/QR_:.\'>&O!MD+WQ#?:I"]JK,R11>
+M6PD:61E!*1HJEF8`D*IP"<`^#''5_:IM]=OT/[9Q_@SP1_JW.G2HQC%4W)5K
+M^\O=NIN=]5UL_=MTL?U7T5\_>$?V[(?"FH0Z1\9/"NI?"'69I1!#>:A,MWX>
+MU!SP!!J2`0J6[).(I#T"FO?H+A+F-7C8.C@,I!R"#WKZ.,D]C_/K'9;B<')*
+MO&R>S33C+_#)-QDO--CZ***HX0HHHH`****`"BBB@`HHHH`****`"BBB@!D_
+MW!]:*)_N#ZT4`/HHHH`****`"DD8)&S$X`[TM?-7_!7']IMOV4_V"_'6OVL[
+M0ZQJEI_8>E,IPZW-T#$'4_WHT,DH_P"N=3.:C%R?0]+)LJKYGCZ.7897G5E&
+M"]9-+[E?4_$O_@L7^VI+^VA^V=KM]87SW/A#PHS:+H"*Q,3Q1L1)<`=,S2;F
+MS@$H(P?NBO#/V9_@_/\`M`?M">"?!-N'#^*=;M--9EZQI+*JN_\`P%"S?\!K
+MAR<G/6OO+_@W3^"J?$__`(*$V^NW$1>U\!Z+=:NI/*^>^VUC!]\3NP]X\]0*
+M^5IMUJRYNK/]-LW>&X/X.JK!KECAJ+4/.25HM^<IM-OJVV?OMX=T*U\,:%9Z
+M;8V\5I8V$"6UO!&H5(8T4*J*!T`4``>U5?''@31/B9X6O=#\1:3I^N:-J,9A
+MNK&^@6>WN$/\+(P((^H[5K45]78_R[C5G&:J1;4D[WZW[W[GR;9?\$/?V8+#
+MQBFMI\+;)[A)/-%O)JE])9[LYY@:8QE?]DJ5]J^I]"T*R\,Z/:Z?IUI;6%A9
+M1+!;VUO&(HH(U`"HBK@*H````P`*MT5,*<8_"DCT\TS_`#/,N59CB:E;E^'G
+MG*5O3F;M\@HHHJSR`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`****`"
+MOQF_X."OVP?BI\`/VU-#T;P1\0O%_A32;CPE:W<MII>IRVT+S-=7:F0JI`W%
+M449]%'I7[,U^#_\`P<T?\G\^'?\`L2K/_P!++VO/S.3C1O%VU1^Y?1YP.&Q?
+M%\*.*IQG'V<W:24ELNC31\N_\/,_VA?^BT_$G_P?7'_Q5?N1_P`$/_BOXF^-
+M7_!/3POXA\7:]JOB77;J_P!0CFO]1N6N+B14NI%4%V))`4`#V%?SBU_0U_P;
+MX?\`*,3PA_V$M4_]+):X<KJ3E5:DV]/\C]U^DGD>78/A:E5PF'A3DZT%>,(Q
+M=N2II=).VB/MJ@\@@]#117O'\,'A/[5W_!-?X,_MH7T=_P"/?!EIJ&LPQB*/
+M5+6:6SO@HZ*TD3*9%'.%DW`9.`*O?LJ?\$^/A%^Q=%._P]\&V.CW]W'Y5QJ,
+MLDEW?3)G)4S2LSA20"44A<@<<"O:**S]E#FY[*_<]N7$N;/`K+'BJGU=?\N^
+M>7)_X#>WRMN5-;\/V'B;2Y['4K.UO[&Z0Q36]Q$LL4R'JK*V0P/H17DFG_LP
+M7WP7OC=_"G6F\.V`'S^%;_?<Z!*,Y_<)GS+)CT'D-Y0R28'->S45;BF<&&Q]
+M>A%PA+W7O%ZQ?JGI?L]UT:.-\`_%=]?N4TS7M+NO#/B(`EK"X<2Q3[?O-;SJ
+M-DR#@\8=01O1"0*[*H+W2[?4H@EQ#',BL'`=00&!R"/<'O4X`4``8`IG/5E&
+M4KPC;RW7ROK;U;?FPHHHH,PHHHH`****`"BBB@`HHHH`****`&3_`'!]:*)_
+MN#ZT4`/HHHH`^<?V^O\`@I_\//\`@G4OAQ?&UGXGU.Z\4><;.UT6TBFD"0[-
+M[N998D`!D48W$G/3`)KYO/\`P<]?`C_H3_BW_P""W3O_`)-K[D^.'[,?P]_:
+M5TVRL_'W@[P_XMM]-D:6U74K-)S;,P`8HQ&5R`,X/.!GH*\V_P"'4?[.'_1&
+MO`O_`(+UKEJPQ#E[DDEZ'Z9PYF'`M+`0AG>$KU*ZOS2A.*B]7:R=FM+)[ZZW
+M/F3_`(B>_@1_T)WQ<S_V#=._^3:^+/\`@LO_`,%=/"?_``4/\!>"_#?@;2?%
+MFD:7H=_/J6I+K<%O"9Y?+6.#8(9I<A5:?.['WAC/./UN;_@E)^S@`3_PIKP+
+M_P""]:_![_@K7IG@[PO^WWX]\/\`@+0-)\-^&?#,\.E0VFGPB*+SHH$$[$#^
+M+SC(,^BBN#&RKPI>_)-/31'[KX,8/@?-.(HU<EP=>%6A%U%*I.+BMH;+=^]=
+M>E^A\WU]T_\`!%__`(*3?#/_`()SMX^OO&VB>,=7U7Q5]C@M'T6TMIE@@A\Y
+MG#&:>(@LTB\`$?(.E?"PZBOWG_X)/?\`!+WX/^+/V`?AYKOCOX;>&/$7B;Q#
+M9R:I<7M_:"69XIII'@&3V$)CQ7#@*=252]-V:[G[/XVY_DN7\/?5\\ISJ4J\
+MXP<:;49.WOWN^B<5?U1F_P#$3W\"/^A/^+>/^P;IW_R;2_\`$3U\".W@_P"+
+MG_@MT[_Y-KZ;_P"'4?[.'_1&O`O_`(+UK\Y_^#B/]D'X8?LS?"WX:W?@#P/X
+M>\)W.K:K=PW<FG6PB:X184*JQ'4`DG\:]2O+%4X.;DM/(_F/A#`>&W$&;T,G
+MP^#Q,)U6TG*I&RM%RUM=]#WW_B)[^!';P=\7/_!;IW_R;1_Q$]?`C'_(G?%S
+M_P`%NG?_`";7X4U^H/\`P;G?LG?#;]IW2OBV_P`0?!>@^+6T67218G4;<3?9
+M1(MYYFW/3=Y:9_W17)A\=B*LU!-*_D?JO&W@QP+PUDU7.<31K3A3Y;J-35\T
+ME'2Z2W=SZ5_XB>_@1_T)_P`7/_!;IW_R;6YX$_X.3?V>?%VK);:A;?$#PQ%(
+MP4W6IZ/%)"GN1;3S/CZ+5'_@K1^Q%\$/V9/^"?GQ#\8>%OA)X)L?$%G;V]I9
+MW4>G*7M&N;J&W,JY_B5920>Q`K\&^]7B<7B*$U&33Z['B^'WA5P+QEEU7'X*
+MA7HQC-PO*I%NZC&3:LI+126Y_6G\+/BOX<^-G@73_$OA36M.U_0M4C\VVO+*
+M82Q2C.",CHP/!4X*D$$`@BNA+`9R0,5^-G_!KQ\7-=;XA?$CP+)<2S>&SIT.
+MN1Q,25MKH2K"2O8>8C#/KY2^AKWK_@MM_P`%>I_V1+)OAG\.;R(?$;5+=9K_
+M`%`*)%\/VTBG;@'C[0XP5!!"J0Q'*UWT\9%T56GH?B.=>$V8T>,9\)98_:R3
+M34GHE!I2YIVO;E3L^[V5VD?1W[9?_!4WX.?L-.UEXP\1-=^(C$)8]"TF,7>H
+M,#T++D)$#V,K)GMFOB6X_P"#DKQ?\4O%<VF?"SX!:KXD$0W(&O)KR[=?[S06
+MT+;/^^V^M?EM^S]\(_$7[8O[2_AOPA;WEU>Z]XUU9()KVY=IY%#-NFN)"26;
+M8@>1B3DA37],W[+O[*W@O]D7X2Z=X.\%:/!IFFV2#S9-H:XOI<?---)C+R,>
+M<G@#``"@`<U"O7Q+;B^6*^;/T3C/@[@[P^PU##YA0EC\;57-:4Y4Z<4M.:T-
+M;-Z13;;LW=6L?G+;?\'(WB[X6^*(=.^*OP`UCPRDH!;9=S6ETH[LL%S"N_\`
+M[[7ZU]G_`+'/_!6#X+_MNW4>G>$_$3Z?XC9-YT+68A9WY'?8-QCEQW$3N0.N
+M*]>^//[.W@S]IKX;W_A/QOH-CKVB:@A5HIXP7A;&!)$_WHY%[.I!'K7\T_[<
+MW[,FH_L)_M>>)_`L5_=2#P]=QW.E:@&\N:6VD19K>7*XQ(%8`E<8=6Q3KUJ^
+M':E)\T7\F8\%\*\&\?PJX'!T)8#&PCS+EG*I3DKI-VGKHVKQ33U33>J7].OC
+MWQSIWPW\#:QXCU6?[/I6@V,^HWLH4N8H(8VD=L#DX52<#K7Y]S?\'.WP'AG=
+M!X1^+,BHQ`9=,T\!O<9O0<'W%<C_`,$6/^"P<O[1Q@^#'Q?O(+_Q-/;M;Z)J
+MUVH8:]&%.ZUN<\-/LSAB/WB@AOGY?[*G_P""5?[.5W,\K_!KP%OE8NVW345<
+MDYX`P`/8#%="JSK04Z$DEUNCX:7#>3\)YCB,KXVPM6I45G3E2FE%QU]Y7M=/
+M\&FFDTSYA_XB>O@1V\'_`!<_\%NG?_)M'_$3W\".W@_XN?\`@MT[_P"3:]2_
+M;*_X)F_`'P+^R+\4=;TCX3>#-/U72/">J7EG=0V(62WFCM)7213V96`(/J*_
+MG7/6N'%8K$4&E)IW\C]D\-_#?@#C'#UL1@L/7IJDU%\U1:W5]+7/Z$OV8O\`
+M@OG\(?VK_COX<^'OA[PU\2+'6?$\[6]M/J-C91VL;+&\A+LET[`80]%/./K7
+M9?MS?\%COA!^PQJ\NA:M?7OB?QA$@9M$T54EEMLCCSY&81Q9Z[22^"#L((-?
+MSQ_!KXQ>(/@%\2-.\6^%;W^S?$&D>:;*["!VMGDB>(NH;(W!7)!(.#@U^GG_
+M``3J_P"#?T_''P?:_$7X\:GKL+^)0-0M="M[CR[R9)/G$UY,P+AWW;MBX<9R
+MS!LJ'A\;7JKE@O>[]$C/C;P=X*X9Q4<RS6O.&#Y4E33YJM6I>5TG;2*CRWM;
+M5ZRCI>'Q!_P=->)9=38Z5\(=#M[,-\JW6N2S2,ON5B0`_@<>]>G?L]_\'//@
+MGQ9JL-E\2/`FK^$$E?9_:&EW0U2V3_:="L<BCK]P2'V]/1/C;_P;C?`3QMX.
+MN+;PA'XB\$ZVL1^S7L6I2WT7F8X,L4Y;<N>H1D/H17XE?M,?LZ^)/V4/C?K_
+M`(!\66Z6^M>'YQ%(8VW17",H>.:,\91T96&0#@X(!!`SKUL90:E-W7X?H>QP
+M?PMX4\:4ZF#RK#3I58*]G*<:B6W,KSG&23M?>UU=:H_J3^$?QB\,_'?P'8^*
+M/"&MZ=X@T#4DWV]Y9RB2-_53W5@>"K`,#P0#7R5^U3_P7G^#W[(WQSUSX?Z]
+MHOC_`%C6?#S1QWDVDV%K);([QK)L#2W,;$A6&<+C/<U^0_\`P2U_X*.:_P#L
+M!?'>TNGN[JZ\`Z[/'!XBTK<6C:(G'VF->TT8Y!&-P!4\$$?O9\0?V&?@;^TG
+MX@7QCXB^'?@SQ5J.KV\3_P!J362227<6P>6Q<??&S:`3GY0!T`KMHXF=>G>F
+MTI+>Y^0<4^'66<$9[[+B*%3$8.K%NE*FU"7,FM)7TO%;V:O=-=4ODC_B)[^!
+M';P=\7/_``6Z=_\`)M?FI_P5_P#VYO"?_!0+]IK2O&O@[3O$.EZ78^'H-)>+
+M68(8;@RI/<2%@(I9%VXE4`[LY!XZ9_<;_AU'^SA_T1KP+_X+UK\DO^#AG]F_
+MP)^S3^T1X%TOP%X6T?PII^H>'6NKF#3X!$DTOVF1=[`=3M`'X5RXZ%?V3=22
+M:]#]'\%\TX(GQ/3I9%A:].O*,TI5)QE&W+=Z+6^FA^?=?J=_P2X_X+A?"K]B
+M+]CK0?A[XJ\._$'4=9TN[O)Y9]*LK.6U99KAY%"M)<QL2`PSE1SZ]:_+&OVS
+M_P""'?[!WP<^/O[`NC>(_&GPY\+^)==GU:_ADO;ZT$DS(DV%4GT`X%<>7JHZ
+MC]FTG;J?L?CKB,BH\/4Y\04JE2C[6-E3DHRYN6=G=]+7^;1T7_$3W\"/^A/^
+M+>/^P;IW_P`FT?\`$3W\"/\`H3_BWC_L&Z=_\FU].?\`#J/]G#_HC7@7_P`%
+MZT'_`()2?LX8/_%FO`O_`(+UKV.3%?S+[C^1EFWAA_T`8K_P9#_,^9#_`,'/
+M7P(_Z$[XN#_N&Z=_\FU>\+?\'+'P.\7^)]-TFU\)?%>.YU2ZBM(FETW3PBO(
+MX0%B+PD#)YP":_#SXMZ=!H_Q5\36=K"D%K::K=0PQH,+&BS.%4>P``J?X(?\
+MEI\(?]ANR_\`1Z5Y2S.O>VGW']+U/HZ\&O"/$0A57N\R_>>5^Q_68.@HHK$^
+M(_Q"TCX3^!-7\2Z_?0:9HNA6DE[>W4QPD$4:EF8^O`Z#DG@<U]&V?P'3ISJ2
+M5.";;=DEJVWLD2>./'NB_#7PK?:YX@U73]%T?3(S-=7E[.L,$"#JS,Q``K\[
+M_P!I7_@Y9^%OPUO;C3_AYX<UKXB7D)VB\D?^R].<^JNZM,V/>)0>Q[U^;7_!
+M3K_@J%XL_P""@OQ-E43W6C_#W2KACHNAA\+QP+B?'#S,,]<A`=J_Q,WUC_P;
+MR_\`!-OPS\8=*U+XS>.=-M=;M],U$Z=X=T^Y020+/$JM+=.A&URI=50'(!5S
+MC(0CR7C9UJGLJ&GF?U'A?!S)N%>'GQ'QMS5)Z<M"#Y5S2VC*2U<NKLTHI/XK
+M'2Z9_P`%\?VD/%NAR:YHG[-\E]H!!D2\@TW5+F!4]3,BA#]>!6E\'_\`@Z%T
+MY]96R^(_PKU'2(D8)+=:)J"W+QMT;-O,L9&#_P!-"?;CG]84MDC0*JA5'&!P
+M*_.S_@O'_P`$U_#7QG_9]U[XM>'M,MM,\>>"K5M0OIK>((-9L8QF99@!\TD:
+M9=7.6PA4Y!&W:M3Q$(N<)WMT:1\KPQG_``'G.8PRO,\G6'A5:C&I"M4;BV[1
+MYKNS3>C>RW<;'V!^RM^VQ\-/VSO",FL?#WQ19:U';X%U:G,-Y8D]!+"^'7)S
+MAL;3@X)KU;<,$YXK^3KX%_'?Q7^S9\3M+\7^#-8NM$U[291)#/"W#C^*-U/R
+MO&PX96!!!Y%?T>_\$S?V]-(_X*!?LV67BJW2&Q\1:<XT_P`0:<I.+.[5`2R9
+M.3%(#O0\\$J265J,%CE6]V6C_,Q\7O!:OPE;,,#-U<))VN_B@WLI6T:?222U
+MT:3M?QGX_P#_``<)?!?]G7XT>)?`VK>'OB1J>J>%K^33KNXT[3K-K9IHSAPA
+MEND<@-D9*C..,C!/'?\`$3W\"/\`H3_BWC_L&Z=_\FU]=?$O_@GE\$/C'XTO
+M/$?BCX7^#=:US4"&NKVXTY#-<$#`9V&-S8P,G)P!Z5_.M_P42\#:1\-/VY/B
+MIX?T#3K72=%T?Q'=VME9VZ;(K:)7PJ*.P`K+&5\11]ZZLWV/J_"K@[@/BZH\
+M`L-7A6ITU*;=1<K=U%\ME?5NZT6A^M__`!$]_`C_`*$_XMX_[!NG?_)M'_$3
+MW\".W@_XM_\`@MT[_P"3:_"JOZ+?V0O^"9/P`\:_LG?"_6=6^$O@N_U35O"6
+ME7MY<S6`:2XFDLXG>1CW9F))/J:RPN)Q%=M)I6\CZ'Q(\./#_@ZA0KXW#UZB
+MJMI<M1:62>M[=SR@_P#!SU\"/^A.^+@_[ANG?_)M>I?LM?\`!=SX#?M4>/;3
+MPS:7VO\`A#6M1D\FRA\26D5M'>2'HBRQ2R1ACT`=E+'`&20#^6G_``7L^%GA
+M#X%?MF6/A#P/X-T+P?H>G^'[:Z\O3K40_;)9I)2\C$<M@*J@=!M/J:^(XW,;
+MJRDAE.00<$5G4S"O3J.,K.Q]!DO@+P?G^14LRP2K4'6CS1O-2<;[75K/NTGY
+M73U/Z\6D`C+9``[UX^/VT-"U.>>;0_#WB[Q/HEL[I)K&E6<4MJVPD.T*-*L]
+MT@((W6T4JM@[2U>4_L#^)_&_[2W_``1[\/SZCJ-PWC;Q#X4U+3;:_G<^:TBO
+M<VUK.[=2Q18F+'DGD\FO%_&WPXL_BAXN\9>/-+7PAX?T#2&\)`:5JL=E:ZKI
+MG]G3#[9:B>657TV2!1@ED_>`#82""?7=5N*E%;G\M8'A3#T\;BL%CZBO1FZ=
+MU>UU-0\G[UVXO9*+YM-5^@_@SQOI?Q(\(:?KFB7T&I:5J<2SVUS"V4E0CK['
+ML0<$$$$`BBN"_9/MI)?A_K6KI9W.G:5XF\17^L:5:SP-!)':S2960QL`R>>X
+MDN-K`,/M&&`;(!6R=T?&XZA&CB)THO1-KS]'YK9VTOL>K4444SD"BBB@#.\8
+M>);7P9X3U/6+Z0166DVLMY<.>B1QH78_@`:_DX^)WCN\^*/Q(\0>)M0=I+[Q
+M#J-QJ5PS'),DTK2-^K&OZ//^"QOQH7X(?\$X?BAJ"R%+K5],_L*W`.&9KQUM
+MFQ[K')(WT0U_-.3DYKP\WJ>]&'S/[5^BIDW)@<=FLE\<HTT_\"YI??SQ^XV/
+MA[X+O?B1X^T/P[IJ&34->U"#3K9<9W2S2+&@_P"^F%?U@?#'P+8?"[X=:#X9
+MTN+R=,\/:?;Z;:)_=BAC6-!_WRHK^>S_`((1_`8_'+_@HYX/FFC\S3_!22^)
+M;K*Y&8`%AY[$7$D)_P"`FOZ+ZVRFG:$I]_T/DOI39][;-L)E$'I2@YO_`!3=
+ME?S2C?TD%?E9_P`'2W_)'?A+_P!AJ^_]$1U^J=?E9_P=+?\`)'?A+_V&K[_T
+M1'75F'^[R_KJ?EO@?_R7&7_XI?\`IN9^+U?L'_P:K_\`(%^-W_7;1?\`T&^K
+M\?*_8/\`X-5_^0+\;O\`KMHO_H-]7B9;_'C\_P`C^R_I`?\`)"8SUI?^G8'Z
+M??M#?`O0?VF/@KXC\">)X99M#\2VC6ER(FVR1\@K(A((#HX5U)!&5'!Z5^,7
+MC?\`X-EOC+I_Q!>ST#Q3X%U/PY)(?)U*[N9[69(\\>9"(GP^.RLP]Q7[H45[
+MU?"4ZUN=;'\/\%>)V?\`"L*E+*:J4*FKC**DK[<R3V=M.STNG9'Q?^RW^R%X
+M,_X(L?L3^.?$]U?G7];M=/?5]=U1H_(^WR0HWD6L*Y.Q-S;%!)):0DD9`7^?
+MSXL_%#6?C7\3-=\7>(;M[[6_$5[+?WDS9^>21BQ`'91G`'0``#@5^^G_``<+
+M>)KCP]_P3,\36\#,$UK5=-LIL''R"Y6;^<*C\:_GJKR,S:BXTHZ)(_K/Z.5&
+MMF.$QW%&8S]IB<15Y')VORPC%V5MDW+965HQ5M$?9'_!`S:?^"IGP[#*&)@U
+M3!]#_9USS7]%E?SI?\$#/^4IWPZ_ZX:I_P"FVYK^BVN[*U^Y^?\`D?C'TGW_
+M`,992_Z\0_\`2Z@5_/?_`,'$7_*3'7O^P+IO_H@5_0A7\]__``<1?\I,=>_[
+M`NF_^B!1FG\'YF'T9?\`DL)?]>9_^E0/BOPGXJU'P-XHT[6M)NYK#5-)N8[R
+MTN8CMD@FC<.CJ?4,`?PK^HC]A']I*/\`:X_9(\"?$!5B2YU_3$-]''PD5W&3
+M#<*H[*)HY,>V*_EGK]X_^#9[Q5=:[^P-K=C<.[PZ)XPO+:V#'(1&MK28J/0;
+MY'/U8UPY34:J.'='[3]*#(:.(X?HYJE^\HU%&_\`=FFFO_`E%KMKW/KC]O;_
+M`),=^,7_`&).L_\`I#-7\LAZU_4W^WM_R8[\8O\`L2=9_P#2&:OY9#UJ\W^.
+M/HSR?HI_\BW'_P#7R'_I+/=/^"9OPATSX[_MZ_"WPOK42SZ5J&N1RW<+?=GC
+MA5IS&?9A'M/L:_I_C01H%'05_-9_P1?_`.4GOPB_["DW_I'/7]*E=&4K]TWY
+M_H?"?2GQ%27$.$HM^[&BFET3E.:;^:BK^B`]#7X2?\'->A6NF?MT^%KN")8Y
+M]1\%VTEPPX\QEO+Q`3[[54?@*_=L]#7X8?\`!SW_`,GL>"?^Q(@_]+[VM<S_
+M`(#/F?HX2:XUI)=:=3_TD_-JOZ4_^",'C*]\>?\`!,CX2W^H2-+<0Z;/IX8G
+M)\NVNY[:,?A'$@_"OYK*_H]_X(5?\HK?A5_USU+_`-.EY7GY2W[5KR_5'[O]
+M*:G%\-86;6JKI)^3IU+_`'V7W'UO7XC?\'1/_)TOPY_[%5O_`$KEK]N:_$;_
+M`(.B?^3I?AS_`-BJW_I7+7HYE_`?R_,_`?HZ_P#);X?_``5/_2&?F)7]!W_!
+MN[_RC0T#_L-:E_Z/K^?&OZ#O^#=W_E&AH'_8:U+_`-'UYN4_QGZ/]#^B_I/_
+M`/))4O\`K_#_`-(J'W-0>AHH/0U]"?P(C^3+XV_\EF\7?]AJ\_\`1[TOP0_Y
+M+3X0_P"PW9?^CTI/C;_R6;Q=_P!AJ\_]'O2_!#_DM/A#_L-V7_H]*^-^U\S_
+M`%Q7_(K?_7O_`-M/ZS*_*;_@YG_:WG\+^`O"GP<TNY>*7Q,?[=UL*<;K6)RE
+MO&?57F5W/O;KZU^K-?SP_P#!P3XKN/$7_!3KQ?:S.7BT/3M-L8`<_(AM(YR/
+M^^YG/XU]'F51QHM+KH?Y^_1ZR&CF?&-*==75",JMO[T6HQ^Z4E)>:/BFOZ!O
+M^#="T:V_X)M:6[9Q<:_J,B_3S%7^:FOY^:_0/_@G_P#'#]M?P/\`LSZ5IWP3
+M\*W&J>`([FY>TN$T>UN0\IE8RC?(=QP^X<]*\C+ZJA5<FF].FO8_K#QVX=JY
+MUP[#!4:U*B_:Q?-5FH1LHST3:>NNB[)]C]\:\L_;F&?V)_C"#_T).L_^D,U?
+MF5_PT[_P4Q_Z$2\_\)RQ_P`:QOB-\8/^"D'Q4^'VN^&-8\`ZC+I'B/3Y],O4
+MBT"RC=X)HVCD`8'*DJQ&1R*]>6-337++[C^3\M\(,70Q=*O/,L':,HMVQ"O9
+M--_9/RL/TQ7Z+?\`!M1\8;_P?^VOK?A%'9M*\8Z!*\T6<`3VK+)%)CN0C3+_
+M`-M*^>/^'0_[2W_1'O%O_?N/_P"+KZZ_X(B_\$^OC/\`LZ_MYZ3XF\;_``\\
+M0>&]!@TF^@>]NT01*[QX53AB<D^U>/@Z52-:+Y6M>Q_6GBGQ)P_CN$LPPT<7
+M1G)TY.,54@VY+6-DG=NZ5K'[5U_,/_P5*_Y2)_&;_L:[W_T97]/%?S#_`/!4
+MK_E(G\9O^QKO?_1E>EFW\./J?SY]%?\`Y'V,_P"O/_M\3P.OZHOV&O\`DRCX
+M/?\`8DZ-_P"D$-?RNU_5%^PU_P`F4?![_L2=&_\`2"&N?*/BD?;_`$K/^1=E
+M_P#CG_Z2CPO_`(*N?\$E=%_X*+>'M.U;3]3B\-?$'0(C;V6HRQ&2WN[<L6^S
+MSJOS;0Q+*ZY*EFX8'%?GQ\&?^#:+XMZO\3K6W\=:]X3T3PI;S@WEWIMX]W=7
+M$0;E84,:@,PX#28"YSM;&T_N;17I5<%1J2YY+4_GGAKQDXIR++'E.`KKV6O+
+MS14G"^_*WMWL[I/9&'\./AYI'PI^'VC>%]`LX]/T30;.*PL;9,[888U"JO/)
+MP`.3R>M-U;X6>&M>\16VL7WA_1+W5K/_`(][V>QBDN(/]V1E++^!K>HKJL?F
+M;Q%5S=5R?-*]W=W=][OK?J1R($C`'3-%+/\`<'UHIW,1]%%%`!1110!^7O\`
+MP=!?%Q-#_9V^'W@F*=5N/$6O2:I*@;YFAM8"F"/[I>Y0_5*_$VOT+_X.4?BP
+M?&O[>=AX<BGWV_@SP[;6TD><B.XG9[AC]3&\'Y"OST49('K7R^83YJ\O+0_T
+MK\"LG_L[@O!IJTJB=1_]OMM?^2\I^S?_``:__L_-HOPQ^(7Q-NXL2:]?1:#I
+M[,N"L5NOFS,#W5WFC'U@-?JS7A'_``3._9X;]ES]AKX=>#[BW%OJ=IIBWFI+
+MC#"[N"9YE/J5>0IGT45[O7T&%I>SI1B?P=XE\0_VWQ/C<Q3O&4VH_P""'NQ^
+M^*3^85^5G_!TM_R1WX2_]AJ^_P#1$=?JG7Y6?\'2W_)'?A+_`-AJ^_\`1$=9
+MYA_N\OZZGN>!_P#R7&7_`.*7_IN9^+U?L'_P:K_\@7XW?]=M%_\`0;ZOQ\K]
+M@_\`@U7_`.0+\;O^NVB_^@WU>)EO\>/S_(_LOZ0'_)"8SUI?^G8'ZXT445].
+M?YO'RQ_P6D^#=W\:_P#@FS\3+#3X6GO]*M(=;A51EB+2>.>7`]?)26OYLJ_K
+MLUC3+?6]*N;*[ACN+6[C:&:*1=R2HPPRD'J""017\R?_``4L_8GU+]A3]JC7
+M?"<T4S>'KMVU#P]=L#MNK%V.P9[O&08V_P!I,]",^)FU%W51>A_9'T6^*Z*I
+MXKAVM*TG+VL/.Z49I>:M%VWLV^C/1O\`@@:0/^"IWPZR0/W.J?\`IMN:_HNK
+M^;#_`((L>/[#X;_\%-?A7?ZG,L%K=WT^F!VX`EN;2:WB'XRR(OXU_2<K!AD'
+M(KHRIWHOU_R/B?I1491XIH5&M)4(V?I.I?[M/O%K^>__`(.(O^4F.O?]@73?
+M_1`K^A"OYY_^#A/5[;5/^"FWBB.WF29[+2]-@G"G/EO]F1]I]]KJ?QIYJ_W/
+MS.3Z,D6^+Y-+:C/_`-*@?$=?T-?\&_'P@F^%7_!-WPY>74;PW/C+4;S7F1Q@
+MA'<01'Z-%;QN/9Z_$#]A_P#9)U[]M?\`:1\.^`]$AN!'?SB74[Q$W+IEDC+Y
+MUPQZ#:IP,XW.R+U85_4#\//`FE_"_P`!Z+X;T2UCLM'T"QAT^R@3I##%&$1?
+MP50*Y<IHOF=1[;'Z=]*/BNC'`X;AZE*]24O:37:,4U%/_$VVO\)Y]^WM_P`F
+M._&+_L2=9_\`2&:OY9#UK^IO]O;_`),=^,7_`&).L_\`I#-7\LAZTLW^./HS
+M3Z*?_(MQ_P#U\A_Z2SZ@_P""+_\`RD]^$7_84F_](YZ_I4K^:O\`X(O_`/*3
+MWX1?]A2;_P!(YZ_I4KIRG^$_7]$?GWTI?^2FPW_7B/\`Z<J`>AK\,/\`@Y[_
+M`.3V/!/_`&)$'_I?>U^YYZ&OPP_X.>_^3V/!/_8D0?\`I?>UIF?\!GSWT<?^
+M2UI?X*G_`*2?FU7]'O\`P0J_Y16_"K_KGJ7_`*=+ROYPJ_H]_P""%7_**WX5
+M?]<]2_\`3I>5YV4_Q7Z?JC][^E+_`,DQAO\`K_'_`--U#ZWK\1O^#HG_`).E
+M^'/_`&*K?^E<M?MS7XC?\'1/_)TOPY_[%5O_`$KEKTLR_@/Y?F?S]]'7_DM\
+M/_@J?^D,_,2OZ#O^#=W_`)1H:!_V&M2_]'U_/C7]!W_!N[_RC0T#_L-:E_Z/
+MKS<I_C/T?Z']%_2?_P"22I?]?X?^D5#[FH/0T4'H:^A/X$1_)E\;?^2S>+O^
+MPU>?^CWI?@A_R6GPA_V&[+_T>E)\;?\`DLWB[_L-7G_H]Z7X(?\`):?"'_8;
+MLO\`T>E?&_:^9_KBO^16_P#KW_[:?UF5^!O_``<@_""[\"?M^1^)FA?[!XWT
+M*UNHIL':9H`;:2//JJQQ,<=I!7[Y5\=?\%J/V"KG]M[]E*7^P+5;CQOX)E?5
+M=%C49>\79B>T!]95"E1W>*,9`S7T^.HNK1:6ZU/\Y/!7BVCP_P`54,5BGRTJ
+MB=.;[*5K-^2DHM]E=G\Z%?T&?\&[-_\`:_\`@FEH<><FUUO4HOIF;?\`^S5_
+M/M=6TME<R0S1O#+$Q1T=2K(0<$$'H0:_='_@VA^,FC^*/V-]=\&0SHNO>%=>
+MFN;FW)^8V]RB-%*/8LDJ^Q3W%>/E<K5O5?Y']7?27P\ZW!RJ4U=0JPDVNB:E
+M&_I>27S/T@HHH)P,FOHS_/H"0H)/`%?./@'_`(*G_"7XH?MC77P0T'4-3U+Q
+M;:?:(WNHK7.G-/;JS30++NR70(^3MV?*0&)XKBO^"P7_``4ETO\`86^`-[I^
+ME7\+_$KQ7:R6^A6BL&>S5LHUZX_A6/)*Y^^X`P0'*_+W_!N1^PEJ6F+K'Q[\
+M6VLR7.MQ/8>&OM.3++$S9N+WGGYV'EJ3R0)3R&4GCJ8B7MHTJ?J_)'ZKD7`V
+M$7"N,XGSMRA"W)ATFDZE1];-:PCUMO:6ONGZR5_,/_P5*_Y2)_&;_L:[W_T9
+M7]/%?S#_`/!4K_E(G\9O^QKO?_1E<V;?PX^I^F?17_Y'V,_Z\_\`M\3P.OZH
+MOV&O^3*/@]_V).C?^D$-?RNU_5%^PU_R91\'O^Q)T;_T@AKGRCXI'V_TK/\`
+MD79?_CG_`.DH]2HHHKW3^)PHHHH`9/\`<'UHHG^X/K10`^BBB@`I)"0N0<&E
+MKB/VE_BE%\$?V>/''C"5U1?#.A7FI*3W:*!W5?J6``]S2;MJS;#8>=>K"A25
+MY2:27FW9?B?S5_\`!1?XQ-\>_P!N?XI^*/,\VWOO$-S!:/G.ZV@;[/`?QBB0
+MUH?\$ROV=)/VI/VYOAUX3:W%QITFJQZAJ:L,J;.V_?S*?9DC*?5Q7A,\SW,[
+MR2,TDDA+,S')8GJ3[U^N_P#P;$?LN2Q-XW^,.H6X6.11X:T=F'+<I-=.,]LB
+M!01U_>#L:^7PT'6KJ_5W9_I?X@9O2X3X)JNB[.G2C2I_XFE"-O3XO1,_7B)-
+MB`8`Q3J**^I/\R@K\K/^#I;_`)([\)!_U&;[_P!$1U^J=8'CSX5>%_BG;VT/
+MB?PWH/B.&S8O`FIZ?%>+"Q&"5$BD*2!U%8XBC[6FX7M<^NX#XFAP]GV&SFI3
+M=14FWRIV;O%QWL[;WV/Y*L'V-?L)_P`&K(*Z-\;@>OG:+_Z#?5^EA_9"^$Q_
+MYIA\//\`PG+/_P"-UT?@+X1>$_A6+H>%_#'A[PV+[;]I&EZ=#9BXVYV[_+4;
+ML;FQGID^M<&%RYTJBGS7MY'[;XB_2`PW$V05\EIX*5-U.3WG--+EG&6W*M^6
+MVYT-%%%>J?S(!&1@C(->%?M^?L"^#O\`@H#\&9?"_B6,V.HV9:?1]9@C5KK2
+MI\8W+G[T;8`>,D!@!R&"LONM%3**DG&2NCNRS,\5E^*IXW!5'"K3=XR6Z:_K
+M5;-:/0_F,_:X_P""?7Q>_P"">_CV.?Q'H][!I]G>*^E^)M,WR6$[JVZ-TF`'
+MER97(1]K@KD`C!/ZC_L2?\'%_P`,O&/PSL+#XRW%YX.\76$0BNK^#3IKO3]2
+M*@`2H(%>2-VZE"FT'HV#@?I'JNC6>NZ=-9WUK;WEI<*4EAGC$D<BGJ&4\$'T
+M->`>/O\`@DU^SC\2=2:[U+X0>#HYY#N8V%LVG!CZD6[(#^7->?3P4Z,FZ$M'
+MT9^\9QXO9)Q7@*6%XRP4W5I7Y:M"45+7?W9Z).RNKM7U21X#^TO_`,'%WP0^
+M''@FYE^'MUJ?Q#\1R1E;2W33[BPLXY,<--).B,%'HBL3C'&<C\GOA'^RM\;O
+M^"J/QWUGQ'I6C7>L7OB#46NM8U^Z0V^F6;NW.Z4C`"C`$:;F"J`%.*_=_P`!
+M_P#!)G]G#X<WZW6G?"#P?+.C;E:_MVU$*?4"X9QV]*]]T70+'PWID-EIUG:V
+M%E;KLB@MXEBBB7T55``'L*=3!U*S7MI:+HO^"8Y'XJY!PEAJL>$,%-UZBLZN
+M(E%M+LHP25KZV35W;FO9(^>O^"<'_!-OPA_P3Q^%;:9I.S5_%&K(CZWKLL(2
+M6^<<A$'/EPJ2=J9/4DDDYKZ0HHKNA",(J,59(_$<WS?&9IC*F/Q]1U*M1WE)
+M[M_HELDM$M%H>3?M[?\`)COQB_[$K6/_`$AFK^60Y[<U_79K&CVGB'2KFPO[
+M6WO;&\B:&XMYXQ)%/&P(9&4\,I!((/!!K@_^&0OA-_T3#X>?^$Y9_P#QNN/&
+M8)UVFG:Q^Q^$?C!0X,PN(P]7#.M[64974E&UE:VJ=S^?#_@B^#_P\\^$7_83
+MF_\`2.>OZ4ZXGPU^S5\.?!>NVVJ:-X`\%:3J=FQ:"[L]$MH)X"002KH@93@D
+M<'H:[:M,'AG0@XMWU/F_%GQ#I<8YI2S&E0=)0IJ%G)2O:4I7NDOYK?(#T-?A
+MA_P<\G?^VQX)QV\$P?\`I?>U^Y]<KXX^!7@CXG:I%?>)?!WA;Q#>PQ"".XU/
+M2H+N6.,$D(&D4D+EB<#C)/K58JA[:GR7L>;X9\:PX5SV&<5*3JJ,91Y4^5^\
+MK;V>WH?R:X/I^M?T>_\`!"KC_@E=\*AW$>I?^G2\KW/_`(9"^$W_`$3#X>?^
+M$Y9__&Z[/PIX0TGP'H-OI6AZ7I^C:7:[O)L[&W2W@AW,6;:B`*N6))P.22>]
+M<^#P#HS<G*^A^A^+/C70XQRJEEU+".DX5%.[FI7M&4;645_-?Y&C7XC?\'1)
+MS^U+\.?;PJW_`*5RU^W-<OXZ^"'@OXHW\-WXF\(>&/$5U;1^5%-J>EP7<D29
+M)VJTBD@9).!QDUTXJA[6FX)V/SKPUXRAPMGU/.*E)U5!27*G9OFBUNT]K]C^
+M3/!]A7]!W_!NZ<?\$T=`'?\`MK4O_1]?47_#(7PF_P"B8?#S_P`)RS_^-UUW
+M@WP'H?PZT5--\/Z-I6A:=&S.MKI]K';0*S')(1`%!)Y)QS7+@\`Z$W/FOI8_
+M2O%7QPP_%^3QRNEA)4G&I&?,YJ6RDK645_-WZ&M0QPI-%!&001D&O2/YX/Y,
+MOC;D_&;Q<0.NM7G_`*/>G?`]2?C1X0Z#_B=V7_H]*_J*NOV2_A7>W,DTWPT\
+M`333,7=W\/6C,[$Y)),>22>]%M^R9\*[*XCFA^&G@"&:%@\<B>'K171@<@@B
+M/((/>O%_LEWOS?@?V-_Q-)A/JGU;^SY?#RW]HNUK_">@T$`C!&0:**]H_CD_
+M,K_@KC_P0N3]HO6]0^)/PBALM.\9W1,NJZ$Q2WM=;?DF:)CA8K@_Q!B$D/)*
+MMN+?EM\#_C)\6_\`@EO^TNFJP:;J?A7Q/I@^SZCI&K6LD46H6[$%HI4.-T;8
+M!#*>"`RGH:_I^(!ZC-<S\2_@MX/^,^C#3O%_A;P]XHL!DK!JNGQ7D:D]P)%.
+M#[CFO.KY?&4O:4WRR/WO@OQUQF79<\CSZ@L9A''EM)VDH[<MVFI171-)KI*R
+M2/SQ^&__``<\_"?5/"D<OBSP1X]T;7$3,UMIL=M?VS-C_EG*\T3'_@2+CU->
+M9_'O_@Y@UGQRKZ!\%_AO>PZKJ+&WL[_6F%S<[FX7R[.#<#)SD`R.,XRK=*^]
+M+C_@D?\`LV7-ZT[?!WP<'<DD);LB<\\*&`'X"O4/A-^RW\-O@."?!?@+PCX6
+MD9=K2Z9I4-M-(/1G50S?B35*EBFK2FEZ+4XWQ/X;86H\5@\IJU)[J%2K:FG\
+MG)M+M*]^I^5'[$O_``1;^)O[7_Q@_P"%M?M.W>K0VUY.EX^D:A)G4];QT28`
+M_P"BP`!1Y8`?:-H6,8-?L/X=\/V7A30[33--M+:PT^PA2WMK:WC6.*"-%"JB
+MJN`J@```<`"K@`'`&!1710P\:2M'=[OJSX/C/CK,^)<1"KC6HTZ:M3IP7+3I
+MQ[1C^;=V]%LDD5_,/_P5)Y_X**?&;'_0UWO_`*,K^GBN&US]F#X:>)]8N=1U
+M/X>>!]1U"\D,MQ<W6A6LTT[GJSNR$L3ZDYK/&89UXJ*=K'TGA+XD4N#LPK8V
+MK0=55(<EE)1M[RE>[3['\HF#Z?K7]47[#?'[%/P?'IX)T;_T@AJ]_P`,A?";
+M_HF'P\_\)RS_`/C==[I>EVNAZ9;6-C;06=E9Q+!!!!&(XH(U`5451PJ@```<
+M`"L\'@G0;;=[GN^+GC!0XSPV'P]+#.C[*4G=R4KW271*VQ/1117>?A84444`
+M,G^X/K11/]P?6B@#Q?\`;7_;[^'?[!7@&WUSQUJ4ZRW[M'I^F648FO\`474`
+ML(T)`VKD9=BJC(!.2`?DKX/_`/!RY\(?'_Q`MM'U_P`,^*_!^G7LHACU:Y,-
+MS;P9.`TRQG>B^I4/COQDCXX_X.6)M7/[?&D)>M<'3%\)VATX-_J@IGN/,V]L
+M[\Y[\#MBOSR&21CDUX>+S&K"JXPT2_$_M#PV\`^'<UX8H9CF,ISK5X\W-&5E
+M"^R2V;77FOK?1']=VGW\.J6,%S;RQSP7$:R1R1L&212,A@1P00<@BO@?_@XQ
+M_:$3X4?L(MX4@N`FI?$75(=/6,'#_9H&%Q,X]LI"A]I:]Q_X)?67B'X<_P#!
+M.'X7)X]G%EJ>G^'UFN'NCY7V6TW.]NLA;&PQVWE*V<8*G/2OQ+_X+&?MTQ?M
+MV?M=7=]H4TDW@SPK$='T'C`N5#9EN<?]-9.1WV)'D`Y%=F.Q*C0OUE_3/RCP
+M=X!GCN-G33YZ&"J.4IKX9.$FH6_Q22DE_*F?.'PA^%6M_''XGZ#X0\.6C7VM
+M^(KV.QLXAT+NP&6/95&69N@4$G@5_4/^R+^S=H_[)/[.GA3X?:*-]IX<LQ"\
+MY`#7<[$O-,V.[R,[>V[':OA[_@@W_P`$K[G]G#PPGQ;\?:<]MXW\06ICTBPG
+M7#Z-92`$NZD92XE'4=43Y3@LZC]*@,<"IRW"NG#GEN_R/1^D'XDT\^S*.3Y=
+M/FP^';NUM.ILVNZBM$^K<FM&@HHHKTC^=0HHHH`****`"BBB@`HHHH`****`
+M"BBB@`HHHH`*^0?CG_P6O^$GPH^+VL?#_P`+:'\4/C;XW\.-LUC1OAEX5G\1
+M3:0_>.>1"L*.,$%/,W*5(8`\5>_X+E?M-Z]^Q_\`\$I/C-X]\+74UAXCT_2(
+M[#3KN$D2V4UY=0V8G0CH\?V@NI[,@KT?_@GQ^QOX7_81_9+\'?#OPO86ELNE
+MV$4FJWD2@RZQJ#(IN;R9^LDDDF3N).%VJ,*J@`')_L:?\%7OA+^VQX_U;P5H
+MDWB;P?\`$?0H?M%_X,\9:-+H>O6\7_/06\O$B#N8V?;D;L9&?I6L2Y^&GAV]
+M\?VOBR;0='E\46-F^G6^KO9QM?06SL'>!9B-ZQLP#%`=I(!QFOEW]HK_`(*`
+M_$36OVK=4^!/[._P_P!"\=>/_"FG6VJ>+M;\3ZI+IGAKPC'<C=;03R0QR3S7
+M,R#>L4:9"$-DX8*`?7M%?(/[/?\`P4&^(.@?M6Z/\"/VB?`.@^!OB#XNT^ZU
+M3PAK/AC59-3\-^+8K4!KF&%YHXIX;F)"',4B<I\V1E0V/^U+_P`%*?B;\._^
+M"BMO^SA\,OA7I/C?Q1KO@2'Q=INI:AK3Z?I^G9O9[>:6_98G9+:,1)CRE>22
+M29$"C)8`'VM17YW:5_P5*_:+TG]HO4OV<-<^"/@RZ_:(FT^+Q!HMWI?B*X_X
+M0FXT-S*DFI7%S)!]KB6&:,0F(0L\CNH7:,D>O?L:_MT_$?QA^U?XK^`7QR\$
+M>&?"?Q/\/^'H/&&GWOA74YM0T+Q!I$MP;8S1-/''-%)'./+9'7GJ,#J`?6=%
+M?#'Q4_X*8_%[6/\`@H?\1OV;?A)\*/#?B7Q/X3T/2]=MO$&O:[+I^BV5O<IF
+M:2],<,DN5=X4CBA5FDW2,2@C.>5\`_\`!4K]HKXB?&OQ7^SU:?!+P7;_`+1G
+M@L1ZAJM[<>(IT\"0Z1*D;PZ@MT(&NW:1I!$MN(=^5=BP",H`/T1HKY:_8(_;
+MG\:_'+XS?$_X/_%SP7HO@KXL_"<6%U?C0M2?4-%UNPODD>WN[221$E"_NV5D
+MD4,IQSR57J?V8?VQ[[X_?M9_M"_#6YT.UTZV^"6KZ1IEO?1W#2/JHOM-2]9W
+M0J!&4+[``3D#/'2@#WRBO$OAC^UE=^/_`-O+XK?!V31K>VL_ASX=T'7(=26X
+M+2WK:DUZ&C:/;A1']D&""<[STQS\ZQ_\%-?CE\=/VO\`XV_!'X-_"'PCJ6O?
+M"'6+6UN/$_BC7Y['P_!:3VL<\1F$,,EP]S(QD58HD*JL19G&0I`/O<G')Z"O
+M-_A'^UM\/_CK\8?B+X"\+:^FJ>*OA1=6MGXHLA:S1'39;F-I(5WN@23<J/S&
+MS`%2#@UY3_P3O_;G\6?M-^*_BC\.OB?X*L?`?Q<^#.HV=GXAL=,OS?Z7>P7L
+M+3V=[:RLJOY4R))\KKN79R<D@=5^SS^T\WQ:_;'_`&A?AV?#UAIB_"6^T&V7
+M4X9-TVL_;]*CO-TJ[1M,>[RQRV0.W2@#W2BOB?Q5_P`%"?C)^T=^T1XZ^'_[
+M,/P[\#^(].^%FHG1/%/C7QSKEQI^AIJJH&ETVUCM899YY8@P$CX"HWRD<JS>
+MZ_LL_&7XJ?$/X1ZW=?%#X4/X$\<>'KJ>S.FV&M6^HV&O^7&KQW-C/E"(I2VT
+M"=8V1@P;@;J`/8Z*_/[XM_MW?MD?L_\`PAU;XQ>,O@#\*;#X9^&H&U76_#-G
+MXUN+OQEIVFQC=--D6PL9)(X@TAC64YVE0<\UZC_P4L^,7Q#\0?\`!.GQ%XJ^
+M#&B>%_$NF>)/!U_J%_<ZQK$VF/9:5-IDLHNK;RX9/,G"L"L9V`_WA0!]85YW
+M^S1^U9X#_:_\$:CXC^'FNIX@T?2=8O-!NKA;::`1WEK)Y<T>)44D`XPP!5@0
+M02*^<?\`@B#XX^-GBW]B3X6I\1_"O@O2?",7@'0V\.:MIGB&XU'4M7C-G'B2
+M[BD@187:/8Q"O)\S,,G&3ZS^P/\`M4I^T]\'/%_B2YT+3?"L/AKQQXC\-O%;
+MS;HI5T[49K8W3L54*TGEF1AV+'D]:`/>:*^#/`/_``4*_:._;ALM2\9?LV_"
+MGX:W'PCLKRXL])\1?$'Q%=Z?<>-/(E:*2>PM[6WE,4!='5))V&_&<+R![?\`
+ML"?MYP_MFZ3XRT76O"VH?#WXI?"[55T/QIX3OITN7TJY:/S(I89D^6>UF3+Q
+M2@+N"MQP"0#Z$HK\[O@?_P`%0/VD/VX=;^*&C_!3X-?#RW;X4^-]7\):EK_C
+M/Q)=6NDWS6<[1Q16R6UO),]PT8623<$CC\V,;F+';]%?\$W?VYKK]N/X1>)K
+MS7O"DO@?QY\.?%%[X*\7Z&;H7<-CJEGL,OD3`#S8'61&1L#AL<X#$`^AZ*_.
+M?X;?\%1_VF/VJOAUJGQ@^"7P-^'WC'X-V&LW6FV.E7GBN:U\9^(8+6Y:WFN(
+M8?(-K`2R,RQ32[\+WW*:_1'2[J6^TRVGGMI;.::)7D@E*L\#$`E&*DJ2#P=I
+M(R."1S0!/1110`4444`,G^X/K11/]P?6B@#YA_X*>_\`!,SP[_P47^%MI9SW
+M8T/QCH&^31-8\LR+#OV[X95'WHGVKG'*E0P_B5OQRG_X)P?M`_L"?'&P\0ZE
+M\$X_B7;Z#,;BV,5A<ZWHURR_<F=;5DD`4X8+*%&0-RD<5_1=2.@?&>U<=?!0
+MJR4]GW/UK@CQBSGAS`SRI1C7PLK_`+N=U;F^+EE%IQOU6JNVTDVV?AK\8OC%
+M^W1_P5%TA?!J_#O6_"WA34"L=W;66B3Z)IUT`?\`EM<W;%F4=2@DVGNI.*^M
+M/^"9O_!!/P]^RUK>G^-OB=<Z?XQ\<6;">RLX59M+T>08PZAU!FE4\AV`53R%
+MW`/7Z+*@7H!2T0P<5/GFW)^8\Z\7\QKY:\FR:A3P.&E\4:2:E*^_--N[NM':
+MS:T;:T!5"J`.@HHHKL/R0****`"BBB@`HHHH`****`"BBB@`HHHH`****`"B
+MBB@#R/\`;S_9+TO]NO\`8[^(7PDU>Z-A:>.-(DL4NPGF?8K@$26\^W(W>7,D
+M;[<C.S&1FOD/]E3_`(+%Z/\`LC?#O2?A-^V%'J7P<^)W@BTCTAM=U/3[A_#O
+MC2*!?+34+*^2,QMYJ*K,C;"'9@!U5?T8J.>TBN5VRQ1R#.<,H(_6@#Y/_9T_
+MX*Q>'_VTOVH;'PA\&/"/B3Q]\.+2RN9_$7Q(%M+I^@:7<*JF"UMVGC4WLKMD
+M,(L!`5;+C=M\3TOXU:7_`,$F/^"FGQ]UGXMVVMZ/\*/V@KC2_$V@^._L,]YI
+M6F7UM9"UN=-OI8U;[.Q*"2$L`A0XW9!Q^CT4*0(%C1$51@!1@"B2%)@0Z*X/
+M&",B@#\X=5^.6G_\%9/^"EOP#U;X0VFJ:S\)?@!=ZGXG\0>/&L)[33=1OKBR
+M:TMM,L9)57[0W[QI)BH*!`HW9X/I6BZ+,?\`@XCU[46M)3;K^SY9VZ7)B.P.
+M?$,[&,/C&<`$C.>`:^U(X4A4*B*@`P`!@"G;1G.!F@#X<32KK_B)2EOOLUQ]
+MB_X9H2#[1Y9\KS/^$I9MF[INV\XSG'-:]WIES_Q$(65[]GG^R?\`#/DT'G^6
+M?+W_`/"1QG9NZ;L<XZXK[,VC.<#-(5!()`)%`'PY^R?I5U!_P7=_:XO)+6=+
+M6X\'^"5AG:,B.4K!>;@K="1QG'3BKW[.^CSQ?\%V?VDKZ2UF2WE^'?A".&=H
+MR$<B34-RJW0D?+D#VK[6"@$D``FC`SG`S0!\1_L[Z7<P_P#!>?\`:1NWMITM
+M)_ASX12.8QD1R,LM]N`;H2,C('3->5^#/VM/!O\`P3/_`."M'[4O_"\-0N/`
+MGAWXTS>'/$7@WQ!=V,\FEZPMMIBV5S;+-&C*MPDJ#]V>2#D=5W?IAM&<X&:9
+M+;QSXWQH^""-R@\CH:`/SN_X)@_'6_\`VFO^"M7[4_CD>&/$'ASPKJ_A;P?!
+MX7EUBPDL;G6=/A.J(+WR9`'1)9#(Z*X5_*:)BJ[A7;?\$Q='N+#_`(*`?MRW
+M,]K/`EY\0=):&1XRJSH-%MAE2?O`'(X[YK[="A>@`_"E``)(`!-`'QW^R5IM
+MQ;?\%DOVQ;F2WFCMKKP[\/A#*T9"2E;;6`P4]"1D9QTR*7]A_3;FU_X*G?MO
+M7$MO/%;W>K>##!*\95)@OAR$,5)X;!X..AK[#V@$D`9-&.IQR:`/S!_8W_:A
+M\)?\$;OBI\;_`(3?'ZYO?`ND>)_B'JWCWP=XSO-/G?1/$=AJ3I*(&ND0JMY`
+MX9)(WVD_+MR,9^DM?_;MU;]JO]@+XR^/?V??#OC"?Q#H.E:K;>#;K6-!ELD\
+M1WD-H7AN["*8;KB%I#M0LBAWC*D8YKZIFMX[A2LD:2*>H900:<%`&```:`/P
+M(^)^L?LL?&7_`()M^,;K3-0^,7QX_:EUCP1=-J5EK.K^(+G6=(U/['(;B>[M
+M/,2SM+>U?S7P4"%(U1?-+*&_5'PCH%_X]_X(EZ7I6CV5U?ZGK7P1BM+*TCC/
+MG7$TN@A(XPO7<S,!CKDU]2"UB5V81QAGZD*`33P,<`8%`'Q5_P`$/OVU/AK\
+M=/V(_A3\.O#7B-+[QS\.?`>D:=XFT5[6>&YT2XM[:*VEBF#H`KB5&&W.2.1Q
+MS6?_`,$K/AC<?$#]A7XX>%+LW>E-XG^)GQ"L!,8RLD27.KWB+*H.,\/N!Z'B
+MON)+>.)F98T5F.20`"3ZT\`#@``4`?F-_P`$WO\`@I3\.?\`@G%^R3X;^`7[
+M1E]<_"'XC?""%_#TD6IZ5=?8/$T$4D@@OM-G2(K=1S1A6POS[RP*]"?2_P#@
+ME%X=\1?&K]KK]I;]IF_\,ZWX.\'?&BZT+2_!^GZU:/9:E?Z=I%G)!_:4L#_-
+M&EP\I:-7`;8N2,$%ONN2UBE*EXXW*G<,J#@^M/"@9P`,T`?#?_!!_2;K2/@]
+M\?5N[6XM7G^/?C29!+&4,B->KM<9ZJ1T/0U=_P""1NFW&C_%G]LZ2>SN(DN/
+MCQJD\(:(KYZ'3-,PR9P&!((R.,@U]KA0N<`#-``'0`9H`_"_]HWXB_LJZ-X>
+M^(OCGX*^)/CU^S1^U)-<WUS!X`T2/4K34]:UP.PB2XT7$MI-%/)LW&+$>UR2
+M0P(K]F_V:]7\6^(/V=?`5_X^M(K#QS?>'=/N/$-M&H1+?4'MHVN4`'`"REQ@
+M=,5V1M8C(',49<#&[:,X]*>````,`4`%%%%`!1110`R?[@^M%$_W!]:*`'T4
+M44`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!111
+M0`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`!1110`4444`%%%%`
+>!1110`4444`%%%%`!1110`R?[@^M%$_W!]:*`/_9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

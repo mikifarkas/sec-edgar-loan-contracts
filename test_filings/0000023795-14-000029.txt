@@ -1,0 +1,334 @@
+<SEC-DOCUMENT>0000023795-14-000029.txt : 20141028
+<SEC-HEADER>0000023795-14-000029.hdr.sgml : 20141028
+<ACCEPTANCE-DATETIME>20141028164004
+ACCESSION NUMBER:		0000023795-14-000029
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20141022
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141028
+DATE AS OF CHANGE:		20141028
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONSOLIDATED TOMOKA LAND CO
+		CENTRAL INDEX KEY:			0000023795
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		IRS NUMBER:				590483700
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11350
+		FILM NUMBER:		141177606
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1530 CORNERSTONE BLVD., STE. 100
+		CITY:			DAYTONA BEACH
+		STATE:			FL
+		ZIP:			32117
+		BUSINESS PHONE:		386-274-2202
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 10809
+		CITY:			DAYTONA BEACH
+		STATE:			FL
+		ZIP:			32120-0809
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>resiglcappointmentofdes.htm
+<DESCRIPTION>8K RESIGNATION OF LINDA CRISP APPOINTMENT OF DANIEL E. SMITH
+<TEXT>
+<html>
+<head>
+    <title>resiglcappointmentofdes.htm</title>
+    <!--Licensed to: RBELL2202-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">
+<br>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">UNITED STATES</font></div>
+
+<div style="TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Washington, D.C. 20549</font></div>
+
+<div style="TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt"><font style="FONT-SIZE: 16pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">FORM 8-K</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">CURRENT REPORT</font></div>
+
+<div style="TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Pursuant to Section 13 or 15(d) of</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">The Securities Exchange Act of 1934</font></div>
+
+<div style="TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Date of Report (Date of earliest event reported): October 22, 2014</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 16pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Consolidated-Tomoka Land Co.</font></div>
+
+<div style="TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(Exact name of registrant as specified in its charter)</font></div>
+
+<div style="LINE-HEIGHT: 2">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; LINE-HEIGHT: 2; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr style="LINE-HEIGHT: 2;">
+<td valign="top" width="26%" style="LINE-HEIGHT: 2">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">Florida</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(State or other jurisdiction of incorporation)</font></div>
+</td>
+<td colspan="2" valign="top" width="50%" style="LINE-HEIGHT: 2">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">001-11350</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(Commission File Number)</font></div>
+</td>
+<td valign="top" width="25%" style="LINE-HEIGHT: 2">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">59-0483700</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(IRS Employer Identification No.)</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="26%" style="LINE-HEIGHT: 2">&#160;</td>
+<td colspan="2" valign="top" width="50%" style="LINE-HEIGHT: 2">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">1530 Cornerstone Boulevard, Suite 100</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">Daytona Beach, Florida</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(Address of principal executive offices)</font></div>
+</td>
+<td valign="top" width="25%" style="LINE-HEIGHT: 2">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">32117</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(Zip Code)</font></div>
+</td>
+</tr><tr>
+<td colspan="4" valign="top" width="78%" style="LINE-HEIGHT: 2">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Registrant&#8217;s telephone number, including area code: <font style="FONT-WEIGHT: bold">(386) 274-2202</font></font></div>
+</td>
+</tr><tr>
+<td colspan="4" valign="top" width="78%" style="LINE-HEIGHT: 2">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">Not Applicable</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(Former name or former address, if changed since last report.)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">[ ] Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">[ ] Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">[ ] Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">[ ] Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160; </font></div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="WIDTH: 100%; PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160; </font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">Item 8.01. Other Matters</font></div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">On October 22, 2014, Consolidated-Tomoka Land Co., a Florida corporation (NYSE MKT: CTO) (the "Company"), issued a press release relating to the resignation of Linda Crisp as Corporate Secretary, effective as of October 22, 2014, and&#160;a retirement date from the Company of December 31, 2014.&#160;&#160;The Company also announced the appointment of Daniel E. Smith as the Company's Senior Vice President, Corporate Counsel and Corporate Secretary.&#160;&#160;A</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;copy of the press release is furnished as an exhibit to this report.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">Item 9.01. Financial Statements and Exhibits</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="FONT-WEIGHT: bold">(d) Exhibits</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><a href="presreleaselcappointmentdes.htm">99.1 Press Release dated October 22, 2014</a></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">SIGNATURES</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf </font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">by the undersigned hereunto duly authorized.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+
+<div style="LINE-HEIGHT: 2">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; LINE-HEIGHT: 2; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr style="LINE-HEIGHT: 2;">
+<td align="left" valign="middle" width="13%" style="LINE-HEIGHT: 2">&#160;</td>
+<td align="left" valign="middle" width="34%" style="LINE-HEIGHT: 2">
+<div style="LINE-HEIGHT: 2"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">CONSOLIDATED-TOMOKA LAND CO.</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="middle" width="13%" style="LINE-HEIGHT: 2">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Date: October 28, 2014</font></div>
+</td>
+<td align="left" valign="middle" width="34%" style="LINE-HEIGHT: 2">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline"><font style="TEXT-DECORATION: underline">/s/ Mark E. Patten </font></font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="13%" style="LINE-HEIGHT: 2">&#160;</td>
+<td align="left" valign="middle" width="34%" style="LINE-HEIGHT: 2">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Mark E. Patten, Senior Vice President and Chief Financial Officer</font></div>
+</td>
+</tr><tr>
+<td valign="middle" width="13%" style="LINE-HEIGHT: 2">&#160;</td>
+<td align="left" valign="middle" width="34%" style="LINE-HEIGHT: 2">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></div>
+</td>
+</tr></table>
+</div>
+
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>presreleaselcappointmentdes.htm
+<DESCRIPTION>PRESS RELEASE RESIGNATION OF LINDA CRISP APPOINTMENT OF DANIEL E. SMITH
+<TEXT>
+<html>
+<head>
+    <title>presreleaselcappointmentdes.htm</title>
+    <!--Licensed to: RBELL2202-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">
+<br>
+<br>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 24pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Press&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 24pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Release</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="18%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Contact:</font></div>
+</td>
+<td align="left" valign="top" width="54%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Mark E. Patten, Sr. Vice President &amp; Chief Financial Officer</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="DISPLAY: inline">mpatten@ctlc.com</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="18%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Phone:</font></div>
+</td>
+<td align="left" valign="top" width="54%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(386) 944-5643</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="18%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Facsimile:</font></div>
+</td>
+<td align="left" valign="top" width="54%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(386) 274-1223</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="13%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">FOR</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">IMMEDIATE</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">RELEASE</font></div>
+</td>
+<td valign="top" width="61%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">CONSOLIDATED-TOMOKA LAND CO.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">ANNOUNCES THE RETIREMENT OF LINDA CRISP AND THE APPOINTMENT OF DANIEL E. SMITH</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="FONT-WEIGHT: bold; DISPLAY: inline">October 22, 2014 -</font>.DAYTONA BEACH, FLORIDA - Consolidated-Tomoka Land Co. (NYSE MKT: CTO) (the &#8220;Company&#8221;) today announced that Linda H. Crisp is retiring effective December 31, 2014 and resigned from her position as Corporate Secretary effective today.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">In addition, the Company announced that Daniel E. Smith will be joining the Company as its Senior Vice President &#8211; General Counsel and Corporate Secretary.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">John P. Albright, President and CEO, stated, &#8220;We thank Linda for her 38 year tenure and her dedication to the Company.&#8221; Mr. Albright continued, &#8220;The entire CTO team wishes Linda the very best.&#8221;&#160;&#160;Mr. Albright also stated, &#8220;We welcome the addition of Dan Smith to the corporate team. Dan joins us from Goldman Sachs Realty Management, located in Irving, Texas. His background as a real estate transactional and corporate attorney, along with his previous experience representing a large publicly-traded REIT, Crescent Real Estate Equities, make him an excellent fit for us as we position the Company for further growth.&#8221;</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Mr. Smith received his J.D. from Duke University School of Law, where he served on the Duke Law Journal Editorial Board.&#160;&#160;He received his B.A. from Brigham Young University.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Jeffry B. Fuqua, Chairman of the Board, stated, &#8220;Ms. Crisp has provided valuable leadership and has made significant contributions to the Company during her tenure as Corporate Secretary, she will be sorely missed.&#8221;</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline"><font style="TEXT-DECORATION: underline; DISPLAY: inline">About Consolidated-Tomoka Land Co.</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Consolidated-Tomoka Land Co. is a Florida-based publicly traded real estate company, which owns a portfolio of income properties and loan investments in diversified markets in the United States, and over 10,500 acres of land in the Daytona Beach, Florida area. Visit our website at <font style="TEXT-DECORATION: underline; DISPLAY: inline">www.ctlc.com</font>.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">"SAFE HARBOR"</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Certain statements contained in this press release (other than statements of historical fact) are forward-looking statements.&#160;&#160;The words &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;anticipate,&#8221; &#8220;will,&#8221; &#8220;could,&#8221; &#8220;may,&#8221; &#8220;should,&#8221; &#8220;plan,&#8221; &#8220;potential,&#8221; &#8220;predict,&#8221; &#8220;forecast,&#8221; &#8220;project,&#8221; and similar expressions and variations thereof identify certain of such forward-looking statements, which speak only as of the dates on which they were made.&#160;&#160;Forward-looking statements are made based upon management&#8217;s expectations and beliefs concerning future developments and their potential effect upon the Company.&#160;&#160;There can be no assurance that future developments will be in accordance with management&#8217;s expectations or that the effect of future developments on the Company will be those anticipated by management.</font></div>
+
+<div><br>
+&#160;</div>
+
+<div><a href="resiglcappointmentofdes.htm">Back to 8K<br>
+</a></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,277 @@
+<SEC-DOCUMENT>0000003570-14-000291.txt : 20141126
+<SEC-HEADER>0000003570-14-000291.hdr.sgml : 20141126
+<ACCEPTANCE-DATETIME>20141125181517
+ACCESSION NUMBER:		0000003570-14-000291
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20141125
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20141126
+DATE AS OF CHANGE:		20141125
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CHENIERE ENERGY INC
+		CENTRAL INDEX KEY:			0000003570
+		STANDARD INDUSTRIAL CLASSIFICATION:	NATURAL GAS DISTRIBUTION [4924]
+		IRS NUMBER:				954352386
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-16383
+		FILM NUMBER:		141250834
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 MILAM ST.
+		STREET 2:		SUITE 800
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+		BUSINESS PHONE:		7133755000
+
+	MAIL ADDRESS:	
+		STREET 1:		700 MILAM ST.
+		STREET 2:		SUITE 800
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BEXY COMMUNICATIONS INC
+		DATE OF NAME CHANGE:	19940314
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALL AMERICAN GROUP OF DELAWARE INC
+		DATE OF NAME CHANGE:	19931004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ALL AMERICAN BURGER INC
+		DATE OF NAME CHANGE:	19931004
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>cei2014form8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2014 Workiva -->
+		<title>CEI 2014 Form 8K </title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="sD91B5B58A2ED574C46B1E3740D648851"></a><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="19%"></td><td width="19%"></td><td width="24%"></td><td width="19%"></td><td width="19%"></td></tr><tr><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:2px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:2px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:2px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:2px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:2px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">UNITED STATES</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></div><div style="line-height:120%;padding-bottom:20px;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">WASHINGTON, D.C.  20549</font></div><div style="line-height:120%;padding-bottom:20px;text-align:center;font-size:14pt;"><font style="font-family:inherit;font-size:14pt;font-weight:bold;">FORM 8-K</font></div><div style="line-height:120%;padding-bottom:20px;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">CURRENT REPORT</font></div><div style="line-height:120%;padding-bottom:20px;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934</font></div><div style="line-height:120%;padding-bottom:8px;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Date of Report (Date of earliest event reported):</font><font style="font-family:inherit;font-size:10pt;font-weight:bold;">&#32;November 25, 2014</font></div><div style="line-height:120%;padding-bottom:8px;text-align:center;"><img src="image002a01a01a01.jpg" style="height:84px;width:217px;"></div><div style="line-height:120%;padding-bottom:8px;text-align:center;font-size:16pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="1"></td></tr><tr><td width="100%"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:16pt;"><font style="font-family:inherit;font-size:16pt;font-weight:bold;">CHENIERE ENERGY, INC.</font></div></td></tr></table></div></div><div style="line-height:120%;padding-top:8px;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(Exact name of registrant as specified in its charter)</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="7"></td></tr><tr><td width="39%"></td><td width="5%"></td><td width="14%"></td><td width="2%"></td><td width="1%"></td><td width="5%"></td><td width="34%"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Delaware</font></div></td><td colspan="5" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">001-16383</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">95-4352386</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(State or other jurisdiction of incorporation or organization)</font></div></td><td colspan="5" style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(Commission File Number)</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(I.R.S. Employer Identification No.)</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:13px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="5" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:13px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:13px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td colspan="3" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="font-size:12pt;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">700 Milam Street</font></div><div style="font-size:12pt;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Suite 800</font></div><div style="font-size:12pt;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Houston, Texas</font></div></td><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">77002</font></div></td></tr><tr><td colspan="3" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(Address of principal executive offices)</font></div></td><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(Zip Code)</font></div></td></tr><tr><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:13px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:13px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="3" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:13px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td colspan="7" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="font-size:12pt;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Registrant&#8217;s telephone number, including area code:  </font><font style="font-family:inherit;font-size:10pt;font-weight:bold;">(713) 375-5000</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;padding-bottom:16px;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):</font></div><table cellpadding="0" cellspacing="0" style="padding-bottom:12px;font-family:Times New Roman; font-size:10pt;"><tr><td style="width:24px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:0px;"><font style="font-family:Wingdings;font-size:10pt;">o</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="padding-bottom:12px;font-family:Times New Roman; font-size:10pt;"><tr><td style="width:24px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:0px;"><font style="font-family:Wingdings;font-size:10pt;">o</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="padding-bottom:12px;font-family:Times New Roman; font-size:10pt;"><tr><td style="width:24px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:0px;"><font style="font-family:Wingdings;font-size:10pt;">o</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17&#160;CFR 240.14d-2(b))</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="padding-bottom:12px;font-family:Times New Roman; font-size:10pt;"><tr><td style="width:24px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:0px;"><font style="font-family:Wingdings;font-size:10pt;">o</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17&#160;CFR 240.13e-4(c))</font></div></td></tr></table><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="19%"></td><td width="19%"></td><td width="24%"></td><td width="19%"></td><td width="19%"></td></tr><tr><td style="vertical-align:bottom;border-bottom:2px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:2px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:2px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:2px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;border-bottom:2px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="overflow:hidden;height:5px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr></table></div></div><br><hr style="page-break-after:always"><a name="sF43E09FE57CC6F731991E3740D9642E9"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><table cellpadding="0" cellspacing="0" style="padding-bottom:16px;font-family:Times New Roman; font-size:10pt;"><tr><td style="width:96px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:0px;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Item 8.01</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Other Events.</font></div></td></tr></table><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Management of Cheniere Energy, Inc. (the &#8220;Company&#8221;) anticipates that the Company will hold its 2015 annual meeting of stockholders (the &#8220;Annual Meeting&#8221;) on June 11, 2015.  Because the date of the Annual Meeting will be more than 30 days earlier than the anniversary of the 2014 annual meeting of stockholders, the Company has set a new deadline for its receipt of stockholder proposals submitted pursuant to Rule 14a-8 promulgated under the Securities Exchange Act of 1934, as amended (the &#8220;Exchange Act&#8221;).  In order for a stockholder to submit any such proposal for inclusion in the Company&#8217;s proxy statement for the Annual Meeting, the proposal must be received by the Secretary of the Company at the address set forth below by the close of business on December 29, 2014.  Any such proposal(s) must comply with the requirements of the rules of the Securities and Exchange Commission relating to stockholders&#8217; proposals.</font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">If a stockholder wishes to submit a proposal outside of the process of Rule 14a-8 under the Exchange Act, in order for such proposal to be considered &#8220;timely&#8221; for the purposes of Rule 14a-4(c) under the Exchange Act, the proposal must be received by the Company not later than March 13, 2015.  If a stockholder wishes to submit a new business proposal or nominate a director at the Annual Meeting, in order for such proposal or nomination to be timely under the Company&#8217;s Amended and Restated Bylaws, the proposal or nomination must be received by the Company no earlier than February 11, 2015 and not later than March 13, 2015.</font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">The address of the Company&#8217;s Corporate Secretary is:</font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Corporate Secretary</font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Cheniere Energy, Inc.</font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">700 Milam Street</font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Suite 800</font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Houston, Texas 77002</font></div><div style="line-height:120%;padding-bottom:16px;text-align:justify;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;padding-left:96px;text-indent:-96px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:justify;padding-left:96px;text-indent:-96px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">1</font></div></div><hr style="page-break-after:always"><a name="sF43E09FE57CC6F731991E3740D9642E9"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">SIGNATURES</font></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;padding-bottom:16px;text-align:justify;text-indent:48px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div><div style="line-height:120%;text-align:right;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;text-align:-moz-right;" align="right"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:624px;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="40px"></td><td width="268px"></td><td width="61px"></td><td width="50px"></td><td width="204px"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td colspan="2" style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">CHENIERE ENERGY, INC.</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="padding-top:16px;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Date:  November 25, 2014</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">By:</font></div></td><td style="vertical-align:bottom;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">/s/ Michael J. Wortley</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Name:</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Michael J. Wortley</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Title:</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Senior Vice President and </font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Chief Financial Officer</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:justify;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;padding-bottom:16px;text-align:justify;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><br><div style="text-align:center;"><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">2</font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>image002a01a01a01.jpg
+<TEXT>
+begin 644 image002a01a01a01.jpg
+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
+E**`"BBB@`HHHH`****`"BBB@`HHHH`****`"BBB@`HHHH`__V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

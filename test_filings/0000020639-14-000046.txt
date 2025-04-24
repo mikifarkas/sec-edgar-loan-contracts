@@ -1,0 +1,374 @@
+<SEC-DOCUMENT>0000020639-14-000046.txt : 20141229
+<SEC-HEADER>0000020639-14-000046.hdr.sgml : 20141225
+<ACCEPTANCE-DATETIME>20141229121814
+ACCESSION NUMBER:		0000020639-14-000046
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20141229
+ITEM INFORMATION:		Other Events
+FILED AS OF DATE:		20141229
+DATE AS OF CHANGE:		20141229
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMBASE CORP
+		CENTRAL INDEX KEY:			0000020639
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATORS OF NONRESIDENTIAL BUILDINGS [6512]
+		IRS NUMBER:				952962743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07265
+		FILM NUMBER:		141311516
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 PUTNAM GREEN
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		2035322000
+
+	MAIL ADDRESS:	
+		STREET 1:		100 PUTNAM GREEN
+		STREET 2:		3RD FLOOR
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HOME GROUP INC
+		DATE OF NAME CHANGE:	19890608
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CITYHOME CORP
+		DATE OF NAME CHANGE:	19780917
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>frm8kirsconcludestaxexam.htm
+<DESCRIPTION>IRS CONCLUDES 2012 TAX EXAM
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: AmBase Corporation
+    Document created using Disclosure Solutions PROFILE 3.0.2.0
+    Copyright 1995 - 2014 Thomson Reuters Accelus.  All rights reserved.-->
+</head>
+<body style="FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" bgcolor="#ffffff" text="#000000">
+<div>
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">UNITED STATES</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">WASHINGTON, DC 20549</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">FORM 8-K</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Current Report</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Pursuant to Section 13 or 15 (d) of</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">the Securities Exchange Act of 1934</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Date of Report (Date of earliest event reported):&#160; December 29, 2014</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">AMBASE CORPORATION</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">(Exact name of registrant as specified in its charter)</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="a1d5278317a84675a9705ac9f9639674" cellspacing="0" cellpadding="0">
+<tr>
+<td style="BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 25.41%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Delaware</div>
+</td>
+<td style="BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 43.93%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">1-07265</div>
+</td>
+<td style="BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 30.67%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">95-2962743</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 25.41%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">(State or other jurisdiction of incorporation)</div>
+</td>
+<td style="BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 43.93%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">(Commission File Number)</div>
+</td>
+<td style="BORDER-BOTTOM: #000000 2px solid; BORDER-LEFT: #000000 2px solid; WIDTH: 30.67%; VERTICAL-ALIGN: top; BORDER-TOP: #000000 2px solid; BORDER-RIGHT: #000000 2px solid">
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">(IRS Employment Identification Number)</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">One South Ocean Boulevard, Suite 301, Boca Raton, FL&#160; 33432</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">(Address of principal executive offices, including zip code)</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">(203) 532-2000</div>
+
+<div style="TEXT-ALIGN: center; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">(Registrant's telephone number, including area code)</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (<font style="FONT-STYLE: italic; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">see</font> General Instruction A.2. below):</div>
+
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="d3430c5dd61d49d989a0f0276414ef12" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 4.9%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">[ ]</div>
+</td>
+<td style="WIDTH: 95.1%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 4.9%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 95.1%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 4.9%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">[ ]</div>
+</td>
+<td style="WIDTH: 95.1%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 4.9%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 95.1%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 4.9%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">[ ]</div>
+</td>
+<td style="WIDTH: 95.1%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 4.9%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 95.1%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 4.9%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">[ ]</div>
+</td>
+<td style="WIDTH: 95.1%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)).</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="MARGIN-TOP: 10pt; MARGIN-BOTTOM: 10pt; CLEAR: both" id="DSPFPageBreakArea">
+<hr style="PAGE-BREAK-AFTER: always; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: #000000; MARGIN: 4px 0px; WIDTH: 100%; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 2px; COLOR: #000000; CLEAR: both; BORDER-LEFT-WIDTH: 0px" id="DSPFPageBreak" noshade="noshade">
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt; FONT-WEIGHT: bold">Item 8.01 OTHER INFORMATION</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">AmBase Corporation ("AmBase" or the "Company") announced today that it received notice from the Internal Revenue Service ("IRS") that the IRS completed their review of the examination of the Company's 2012 federal income tax return with no changes to the tax return as filed.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Based on the IRS notice received, and after consultation with the Company's accounting, tax, and legal advisors, the Company will be recording adjustments to its 2014 financial statements to reflect the completion of the IRS's tax examination. As such, the Company is expecting to record a reversal of two liabilities; the Uncertain Tax Position Reserve which aggregated $37,847,000 at September 30, 2014 and the accrued incentive compensation liability of $1,900,000 at September 30, 2014. On the asset side of the balance sheet, related to this matter, the Company is expecting to record a reversal of the Indemnification Asset &#8211; Federal Tax Gross-Up of $18,429,000 at September 30, 2014.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">The expected reversal of the two liabilities would decrease total liabilities by approximately $39,747,000; the expected reversal of the indemnification asset would decrease total assets by approximately $18,429,000. Together, the net effect of these reversals is expected to have an increase in the Company's net income of approximately $21.3 million and thus a corresponding increase in the Company's total stockholder's equity.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Additionally, in connection with the reversal of the accounting for the Uncertain Tax Position Reserve liability as previously recorded, the Company expects that based on federal income tax returns as filed, an additional $24.0 million of federal net operating loss carryforwards will be available to the Company to reduce future federal taxable income subject their expiration as provided for in the federal tax code. We expect that these net operating losses will be offset by a full valuation allowance.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">A more detailed discussion of the Company's affairs will be included in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2014.</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-STYLE: italic; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Forward-Looking Statements</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">This Current Report on Form 8-K, together with other statements and information publicly disseminated by the Company may contain certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended or make oral statements that constitute forward looking statements. The Company intends such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. Forward-looking statements are inherently subject to risks and uncertainties, many of which cannot be predicted or quantified. The forward-looking statements may relate to such matters as anticipated financial performance, future revenues or earnings, business prospects, projected ventures, anticipated market performance, anticipated litigation results or the timing of pending litigation, and similar matters.&#160; When used in this Current Report on Form 8-K, the words "estimates," "expects," "anticipates," "believes," "plans," "intends" and variations of such words and similar expressions are intended to identify forward-looking statements that involve risks and uncertainties.&#160; The Company cautions readers that a variety of factors could cause the Company's actual results to differ materially from the anticipated results or other expectations expressed in the Company's forward-looking statements.&#160; These risks and uncertainties, many of which are beyond the Company's control, include, but are not limited to those set forth in "Item 1A, Risk Factors" and elsewhere in the Company's Annual Report on Form 10-K and in the Company's other public filings with the Securities and Exchange Commission including, but not limited to: (i) transaction volume in the securities markets; (ii) the volatility of the securities markets; (iii) fluctuations in interest rates; (iv) risks inherent in the real estate business, including, but not limited to, insurance risks, tenant defaults, risks associated with real estate development activities, changes in occupancy rates or real estate values; (v) changes in regulatory requirements which could affect the cost of doing business; (vi) general economic conditions; (vii) changes in the rate of inflation and the related impact on the securities markets; (viii) changes in federal and state tax laws; (ix) certain assumptions regarding the outcome of pending legal and/or tax matters, based in whole or in part upon consultation with outside advisors, and (x) risks arising from unfavorable decisions in the Company's current material tax and legal proceedings, or unfavorable decisions in other Supervisory Goodwill cases.&#160; These are not the only risks that the Company faces.&#160; There may be additional risks that the Company does not presently know of or that the Company currently believes are immaterial which could also impair the Company's business and financial position.</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; TEXT-INDENT: 153pt; FONT-FAMILY: ''Times New Roman'', Times, serif; MARGIN-LEFT: 27pt; FONT-SIZE: 10pt">SIGNATURES</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</div>
+
+<div><br>
+</div>
+
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse; FONT-FAMILY: 'Times New Roman', Times, serif; FONT-SIZE: 10pt" id="e17e4188f9cc48df93632a1f22df921c" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 42.23%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 57.77%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">AMBASE CORPORATION</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 42.23%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 57.77%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 42.23%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 57.77%; VERTICAL-ALIGN: top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 42.23%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="BORDER-BOTTOM: black 2px solid; WIDTH: 57.77%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify"><font style="FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">By </font><font style="FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">/s/ John Ferrara</font><font style="FONT-SIZE: 5pt" id="TRGRRTFtoHTMLTab">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 42.23%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 57.77%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">John Ferrara</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 42.23%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 57.77%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Vice President and Chief Financial Officer and Controller</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 42.23%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 57.77%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">AmBase Corporation</div>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 42.23%; VERTICAL-ALIGN: top">&#160;</td>
+<td style="WIDTH: 57.77%; VERTICAL-ALIGN: top">
+<div style="TEXT-ALIGN: justify; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt">Date:&#160; December 29, 2014</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left; FONT-FAMILY: ''Times New Roman'', Times, serif; FONT-SIZE: 10pt"><br>
+ &#160;</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

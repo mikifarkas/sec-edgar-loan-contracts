@@ -1,0 +1,492 @@
+<SEC-DOCUMENT>0000023795-14-000025.txt : 20141006
+<SEC-HEADER>0000023795-14-000025.hdr.sgml : 20141006
+<ACCEPTANCE-DATETIME>20141006172345
+ACCESSION NUMBER:		0000023795-14-000025
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20140930
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141006
+DATE AS OF CHANGE:		20141006
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CONSOLIDATED TOMOKA LAND CO
+		CENTRAL INDEX KEY:			0000023795
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE [6500]
+		IRS NUMBER:				590483700
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11350
+		FILM NUMBER:		141143704
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1530 CORNERSTONE BLVD., STE. 100
+		CITY:			DAYTONA BEACH
+		STATE:			FL
+		ZIP:			32117
+		BUSINESS PHONE:		386-274-2202
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 10809
+		CITY:			DAYTONA BEACH
+		STATE:			FL
+		ZIP:			32120-0809
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>financingrelease8ksept2014.htm
+<DESCRIPTION>FINANCING PRESS RELEASE 8K SEPTMEMBER 2014
+<TEXT>
+<html>
+<head>
+    <title>financingrelease8ksept2014.htm</title>
+    <!--Licensed to: RBELL2202-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">UNITED STATES</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Washington, D.C. 20549</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">FORM 8-K</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">CURRENT REPORT</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Pursuant to Section&#160;13 or 15(d) of the</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Securities Exchange Act of 1934</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Date of Report (Date of earliest event reported):&#160;September 30, 2014</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">CONSOLIDATED-TOMOKA LAND CO.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(Exact name of registrant as specified in its charter)</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="middle" width="26%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="bottom" width="1%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="25%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="bottom" width="1%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="25%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="26%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">Florida</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="25%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">001-11350</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="25%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">59-0483700</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="26%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(State or other jurisdiction</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">of incorporation)</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="25%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(Commission File Number)</font></div>
+</td>
+<td align="left" valign="bottom" width="1%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="25%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(IRS Employer</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Identification No.)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">1530 Cornerstone Boulevard, Suite 100</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Daytona Beach, Florida 32117</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">(386) 274-2202</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(Address, including zip code, and telephone number, including area code, of registrant&#8217;s principal executive offices)</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Not Applicable</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(Former name or former address, if changed since last report)</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="3%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: wingdings; DISPLAY: inline">&#168;</font></div>
+</td>
+<td align="left" valign="top" width="75%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="3%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: wingdings; DISPLAY: inline">&#168;</font></div>
+</td>
+<td align="left" valign="top" width="75%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 230.14a-12)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="3%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: wingdings; DISPLAY: inline">&#168;</font></div>
+</td>
+<td align="left" valign="top" width="75%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 230.14d-2(b))</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="3%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: wingdings; DISPLAY: inline">&#168;</font></div>
+</td>
+<td align="left" valign="top" width="75%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Pre-commencement communications pursuant to Rule 13e-4(c) under the Securities Act (17 CFR 230.13e-4(c))</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="WIDTH: 100%; PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left">&#160;</div>
+
+<br>
+<br>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Item 1.01. Entry into a Material Definitive Agreement</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">On September 30, 2014, certain subsidaries of Consolidated-Tomoka Land Co. (the "Company") entered into a non-recourse $30 million fixed rate mortgage debt financing, by and among those certain subsidiaries of the Company, as borrowers, and Wells Fargo Bank N.A., as lender&#160;(the "Mortgage Loan.") The proceeds from the financing were used to reduce the outstanding balance under the Company&#8217;s unsecured credit facility. The financing&#160;consists of a twenty-year non-recourse secured loan on six of the Company&#8217;s income properties. The loan carries a fixed interest rate of 4.33% and requires payments of interest only through the first ten years. After the tenth year of the term, the loan becomes fully pre-payable and requires that the cash flows of the underlying six income properties be swept to pay down the principal balance monthly, and the interest rate is adjusted upward. The loan will mature in October 2034.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><br>
+The foregoing does not constitute a complete summary of the terms and conditions of, and the descriptions contained herein are qualified in their entirety by reference to, the Mortgage Loan, which will be filed as an exhibit to the Company's Quarterly Report on Form 10-Q for the quarter ended September 30, 2014. </div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><br>
+<font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">Item 9.01. Financial Statements and Exhibits</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">The following exhibits are furnished herewith pursuant to Item 9.01 of this Report and shall not be deemed to be &#8220;filed&#8221; for any purpose, </font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">including for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that </font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">section.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="FONT-WEIGHT: bold">(c) Exhibits</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; LINE-HEIGHT: 2; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline"><font style="DISPLAY: inline"><a href="financingpressrelsept2014.htm">99.1 Press Release dated September 30, 2014</a></font></font></div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+<br>
+<br>
+&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<br>
+<div id="PGBRK" style="WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="WIDTH: 100%; PAGE-BREAK-AFTER: always">
+<div style="WIDTH: 100%; TEXT-ALIGN: center">&#160;</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">SIGNATURE</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 27pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 180pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 36pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">CONSOLIDATED-TOMOKA LAND CO.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Date: October 6, 2014&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; By: <font style="TEXT-DECORATION: underline; DISPLAY: inline">/s/ Mark E. Patten</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 234pt">
+<div><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</td>
+<td>
+<div align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Mark E. Patten</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 234pt">
+<div><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</td>
+<td>
+<div align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Senior Vice President and Chief Financial Officer</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 234pt">
+<div><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</td>
+<td>&#160;</td>
+</tr></table>
+</div>
+
+<br>
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>financingpressrelsept2014.htm
+<DESCRIPTION>FINANCING PRESS RELEASE SEPTEMBER 2014
+<TEXT>
+<html>
+<head>
+    <title>financingpressrelsept2014.htm</title>
+    <!--Licensed to: RBELL2202-->
+    <!--Document Created using EDGARizer 2020 5.5.0.0-->
+    <!--Copyright 1995 - 2014 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">
+<br>
+<br>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Press&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Release</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="18%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Contact:</font></div>
+</td>
+<td align="left" valign="top" width="54%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Mark E. Patten, Sr. Vice President &amp; Chief Financial Officer</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="DISPLAY: inline">mpatten@ctlc.com</font></font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="18%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Phone:</font></div>
+</td>
+<td align="left" valign="top" width="54%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(386) 944-5643</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="18%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Facsimile:</font></div>
+</td>
+<td align="left" valign="top" width="54%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(386) 274-1223</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="13%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">FOR</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">IMMEDIATE</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">RELEASE</font></div>
+</td>
+<td valign="top" width="61%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">CONSOLIDATED TOMOKA CLOSES $30 MILLION DEBT FINANCING AND ACQUIRES $10 MILLION MEZZANINE LOAN ON HOTEL IN DALLAS, TEXAS</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="FONT-WEIGHT: bold; DISPLAY: inline">September 30, 2014</font> - DAYTONA BEACH, FLORIDA - Consolidated-Tomoka Land Co. (NYSE MKT: CTO) today announced the closing of a non-recourse $30 million fixed rate mortgage debt financing. The proceeds from the financing were used to reduce the outstanding balance under the Company&#8217;s unsecured credit facility. The financing with Wells Fargo Bank N.A. consists of a twenty-year non-recourse secured loan on six of the Company&#8217;s income properties. The loan carries a fixed interest rate of 4.33% and requires payments of interest only through the first ten years. After the tenth year of the term, the loan becomes fully pre-payable and requires that the cash flows of the underlying six income properties be swept to pay down the principal balance monthly, and the interest rate is adjusted upward.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">The loan will mature in October 2034. As a result of the financing the Company&#8217;s weighted average interest rate is 3.42%, the weighted average maturity of our long-term debt is 11.2 years, and approximately 75% of our debt is now fixed rate.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">The Company also announced today the acquisition of a performing mezzanine loan secured by an upper upscale hotel in Dallas, Texas.&#160;&#160; The Company purchased the loan at par for $10.0 million. The loan has an interest rate of 1-month LIBOR plus 725 basis points and matures in September 2016, with three one-year extensions, subject to the terms of the loan.&#160;&#160;The mezzanine loan is junior to a $64 million first mortgage. The Company&#8217;s investment represents a basis in the underlying hotel property of less than half of the estimated replacement cost.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font><br>
+&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Mark E. Patten, Senior Vice President and Chief Financial Officer of the Company stated, &#8220;By securing this non-recourse fixed rate debt financing, we were able to lock in favorable fixed rate debt against our income property leases, continuing our efforts to ladder the maturity schedule of our long-term debt and fix a majority of our interest rate exposure.&#8221;&#160;&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">John P. Albright, President and Chief Executive Officer of the Company stated, &#8220;This loan purchase continues our strategy of diversifying our investment platform with loan investments that produce strong risk adjusted yields.&#8221;&#160; Mr. Albright continued, &#8220;Our basis in this short-term floating rate loan is below replacement cost and produces an attractive investment yield.&#8221; Mr. Albright also stated, &#8220;This marks our sixth investment in 2014, and in aggregate, we have completed approximately $50.2 million in acquisitions of income-producing assets.&#8221;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline"><font style="TEXT-DECORATION: underline; DISPLAY: inline">About Consolidated-Tomoka Land Co.</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Consolidated-Tomoka Land Co. is a Florida-based publicly traded real estate company, which owns a portfolio of income properties and loan investments in diversified markets in the United States, and over 10,500 acres of land in the Daytona Beach, Florida area. Visit our website at <font style="TEXT-DECORATION: underline; DISPLAY: inline">www.ctlc.com</font>.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;</font><br>
+&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">"SAFE HARBOR"</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Certain statements contained in this press release (other than statements of historical fact) are forward-looking statements.&#160;&#160;The words &#8220;believe,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;intend,&#8221; &#8220;anticipate,&#8221; &#8220;will,&#8221; &#8220;could,&#8221; &#8220;may,&#8221; &#8220;should,&#8221; &#8220;plan,&#8221; &#8220;potential,&#8221; &#8220;predict,&#8221; &#8220;forecast,&#8221; &#8220;project,&#8221; and similar expressions and variations thereof identify certain of such forward-looking statements, which speak only as of the dates on which they were made.&#160;&#160;Forward-looking statements are made based upon management&#8217;s expectations and beliefs concerning future developments and their potential effect upon the Company.&#160;&#160;There can be no assurance that future developments will be in accordance with management&#8217;s expectations or that the effect of future developments on the Company will be those anticipated by management.</font></div>
+
+<div><br>
+&#160;</div>
+
+<div><a href="financingrelease8ksept2014.htm">Back to 8K<br>
+</a></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,849 @@
+<SEC-DOCUMENT>0000016160-14-000032.txt : 20141003
+<SEC-HEADER>0000016160-14-000032.hdr.sgml : 20141003
+<ACCEPTANCE-DATETIME>20141003165821
+ACCESSION NUMBER:		0000016160-14-000032
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20141003
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141003
+DATE AS OF CHANGE:		20141003
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CAL-MAINE FOODS INC
+		CENTRAL INDEX KEY:			0000016160
+		STANDARD INDUSTRIAL CLASSIFICATION:	AGRICULTURE PRODUCTION - LIVESTOCK & ANIMAL SPECIALTIES [0200]
+		IRS NUMBER:				640500378
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-04892
+		FILM NUMBER:		141140408
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3320 WOODROW WILSON DRIVE
+		CITY:			JACKSON
+		STATE:			MS
+		ZIP:			39209
+		BUSINESS PHONE:		6019486813
+
+	MAIL ADDRESS:	
+		STREET 1:		3320 WOODROW WILSON DR
+		CITY:			JACKSON
+		STATE:			MS
+		ZIP:			39209
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CAL MAINE FOODS INC
+		DATE OF NAME CHANGE:	19961018
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CHICKEN CHEF SYSTEMS INC
+		DATE OF NAME CHANGE:	19710315
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>calm-20141003x8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<!--HTML document created with Rivet Software Powered by Crossfire 5.10.188.0-->
+<!--Created on: 10/3/2014 3:51:38 PM-->
+<html>
+	<head>
+		<title>
+			8-K Stock Split
+		</title>
+	</head>
+	<body><div style="margin-left:72pt;margin-right:94pt;">
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<a name="_GoBack"></a><font style="display: inline;font-size:11pt;">UNITED STATES</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">SECURITIES AND EXCHANGE COMMISSION</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">WASHINGTON, DC 20549</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">CURRENT REPORT</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">FORM 8-K</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Pursuant to Section 13 or 15(d) of the Securities Exchange Act</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Date of Report (Date of Earliest Event Reported): </font><font style="display: inline;font-size:11pt;">October 3</font><font style="display: inline;font-size:11pt;">, 2014</font><font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Cal-Maine Foods, Inc.</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(Exact name of registrant as specified in its charter)</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width: 100.00%;CellSpacing:0;background-color: #FFFFFF;margin-left:0pt;">
+			<tr style="CellSpacing:0;">
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Delaware</font></p>
+				</td>
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">000-04892</font></p>
+				</td>
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">64-0500378</font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(State or other jurisdiction</font></p>
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">of incorporation)</font></p>
+				</td>
+				<td valign="top" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(Commission File Number)</font></p>
+				</td>
+				<td valign="middle" style="width:33.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">(IRS Employer</font></p>
+					<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Identification No.)</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">3320 Woodrow Wilson Avenue</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Jackson, MS 39207</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(Address of principal executive offices (zip code))</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">601-948-6813</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(Registrant&#x2019;s telephone number, including area code)</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2 below):</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;">&#x2610;</font><font style="display: inline;font-size:11pt;"> Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font><br /><font style="display: inline;font-size:11pt;"></font><font style="display: inline;">&#x2610;</font><font style="display: inline;">&nbsp;</font><font style="display: inline;font-size:11pt;">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font><br /><font style="display: inline;font-size:11pt;"></font><font style="display: inline;">&#x2610;</font><font style="display: inline;font-size:11pt;">&nbsp;</font><font style="display: inline;font-size:11pt;">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font><br /><font style="display: inline;font-size:11pt;"></font><font style="display: inline;">&#x2610;</font><font style="display: inline;font-size:11pt;"> Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font>
+		</p>
+		<p><font size="1"> </font></p><hr size="3" style="color:#999999" width="100%" align="center"></hr><p style="page-break-after:always">&nbsp;</p>
+		<p style="margin:0pt;font-family:Times New Roman;;font-size: 12pt"><font style="display: inline;font-size:11pt;"></font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Item </font><font style="display: inline;font-weight:bold;font-size:11pt;">8.01&nbsp;&nbsp;&nbsp;Other Events</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">On October 3</font><font style="display: inline;font-size:11pt;">, 2014, the Company announce</font><font style="display: inline;font-size:11pt;">d &nbsp;</font><font style="display: inline;font-size:11pt;">that its Board of Directors had approved a two-for-one stock split for </font><font style="display: inline;font-size:11pt;">shares</font><font style="display: inline;font-size:11pt;"> of the Company&#x2019;s common stock and Class A common stock, to be effected as a dividend</font><font style="display: inline;font-size:11pt;">.&nbsp;&nbsp;A copy of the Company&#x2019;s press release is attached hereto as Exhibit 99.1 to this Current Report.</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">Item 9.01.</font><font style="display: inline;font-size:11pt;">&nbsp;&nbsp; </font><font style="display: inline;font-weight:bold;font-size:11pt;">Financial Statements and Exhibits</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">(</font><font style="display: inline;font-size:11pt;">d</font><font style="display: inline;font-size:11pt;">)</font><font style="display: inline;font-size:11pt;">&nbsp;&nbsp;</font><font style="display: inline;font-size:11pt;">Exhibits</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">99.1</font><font style="display: inline;font-size:11pt;">&nbsp;&nbsp;&nbsp;</font><font style="display: inline;font-size:11pt;">&nbsp;Press Release issued by the Company on </font><font style="display: inline;font-size:11pt;">October 3</font><font style="display: inline;font-size:11pt;">, 2014</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-weight:bold;font-size:11pt;">SIGNATURES</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">Pursuant to the requirements for the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-size:11pt;">&nbsp;</font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" align="center" style="border-collapse:collapse;width: 100.00%;CellSpacing:0;background-color: #FFFFFF;margin-left:0pt;">
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:50.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:01.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:49.00%;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td colspan="2" valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-weight:bold;font-size:11pt;">CAL-MAINE FOODS, INC. </font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font><br /><font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font><br /><font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font><br /><font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Date: </font><font style="display: inline;font-size:11pt;">October 3, </font><font style="display: inline;font-size:11pt;">2014</font></p>
+				</td>
+				<td valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">By:&nbsp;&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">/s/&nbsp;</font><font style="display: inline;font-size:11pt;">Timothy A. Dawson</font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td colspan="2" valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;"><hr style="border-bottom-style:solid;width:60%;height:.75pt; ;color:#000000" align="left"></hr>
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Timothy A. Dawson</font></p>
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">Director, Vice President, and Chief Financial Officer</font><font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+			</tr>
+			<tr style="CellSpacing:0;">
+				<td colspan="2" valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:auto;background-color: #FFFFFF;padding:0pt;">
+					<p style="margin:0pt;font-family:Times New Roman;font-size: 11pt">
+						<font style="display: inline;font-size:11pt;">&nbsp;</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;text-indent:36pt;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-size:10pt;">&nbsp;</font>
+		</p>
+		<p><font size="1"> </font></p><hr size="3" style="color:#999999" width="100%" align="center"></hr>
+	</div></body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>calm-20141003ex991254753.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<!--HTML document created with Rivet Software Powered by Crossfire 5.10.188.0-->
+<!--Created on: 10/3/2014 3:51:42 PM-->
+<html>
+	<head>
+		<title>
+			Ex991 Stock Split
+		</title>
+	</head>
+	<body><div style="margin-left:36pt;margin-right:36pt;"><div style="width:100%">
+
+		<p style="margin:0pt;text-align:right;font-family:Times New Roman;font-size: 12pt">
+
+			<font style="display: inline;font-weight:bold;">Exhibit 99.1</font>
+
+		</p>
+
+</div>
+		<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<a name="_GoBack"></a><font style="display: inline;font-family:Arial;font-size:11pt;">.</font><font style="display: inline;font-family:Arial;font-size:11pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:11pt;"><img src="calm-20141003ex991254753g1.jpg" style="width: 1.375in; height: 0.8958333in" alt="CalMaineLogo-aug2013"></font><font style="display: inline;font-family:Arial;font-size:11pt;;font-size: 11pt;font-family:Times New Roman;text-indent:0pt;margin-left:0pt;padding:0pt 36pt 0pt 0pt;"></font><font style="display: inline;font-family:Arial;font-size:11pt;"></font><font style="display: inline;font-family:Arial;font-size:11pt;;font-size: 11pt;font-family:Times New Roman;text-indent:0pt;margin-left:0pt;padding:0pt 36pt 0pt 0pt;"></font><font style="display: inline;font-family:Arial;font-size:11pt;"></font><a name="OLE_LINK1"></a><a name="OLE_LINK2"></a><font style="display: inline;font-family:Arial;font-size:11pt;"> &nbsp;&nbsp;&nbsp; </font>
+		</p>
+		<div style="width:100%"><table cellpadding="0" cellspacing="0" style="border-collapse:collapse;margin-left:212.4pt;">
+			<tr>
+				<td valign="top" style="width:21.05pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Contact:</font></p>
+				</td>
+				<td valign="top" style="width:245.35pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Dolph Baker, Chairman, President and CEO</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:21.05pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:245.35pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">Timothy A. Dawson, Vice President and CFO</font></p>
+				</td>
+			</tr>
+			<tr>
+				<td valign="top" style="width:21.05pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;line-height:normal;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">&nbsp;</font></p>
+				</td>
+				<td valign="top" style="width:245.35pt;background-color: #auto;padding:0pt 6.5pt">
+					<p style="margin:0pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+						<font style="display: inline;font-family:Arial;font-size:10pt;">(601) 948-6813</font></p>
+				</td>
+			</tr>
+		</table></div>
+		<p style="margin:0pt;line-height:normal;font-family:Times New Roman;font-size: 12pt">
+			<font style="display: inline;font-family:Arial;font-weight:bold;font-style:italic;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt -22.5pt 0pt 0pt;text-align:center;font-family:Arial;font-weight:bold;font-size: 12pt">
+			<font style="display: inline;font-size:12pt;">CAL-MAINE FOODS </font><font style="display: inline;font-size:12pt;">ANNOUNCES</font><font style="display: inline;font-size:12pt;"> TWO-FOR-ONE STOCK SPLIT</font>
+		</p>
+		<p style="margin:5pt 0pt 0pt;line-height:110%;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Arial;font-size:11pt;">JACKSON, Miss. (</font><font style="display: inline;font-family:Arial;font-size:11pt;">October 3,</font><font style="display: inline;font-family:Arial;font-size:11pt;"> 2014</font><font style="display: inline;font-family:Arial;font-size:11pt;">) &nbsp;</font><font style="display: inline;font-family:Arial;font-size:11pt;font-family:Symbol;">&#xF0BE;</font><font style="display: inline;font-family:Arial;font-size:11pt;"> Cal-Maine Foods, Inc. (N</font><font style="display: inline;font-family:Arial;font-size:11pt;">ASDAQ</font><font style="display: inline;font-family:Arial;font-size:11pt;">:CALM) today announced</font><font style="display: inline;font-family:Arial;font-size:11pt;"> that its Board of Directors ha</font><font style="display: inline;font-family:Arial;font-size:11pt;">s</font><font style="display: inline;font-family:Arial;font-size:11pt;"> approved a two-for-one stock split</font><font style="display: inline;font-family:Arial;font-size:11pt;"> for shares of </font><font style="display: inline;font-family:Arial;font-size:11pt;">the Company&#x2019;s </font><font style="display: inline;font-family:Arial;font-size:11pt;">common stock and Class A common stock</font><font style="display: inline;font-family:Arial;font-size:11pt;">, to be effected via a stock dividend</font><font style="display: inline;font-family:Arial;font-size:11pt;">.&nbsp; </font><font style="display: inline;font-family:Arial;font-size:11pt;">Shareholders</font><font style="display: inline;font-family:Arial;font-size:11pt;"> will receive one share of </font><font style="display: inline;font-family:Arial;font-size:11pt;">s</font><font style="display: inline;font-family:Arial;font-size:11pt;">tock for each share they hold.</font><font style="display: inline;font-family:Arial;font-size:11pt;"> &nbsp; &nbsp;</font><font style="display: inline;font-family:Arial;font-size:11pt;">The new shares will be distributed on October </font><font style="display: inline;font-family:Arial;font-size:11pt;">31</font><font style="display: inline;font-family:Arial;font-size:11pt;">, 2014, to shareholders of record at the close of</font><font style="display: inline;font-family:Arial;font-size:11pt;"> business on October </font><font style="display: inline;font-family:Arial;font-size:11pt;">17</font><font style="display: inline;font-family:Arial;font-size:11pt;">, 2014.</font>
+		</p>
+		<p style="margin:5pt 0.25pt 0pt 0pt;line-height:110%;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Arial;font-size:11pt;">On July 25, 2014, the Board of Directors </font><font style="display: inline;font-family:Arial;font-size:11pt;">recommended to the shareholders of the Company that its Amended Certificate of Incorporation be amended to provide </font><font style="display: inline;font-family:Arial;font-size:11pt;">for sufficient authorized shares to facilitate</font><font style="display: inline;font-family:Arial;font-size:11pt;"> a two-for-one split.&nbsp;&nbsp;At the Company&#x2019;s annual meeting </font><font style="display: inline;font-family:Arial;font-size:11pt;">of shareholders </font><font style="display: inline;font-family:Arial;font-size:11pt;">held today</font><font style="display: inline;font-family:Arial;font-size:11pt;"> in Jackson, Mississippi,</font><font style="display: inline;font-family:Arial;font-size:11pt;">&nbsp;</font><font style="display: inline;font-family:Arial;font-size:11pt;">s</font><font style="display: inline;font-family:Arial;font-size:11pt;">hareholders approved the amendment to</font><font style="display: inline;font-family:Arial;font-size:11pt;"> increase the number of authorized shares of $0.01 par value common stock to 120,000,000 from 60,000,000 and increase the number of authorized shares of $0.01 par value Class A common stock to 4,800,000 from 2,400,000. </font><font style="display: inline;font-family:Arial;font-size:11pt;"> &nbsp;T</font><font style="display: inline;font-family:Arial;font-size:11pt;">he Company will continue to pay dividends on all common shares </font><font style="display: inline;font-family:Arial;font-size:11pt;">and Class A common shares </font><font style="display: inline;font-family:Arial;font-size:11pt;">p</font><font style="display: inline;font-family:Arial;font-size:11pt;">ursuant to Cal-Maine Foods&#x2019; variable dividend policy</font><font style="display: inline;font-family:Arial;font-size:11pt;">.</font>
+		</p>
+		<p style="margin:5pt 0pt 0pt;line-height:110%;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="text-indent:0pt;margin-left:0pt; padding-right:34pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:left"><font style="display: inline;font-family:Arial;font-size:11pt;"></font><font style="display: inline;font-family:Arial;font-size:11pt;">Dolph Bake</font><font style="display: inline;font-family:Arial;font-size:11pt;">r</font><font style="display: inline;font-family:Arial;font-size:11pt;">, chairman</font><font style="display: inline;font-family:Arial;font-size:11pt;">, president </font><font style="display: inline;font-family:Arial;font-size:11pt;">and chief executive officer of Cal-Maine Foods, Inc., stated, "We </font><font style="display: inline;font-family:Arial;font-size:11pt;">believe the Board&#x2019;s action to </font><font style="display: inline;font-family:Arial;font-size:11pt;">implement</font><font style="display: inline;font-family:Arial;font-size:11pt;"> a stock split reflects its confidence in </font><font style="display: inline;font-family:Arial;font-size:11pt;">Cal-Maine Foods&#x2019;</font><font style="display: inline;font-family:Arial;font-size:11pt;"> prospects for further growth.&nbsp; </font><font style="display: inline;font-family:Arial;font-size:11pt;">We</font><font style="display: inline;font-family:Arial;font-size:11pt;"> expect </font><font style="display: inline;font-family:Arial;font-size:11pt;">the stock split will expand the distribution and enhance the market liquidity of the Company&#x2019;s </font><font style="display: inline;font-family:Arial;font-size:11pt;">shares</font><font style="display: inline;font-family:Arial;font-size:11pt;"> and </font><font style="display: inline;font-family:Arial;font-size:11pt;">serve to</font><font style="display: inline;font-family:Arial;font-size:11pt;"> benefit both our current and future shareholders.</font><font style="display: inline;font-family:Arial;font-size:11pt;">&#x201D;</font><font style="display: inline;font-family:Arial;font-size:11pt;">&nbsp;</font></font>
+		</p>
+		<p style="margin:5pt 0pt 0pt;line-height:110%;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="text-indent:0pt;margin-left:0pt; padding-right:34pt;"></font><font style="text-indent:0pt;margin-left:0pt; padding-right:4pt;text-align:left"><font style="display: inline;font-family:Arial;font-size:11pt;"></font><font style="display: inline;font-family:Arial;font-size:11pt;">Cal-Maine Foods, Inc. is primarily engaged in the production, grading, packing and sale&nbsp;of fresh shell&nbsp;eggs, including conventional, cage-free, organic and nutritionally-enhanced eggs.&nbsp;&nbsp;The&nbsp;Company, which is headquartered in&nbsp;Jackson, Mississippi, is the largest producer and distributor of fresh shell eggs in the United&nbsp;States and sells&nbsp;the&nbsp;majority of its shell eggs in approximately 29&nbsp;states across the southwestern, southeastern, mid-western and mid-Atlantic regions of the United States. </font></font>
+		</p>
+		<p style="margin:0pt;line-height:110%;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 11pt">
+			<font style="display: inline;font-family:Arial;font-style:italic;font-size:11pt;">&nbsp;</font>
+		</p>
+		<p style="margin:0pt;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">Statements contained in this press release that are not historical facts are forward-looking statements&nbsp;as that term is defined in the Private Securities Litigation Reform Act of 1995.&nbsp;&nbsp;The forward-looking statements are based on management&#x2019;s current intent, belief, expectations, estimates and projections regarding our company and our industry.&nbsp;&nbsp;These statements are not guarantees of future performance and involve risks, uncertainties, assumptions and other factors&nbsp;that are difficult to predict and may be beyond our control.&nbsp;&nbsp;The factors that could cause actual results to differ materially from those projected in the forward</font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">&#8209;looking statements include, among others, (i) the risk factors set forth in the Company&#x2019;s SEC&nbsp;filings (including its </font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">Ann</font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">ual Reports&nbsp;on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8</font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">&#8209;K), (ii)&nbsp;the&nbsp;risks and hazards inherent in the shell egg business (including disease, pests, weather conditions&nbsp;and potential for recall), (iii)&nbsp;changes in the demand for and market prices of shell eggs and feed costs, (iv) risks, changes or obligations that could result from our future acquisition of new&nbsp;flocks or businesses, and (v) adverse results&nbsp;in pending litigation matters. SEC filings may be&nbsp;obtained from&nbsp;the SEC or the Company&#x2019;s website, </font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">www.calmainefoods.com</font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">.&nbsp;&nbsp;Readers are cautioned&nbsp;not to place undue reliance on forward-looking statements&nbsp;because, while we believe&nbsp;the&nbsp;assumptions on which&nbsp;the forward-looking statements are based are reasonable, there&nbsp;can be no assurance that these forward-looking statements will prove to be accurate.&nbsp;&nbsp;Further,&nbsp;the forward</font><font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">&#8209;looking statements&nbsp;included herein are only made as of the respective dates thereof, or if no&nbsp;date is stated, as of the&nbsp;date hereof.&nbsp;&nbsp;Except as otherwise required by law, we disclaim any intent&nbsp;or obligation to update&nbsp;publicly these forward-looking statements, whether as a&nbsp;result of new information, future events or otherwise.</font>
+		</p>
+		<p style="margin:0pt;line-height:normal;text-indent:36pt;text-align:justify;text-justify:inter-ideograph;font-family:Times New Roman;font-size: 10pt">
+			<font style="display: inline;font-family:Arial;font-style:italic;font-size:10pt;">&nbsp;</font>
+		</p>
+		<p><font size="1"> </font></p><div style="width:100%">
+
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 10pt">
+
+			<font style="display: inline;font-family:Arial;font-size:10pt;">-END-</font>
+
+		</p>
+
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+		<p style="margin:0pt;text-align:center;font-family:Times New Roman;font-size: 12pt">
+
+			&nbsp;
+
+		</p>
+
+</div><hr size="3" style="color:#999999" width="100%" align="center"></hr>
+	</div></body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>calm-20141003ex991254753g1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 calm-20141003ex991254753g1.jpg
+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
+..HHHH`****`"BBB@#_]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

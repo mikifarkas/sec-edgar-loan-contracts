@@ -1,0 +1,398 @@
+<SEC-DOCUMENT>0000014693-14-000024.txt : 20141016
+<SEC-HEADER>0000014693-14-000024.hdr.sgml : 20141016
+<ACCEPTANCE-DATETIME>20141015161002
+ACCESSION NUMBER:		0000014693-14-000024
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20141015
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20141015
+DATE AS OF CHANGE:		20141015
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BROWN FORMAN CORP
+		CENTRAL INDEX KEY:			0000014693
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		IRS NUMBER:				610143150
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	002-26821
+		FILM NUMBER:		141157727
+
+	BUSINESS ADDRESS:	
+		STREET 1:		850 DIXIE HWY
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40210
+		BUSINESS PHONE:		5025851100
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 1080
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROWN FORMAN INC
+		DATE OF NAME CHANGE:	19870816
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROWN FORMAN DISTILLERS CORP
+		DATE OF NAME CHANGE:	19840807
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROWN FORMAN DISTILLERY CO
+		DATE OF NAME CHANGE:	19670730
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>a8-kx20141015xsharerepurch.htm
+<DESCRIPTION>8-K
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2014 Workiva -->
+		<title>8-K - 2014.10.15 - Share Repurchase Program</title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="s7015C7CB39D8110D535613E7E0C386F2"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:120%;text-align:center;font-size:14pt;"><font style="font-family:inherit;font-size:14pt;font-weight:bold;">UNITED STATES</font></div><div style="line-height:120%;text-align:center;font-size:14pt;"><font style="font-family:inherit;font-size:14pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">Washington, DC 20549</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:18pt;"><font style="font-family:inherit;font-size:18pt;font-weight:bold;">FORM 8-K</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">CURRENT REPORT </font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">Pursuant to Section 13 or 15(d) of </font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">the Securities Exchange Act of 1934</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Date of Report (Date of earliest event reported):</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">October 15, 2014</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:24pt;"><font style="font-family:inherit;font-size:24pt;font-weight:bold;">Brown-Forman Corporation</font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(Exact name of Registrant as Specified in its Charter)</font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">&#32;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160; </font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:94.3359375%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="33.126293995859214%"></td><td width="2.898550724637681%"></td><td width="27.95031055900621%"></td><td width="2.898550724637681%"></td><td width="33.126293995859214%"></td></tr><tr><td style="vertical-align:middle;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Delaware</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:middle;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">002-26821</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:middle;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">61-0143150</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(State or Other Jurisdiction of Incorporation)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(Commission File Number)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(I.R.S. Employer Identification No.)</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:92.578125%;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="48.52320675105486%"></td><td width="2.9535864978902953%"></td><td width="48.52320675105485%"></td></tr><tr><td style="vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">850 Dixie Highway, Louisville, Kentucky</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;border-bottom:1px solid #000000;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">40210</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(Address of Principal Executive Offices)</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-top:1px solid #000000;"><div style="text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(Zip Code)</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Registrant&#8217;s telephone number, including area code: </font><font style="font-family:inherit;font-size:10pt;font-weight:bold;">(502) 585-1100</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;font-weight:bold;">Not Applicable</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">(Former Name or Former Address, if Changed Since Last Report.)</font></div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Wingdings;font-size:10pt;">o</font><font style="font-family:inherit;font-size:10pt;">&#32;Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Wingdings;font-size:10pt;">o</font><font style="font-family:inherit;font-size:10pt;">&#32;Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Wingdings;font-size:10pt;">o</font><font style="font-family:inherit;font-size:10pt;">&#32;Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:Wingdings;font-size:10pt;">o</font><font style="font-family:inherit;font-size:10pt;">&#32;Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:138%;padding-bottom:13px;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">&#160;</font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s7015C7CB39D8110D535613E7E0C386F2"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:138%;padding-bottom:13px;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:left;padding-left:78px;text-indent:-79px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">Item 7.01.  Regulation FD Disclosure.</font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">On October 15, 2014, Brown-Forman Corporation (the &#8220;Company&#8221;) issued a press release announcing that its Board of Directors has approved the repurchase of up to $250 million of the Company&#8217;s outstanding Class&#160;A and Class B common stock commencing October 15, 2014, through October 14, 2015, subject to market and other conditions. Under this repurchase program, the Company can repurchase shares from time to time for cash in open market purchases, block transactions, and privately negotiated transactions, in accordance with applicable laws and regulations. The repurchase program does not obligate the Company to repurchase a minimum number of shares of Class&#160;A or Class B common stock, and the repurchase program may be modified, suspended, or terminated by the Company at any time without prior notice.</font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">A copy of the press release is furnished herewith as Exhibit 99.1. The information furnished pursuant to this Item&#160;7.01 (and the related information in Exhibit 99.1) shall not be deemed &#8220;filed&#8221; for purposes of Section&#160;18 of the Securities Exchange Act of 1934 (the &#8220;Exchange Act&#8221;), as amended, and shall not be deemed to be incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.</font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;padding-left:78px;text-indent:-79px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">Item 9.01.  Financial Statements and Exhibits.</font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">(d)&#160;&#160;&#160;&#160;</font><font style="font-family:inherit;font-size:12pt;font-style:italic;">Exhibits</font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;font-size:12pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:91.40625%;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="15.384615384615387%"></td><td width="2.9914529914529915%"></td><td width="81.62393162393163%"></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;text-decoration:underline;">Exhibit No.</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;text-decoration:underline;">Description</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">99.1</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Brown-Forman Corporation Press Release dated October 15, 2014.</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s7015C7CB39D8110D535613E7E0C386F2"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:138%;padding-bottom:13px;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">SIGNATURES</font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.</font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;margin-left:auto;margin-right:auto;width:91.40625%;border-collapse:collapse;text-align:left;"><tr><td colspan="2"></td></tr><tr><td width="50%"></td><td width="50%"></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;text-decoration:underline;">BROWN-FORMAN CORPORATION</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">(Registrant)</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;height:20px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Date: October 15, 2014</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;text-decoration:underline;">/s/ Matthew E. Hamel</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Matthew E. Hamel</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Executive Vice President, General Counsel and Secretary</font></div></td></tr></table></div></div><div style="line-height:120%;text-align:left;text-indent:48px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;padding-left:324px;text-indent:-12px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;text-indent:288px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s7015C7CB39D8110D535613E7E0C386F2"></a><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><br><div style="line-height:138%;padding-bottom:13px;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:center;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">EXHIBIT INDEX</font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">&#160;</font></div><div style="line-height:120%;font-size:12pt;"><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:91.796875%;border-collapse:collapse;text-align:left;"><tr><td colspan="3"></td></tr><tr><td width="15.744680851063833%"></td><td width="2.9787234042553195%"></td><td width="81.27659574468085%"></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;text-decoration:underline;">Exhibit No.</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;text-decoration:underline;">Description</font></div></td></tr><tr><td style="vertical-align:top;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">99.1</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Brown-Forman Corporation Press Release dated October 15, 2014.</font></div></td></tr></table></div></div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>a20141015-sharerepurchasep.htm
+<DESCRIPTION>EXHIBIT
+<TEXT>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<!-- Document created using Wdesk 1 -->
+		<!-- Copyright 2014 Workiva -->
+		<title>2014.10.15 - Share Repurchase Press Release</title>
+	</head>
+	<body style="font-family:Times New Roman;font-size:10pt;">
+<a name="s1130E3CD49A268D1C92413EE056BB0BB"></a><div><div style="line-height:120%;text-align:right;font-size:16pt;"><font style="font-family:inherit;font-size:16pt;">&#160;</font></div></div><br><div style="line-height:120%;text-align:left;font-size:15pt;"><font style="font-family:inherit;font-size:10pt;">&#32;</font><div style="padding-left:0px;text-indent:0px;line-height:normal;padding-top:10px;"><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman;font-size:10pt;width:100%;border-collapse:collapse;text-align:left;"><tr><td colspan="5"></td></tr><tr><td width="55.769230769230774%"></td><td width="28.205128205128204%"></td><td width="0.8547008547008548%"></td><td width="0.8547008547008548%"></td><td width="14.316239316239315%"></td></tr><tr><td rowspan="3" style="vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;"><img src="image0a01.jpg" style="height:41px;width:278px;"></div></td><td colspan="4" style="vertical-align:middle;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:center;padding-left:108px;font-size:15pt;"><font style="font-family:inherit;font-size:15pt;color:#a6682c;">NEWS RELEASE</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:right;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;color:#a6682c;">PHIL LYNCH</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-left:1px solid #cc6600;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;color:#a6682c;">JAY KOVAL</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:right;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;">VICE PRESIDENT</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-right:1px solid #cc6600;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-left:1px solid #cc6600;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;">VICE PRESIDENT</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:right;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;">DIRECTOR CORPORATE COMMUNICATIONS </font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-left:1px solid #cc6600;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;">DIRECTOR INVESTOR </font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:right;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;">AND PUBLIC RELATIONS</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-left:1px solid #cc6600;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;">RELATIONS</font></div></td></tr><tr><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:right;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;">502-774-7928</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;border-left:1px solid #cc6600;"><div style="overflow:hidden;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">&#160;</font></div></td><td style="vertical-align:bottom;padding-left:2px;padding-top:2px;padding-bottom:2px;padding-right:2px;"><div style="text-align:left;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;">502-774-6903</font></div></td></tr></table></div><font style="font-family:inherit;font-size:10pt;color:#a6682c;">&#32;</font></div><div style="line-height:120%;text-align:left;padding-left:5px;font-size:11pt;"><font style="font-family:inherit;font-size:11pt;"><br></font></div><div style="line-height:120%;text-align:left;padding-left:29px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:120%;text-align:center;padding-left:29px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">BROWN-FORMAN BOARD AUTHORIZES NEW $250 MILLION SHARE REPURCHASE PROGRAM</font></div><div style="line-height:120%;text-align:left;padding-left:29px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;padding-left:29px;text-indent:17px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;font-weight:bold;">Louisville, KY, October 15, 2014</font><font style="font-family:inherit;font-size:12pt;">&#32;- Brown-Forman Corporation (NYSE: BFB, BFA) announced that its Board of Directors has authorized the repurchase of up to $250 million of its outstanding Class A and Class B common shares commencing October 15, 2014 through October 14, 2015, subject to market and other conditions.  The previous authorization of $250 million was completed in September of 2014.  Under this new repurchase program, the company can repurchase shares from time to time for cash in open market purchases, block transactions, and privately negotiated transactions in accordance with applicable federal securities laws. This share repurchase program may be modified, suspended, or terminated by the company at any time without prior notice.</font></div><div style="line-height:174%;text-align:left;padding-left:29px;text-indent:17px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;padding-left:29px;text-indent:17px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">Paul Varga, chief executive officer of Brown-Forman said, &#8220;We have been executing well on our long-term growth strategy and remain committed to delivering top-tier returns for our shareholders.  Our balance sheet strength and substantial free cash flow allow the company to invest in organic growth while also returning capital to shareholders through ongoing share repurchase and dividend programs.&#8221;</font></div><div style="line-height:174%;text-align:left;padding-left:29px;text-indent:17px;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><div style="line-height:174%;text-align:left;padding-left:29px;text-indent:17px;font-size:12pt;"><font style="font-family:inherit;font-size:12pt;">For more than 140 years, Brown-Forman Corporation has enriched the experience of life by responsibly building fine quality beverage alcohol brands, including Jack Daniel&#8217;s Tennessee Whiskey, Jack Daniel&#8217;s Tennessee Honey, Southern Comfort, Finlandia, Jack Daniel's &amp; Cola, Canadian Mist, Korbel, Gentleman Jack, el Jimador, Herradura, Sonoma-Cutrer, Chambord, New Mix, Tuaca, and Woodford Reserve. Brown-Forman&#8217;s brands are supported by nearly 4,200 employees and sold in approximately 160 countries worldwide. For more information about the company, please visit http://www.brown-forman.com.</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div><br><div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">1</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div><hr style="page-break-after:always"><a name="s1130E3CD49A268D1C92413EE056BB0BB"></a><div><div style="line-height:120%;text-align:right;font-size:16pt;"><font style="font-family:inherit;font-size:16pt;">&#160;</font></div></div><br><div style="line-height:120%;text-align:left;font-size:9pt;"><font style="font-family:inherit;font-size:9pt;font-weight:bold;">Important Information on Forward-Looking Statements:</font></div><div style="line-height:120%;text-align:justify;font-size:9pt;"><font style="font-family:inherit;font-size:9pt;">This release contains statements, estimates, and projections that are &#8220;forward-looking statements&#8221; as defined under U.S. federal securities laws. Words such as &#8220;aim,&#8221; &#8220;anticipate,&#8221; &#8220;aspire,&#8221; &#8220;believe,&#8221; &#8220;continue,&#8221; &#8220;could,&#8221; &#8220;envision,&#8221; &#8220;estimate,&#8221; &#8220;expect,&#8221; &#8220;expectation,&#8221; &#8220;intend,&#8221; &#8220;may,&#8221; &#8220;plan,&#8221; &#8220;potential,&#8221; &#8220;project,&#8221; &#8220;pursue,&#8221; &#8220;see,&#8221; &#8220;seek,&#8221; &#8220;should,&#8221; &#8220;will,&#8221; &#8220;will continue,&#8221; and similar words identify forward-looking statements, which speak only as of the date we make them. Except as required by law, we do not intend to update or revise any forward-looking statements, whether as a result of new information, future events, or otherwise.  By their nature, forward-looking statements involve risks, uncertainties and other factors (many beyond our control) that could cause our actual results to differ materially from our historical experience or from our current expectations or projections. These risks and other factors include, but are not limited to:</font></div><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Unfavorable global or regional economic conditions, and related low consumer confidence, high unemployment, weak credit or capital markets, sovereign debt defaults, sequestrations, austerity measures, higher interest rates, political instability, higher inflation, deflation, lower returns on pension assets, or lower discount rates for pension obligations</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Risks associated with being a U.S.-based company with global operations, including commercial, political and financial risks; local labor policies and conditions; protectionist trade policies or economic or trade sanctions; compliance with local trade practices and other regulations, including anti-corruption laws; terrorism; and health pandemics</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Fluctuations in foreign currency exchange rates</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Changes in laws, regulations or policies - especially those that affect the production, importation, marketing, sale or consumption of our beverage alcohol products</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Tax rate changes (including excise, sales, VAT, tariffs, duties, corporate, individual income, dividends, capital gains) or changes in related reserves, changes in tax rules (e.g., LIFO, foreign income deferral, U.S. manufacturing and other deductions) or accounting standards, and the unpredictability and suddenness with which they can occur</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Dependence upon the continued growth of the Jack Daniel&#8217;s family of brands</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Changes in consumer preferences, consumption or purchase patterns - particularly away from brown spirits, our premium products, or spirits generally, and our ability to anticipate and react to them; bar, restaurant, travel or other on-premise declines; unfavorable consumer reaction to new products, line extensions, package changes, product reformulations, or other product innovation</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Decline in the social acceptability of beverage alcohol products in significant markets</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Production facility, aging warehouse or supply chain disruption</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Imprecision in supply/demand forecasting</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Higher costs, lower quality or unavailability of energy, input materials, labor or finished goods </font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Route-to-consumer changes that affect the timing of our sales, temporarily disrupt the marketing or sale of our products, or result in higher implementation-related or fixed costs</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Inventory fluctuations in our products by distributors, wholesalers, or retailers</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Competitors&#8217; consolidation or other competitive activities, such as pricing actions (including price reductions, promotions, discounting, couponing or free goods), marketing, category expansion, product introductions, or entry or expansion in our geographic markets or distribution networks</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Risks associated with acquisitions, dispositions, business partnerships or investments - such as acquisition integration, or termination difficulties or costs, or impairment in recorded value </font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Insufficient protection of our intellectual property rights  </font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Product recalls or other product liability claims; product counterfeiting, tampering, or product quality issues</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Significant legal disputes and proceedings; government investigations (particularly of industry or company business, trade or marketing practices)</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Failure or breach of key information technology systems</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Negative publicity related to our company, brands, marketing, personnel, operations, business performance or prospects</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Our status as a family &#8221;controlled company&#8221; under New York Stock Exchange rules</font></div></td></tr></table><table cellpadding="0" cellspacing="0" style="font-family:Times New Roman; font-size:10pt;"><tr><td style="width:48px;"></td><td></td></tr><tr><td style="vertical-align:top"><div style="line-height:120%;font-size:10pt;padding-left:32px;"><font style="font-family:inherit;font-size:10pt;">&#8226;</font></div></td><td style="vertical-align:top;"><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:8pt;">Business disruption, decline or costs related to organizational changes, reductions in workforce or other cost-cutting measures, or our failure to attract or retain key executive or employee talent </font></div></td></tr></table><div style="line-height:120%;text-align:left;font-size:8pt;"><font style="font-family:inherit;font-size:8pt;"><br></font></div><div style="line-height:120%;text-align:left;font-size:9pt;"><font style="font-family:inherit;font-size:9pt;font-weight:bold;">For further information on these &amp; other risks, please refer to the &#8220;Risk Factors&#8221; section of our annual report on Form 10-K and quarterly reports on Form 10-Q filed with the SEC.</font></div><div style="line-height:120%;text-align:left;font-size:6pt;"><font style="font-family:inherit;font-size:6pt;"><br></font></div><br><div><div style="line-height:120%;text-align:center;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;">2</font></div><div style="line-height:120%;text-align:left;font-size:10pt;"><font style="font-family:inherit;font-size:10pt;"><br></font></div></div>	</body>
+</html>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>image0a01.jpg
+<TEXT>
+begin 644 image0a01.jpg
+M_]C_X``02D9)1@`!`@``9`!D``#_[``11'5C:WD``0`$````4```_^X`)D%D
+M;V)E`&3``````0,`%00#!@H-```,I0``&<(``"5P```T5/_;`(0``@("`@("
+M`@("`@,"`@(#!`,"`@,$!00$!`0$!08%!04%!04&!@<'"`<'!@D)"@H)"0P,
+M#`P,#`P,#`P,#`P,#`$#`P,%!`4)!@8)#0L)"PT/#@X.#@\/#`P,#`P/#PP,
+M#`P,#`\,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,#`P,_\(`$0@`2@';`P$1
+M``(1`0,1`?_$`/H``0`"`@,!`0`````````````'"`,&`00%`@D!`0`"`P$`
+M```````````````"`P$$!080```&`@$"!@(!!`,!```````!`@,$!1`&$3$2
+M(%`A$S,5%`<R(C06-C!!(R81``(!`@,#!P@$"@@#"0````$"`Q$$`!(%(3$3
+M$$%187&1(H&AL3)2<B,4P4(S!E#18H*RPE-S)!7PX?&2HD,T5"!CD]*#L]-$
+M)36%-A(```4"!@(#`````````````!!0`1$A`B!A<8$20C$B,$%1$P$``@(!
+M`P(&`P$!`0`````!`!$A,1!!46%Q@2#PD:&QP5#1\>%`,/_:``P#`0`"$0,1
+M```!O\>=7.K7G>[!_'ZOEUSD'>T[2^BX4J=+0```````````````````````
+M```ZD)4&\9ZS0-'<S2QV91Z,)_&%V_7>8FKK<P``````````````````````
+M```5C\]W*I^;[\K]/GRIT="SOH>'13QWJHBY?1]JZK](?>>+[LXX,,1GRR'4
+MPX.[D!XD7<R[V74PS&7+DPX<`SY8S%AV<A\G7P&0S9>3AE/1RPX8S-ED/@^,
+M,V6,X,IAP^\OLP89\N#K8<GY]^(]AHFEMS=U^7]YQ9[T/#I7Y/TW5C+3M39O
+M+[#RLQ]7G=/"EVK=LF<6LV:JLZ]LBSC'<,VPV:ZT:]DMVPBRJ?JRQI<,SE=#
+M7XY]/+LL>3C,%TSMKM5=LKG199C8K&(I5J76'OKV/.(?KG)DXZ+#/EXS-ET*
+MMZ]GH%D-BOKX1I7*?;X0C3/<9QWV>(/IGZ&<3!;&N]$]PEB5K8UAU[+#WU_G
+M+X#V^+&=[W-2-.?O3)U>;#?*Z4N]3G1%R^C;WU'G;%]WC"D.I=M4HVMV*ZR4
+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
+A:8\_HV^T$;$WU/IV/OZ?S.G^'^3_`#_OQ-WR//\`+__9
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
