@@ -4,7 +4,7 @@ The code was developed for the below project, which we ask you to cite in case y
 
 Clatworthy, M., Farkas, M., Lui., R. and M. Scapin "Revisiting Fair Value Accounting and Debt Contracting".
 
-The code builds on the work of [Li, Neamtiu and Tu (2024): "Do Firms Withhold Loan Covenant Details?" The Accounting Review](https://doi.org/10.2308/TAR-2020-0445). In particular, it implements their "first step" and "second step" methods in identifying loan contracts.
+The code builds on the work of [Li, Neamtiu and Tu (2024): "Do Firms Withhold Loan Covenant Details?" The Accounting Review](https://doi.org/10.2308/TAR-2020-0445). In particular, it implements what they refer to as "first step" and "second step" methods in identifying loan contracts.
 
 # Usage
 
