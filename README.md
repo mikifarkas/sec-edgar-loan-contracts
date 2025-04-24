@@ -15,3 +15,7 @@ The [test_filings](https://github.com/mikifarkas/sec-edgar-loan-contracts/tree/m
 [first_step_contracts.py](https://github.com/mikifarkas/sec-edgar-loan-contracts/blob/master/first_step_contracts.py): using the above .CSV file, parses the exhibits with loan terms in more detail and records variables that help determine whether the exhibit is a loan contract. Saves results in a .CSV.
 
 [second_step_contracts.py](https://github.com/mikifarkas/sec-edgar-loan-contracts/blob/master/second_step_contracts.py): using the above .CSV file, parses the exhibits with loan terms in more detail and records variables that help determine whether the exhibit is a loan contract. Saves results in a .CSV.
+
+## Notes
+
+We have used Python 3.13. With Python 3.9 we have encoutered errors when writing results to to csvs.
