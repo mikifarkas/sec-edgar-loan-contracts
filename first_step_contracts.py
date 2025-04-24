@@ -7,11 +7,11 @@ from shared_functions import extract_text_with_timeout_doc, include_document, sp
 
 
 # Set paths and parameters:
-## The path to the folder containing the filings:
-folder_containing_filings = r"C:\Users\mf17029\Dropbox\MTM_covenants\Code\testcodes_miklos\togithub\test_filings"
+## The path to the folder containing the filings (at the minimum, you have to set the folder_containing_filings and results_directory variables):
+folder_containing_filings = r""
 ## The path to the folder where the results will be saved:
-results_directory = r"C:\Users\mf17029\Dropbox\MTM_covenants\Code\testcodes_miklos\togithub\test_results"
-## Filings type used to name the output file:
+results_directory = r""
+## Filings type used to name the output file (e.g., "8-K", "10-K", "10-Q", etc.):
 result_form_type = '8K'
 ## The path to the metadata file (screening_results_ CSV file saved by "screening_of_filings_for_phrases.py"):
 metadata_file_path = os.path.join(results_directory, f"screening_results_{result_form_type}.csv")

@@ -7,7 +7,7 @@ from shared_functions import header_info, read_filing, search_phrases, extract_t
 # Issue with python 3.9 when writing to csv there was a "cannot escape character" error when writing a pd dataframe to csv --> on python 3.13 and the error dissapeared.
 
 
-# Set paths and parameters:
+# Set paths and parameters (at the minimum, you have to set the folder_containing_filings and results_directory variables):
 ## The path to the folder containing the filings (all txt files in the folder will be processed assuming they are filings):
 folder_containing_filings = r""
 ## The path to the folder where the results will be saved:

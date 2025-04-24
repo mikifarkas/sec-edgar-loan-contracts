@@ -7,11 +7,11 @@ from shared_functions import extract_dates_re, header_info, read_filing, search_
 from shared_functions import extract_text_with_timeout_doc, include_document, split_documents, dates_before_filing_date, strip_decimal
 
 
-# Set paths and parameters:
+# Set paths and parameters (at the minimum, you have to set the folder_containing_filings and results_directory variables):
 ## The path to the folder containing the filings:
-folder_containing_filings = r"C:\Users\mf17029\Dropbox\MTM_covenants\Code\testcodes_miklos\togithub\test_filings"
+folder_containing_filings = r""
 ## The path to the folder where the results will be saved:
-results_directory = r"C:\Users\mf17029\Dropbox\MTM_covenants\Code\testcodes_miklos\togithub\test_results"
+results_directory = r""
 ## Filings type used to name the output file:
 result_form_type = '8K'
 ## The path to the metadata file (screening_results_ CSV file saved by "screening_of_filings_for_phrases.py"):
