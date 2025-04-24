@@ -8,9 +8,9 @@ The code builds on the work of [Li, Neamtiu and Tu (2024): "Do Firms Withhold Lo
 
 # Usage
 
-The test_filings folder contains 200 8-K filings for testing purposes.
+The [test_filings](https://github.com/mikifarkas/sec-edgar-loan-contracts/tree/master/test_filings) folder contains 200 8-K filings for testing purposes.
 
 screening_of_filings_for_phrases.py: identifies exhibits and searches for terms indicative of loan contracts. Builds a .CSV file with the results.
 
-first_step_contracys.py: using the above .CSV file, parses the exhibits with loan terms in more detail and records variables that help determine whether the exhibit is a loan contract. Saves results in a .CSV.
-second_step_contracys.py: using the above .CSV file, parses the exhibits with loan terms in more detail and records variables that help determine whether the exhibit is a loan contract. Saves results in a .CSV.
+[first_step_contracys.py](https://github.com/mikifarkas/sec-edgar-loan-contracts/blob/master/first_step_contracts.py): using the above .CSV file, parses the exhibits with loan terms in more detail and records variables that help determine whether the exhibit is a loan contract. Saves results in a .CSV.
+[second_step_contracys.py](https://github.com/mikifarkas/sec-edgar-loan-contracts/blob/master/second_step_contracts.py): using the above .CSV file, parses the exhibits with loan terms in more detail and records variables that help determine whether the exhibit is a loan contract. Saves results in a .CSV.
