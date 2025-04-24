@@ -18,4 +18,4 @@ The [test_filings](https://github.com/mikifarkas/sec-edgar-loan-contracts/tree/m
 
 ## Notes
 
-We have used Python 3.13. With Python 3.9 we have encoutered errors when writing results to to csvs.
+We have used Python 3.13. With Python 3.9 we have encoutered errors when writing results to to csvs. We have tested parsing with [lxml](https://lxml.de/) and [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) found that the former was more efficient in this context.
