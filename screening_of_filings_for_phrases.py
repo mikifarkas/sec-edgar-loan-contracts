@@ -8,20 +8,21 @@ from shared_functions import header_info, read_filing, search_phrases, extract_t
 
 
 # Set paths and parameters (at the minimum, you have to set the folder_containing_filings and results_directory variables):
-## The path to the folder containing the filings (all txt files in the folder and all of its subfolders will be processed assuming they are filings):
-folder_containing_filings = r""
+## List of the paths to the folders containing the filings (all txt files in the listed folders and all of their subfolders will be processed assuming they are filings):
+folders_containing_filings = [r""]
 ## The path to the folder where the results will be saved:
 results_directory = r""
 ## Optional: provide a suffix for the saved result file (e.g. "8K" or "test"):
 result_form_type = 'test'
 
 
-#Build a list of file paths in txt_file_paths containing the filings: all .txt files in the folder_containing_filings and its subfolders:
+#Build a list of file paths in txt_file_paths containing the filings: all .txt files in the folders_containing_filings and their subfolders:
 txt_file_paths = []
-for root, dirs, files in os.walk(folder_containing_filings):
-    for file in files:
-        if file.endswith('.txt'):
-            txt_file_paths.append(os.path.join(root, file))
+for folder in folders_containing_filings:
+    for root, dirs, files in os.walk(folder):
+        for file in files:
+            if file.endswith('.txt'):
+                txt_file_paths.append(os.path.join(root, file))
 
 
 # Use a specific file for testing
