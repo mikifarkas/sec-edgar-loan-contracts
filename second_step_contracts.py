@@ -2,18 +2,15 @@ import os
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import pandas as pd
-#from collections import defaultdict
 from shared_functions import extract_dates_re, header_info, read_filing, search_phrases, search_phrases_with_context
 from shared_functions import extract_text_with_timeout_doc, include_document, split_documents, dates_before_filing_date, strip_decimal
 
 
-# Set paths and parameters (at the minimum, you have to set the folder_containing_filings and results_directory variables):
-## The path to the folder containing the filings:
-folder_containing_filings = r""
-## The path to the folder where the results will be saved:
+# Set path and parameters:
+## The path to the folder where the results of the previously executed screening_of_filings.py was saved and where the results of this script will be saved:
 results_directory = r""
-## Filings type used to name the output file:
-result_form_type = '8K'
+## Optional: provide a suffix for the saved result file (e.g. "8K" or "test"), should be the same as the one used in the screening_of_filings.py script:
+result_form_type = 'test'
 ## The path to the metadata file (screening_results_ CSV file saved by "screening_of_filings_for_phrases.py"):
 metadata_file_path = os.path.join(results_directory, f"screening_results_{result_form_type}.csv")
 
@@ -29,7 +26,7 @@ if delete_previous_batches == 'y':
 
 
 # Parameters
-# Lists of attachment types and texts to exclude
+# Lists of attachment <TYPE> and <TEXT> to exclude (we have verified that these are not loan agreements):
 excluded_types=["GRAPHIC", "EXCEL", "ZIP", "XML"]
 excluded_texts=["<XBRL>","<PDF>"]
 
@@ -66,12 +63,13 @@ phrases_first_50lines= [ 'Credit Agreement', 'Credit Facility', 'Credit Faciliti
 phrases_second_step = phrases + phrases_first_50lines
 
 
-sfas_phrases_ddl=["SFAS 159", "Statement of Financial Accounting Standards 159", "ASC 825", "Accounting Standards Codification 825", "the fair value option", "The fair value option"]
+sfas_phrases_ddl=["SFAS 159", "Statement of Financial Accounting Standards 159", "ASC 825", "Accounting Standards Codification 825-10-25", "the fair value option", "The fair value option"]
 sfas_phrases_new = [
     "FAS 159",    
     "FASB ASC Topic 825",
     "ASC Subtopic 825",    
-    "SFAS No. 159",    
+    "SFAS No. 159",
+    "Accounting Standards Codification 825"
     "Statement of Financial Accounting Standards No. 159",        
     "Accounting Standards Codification Subtopic 825-10",
     "Accounting Standards Codification Subtopic 825 10",    
@@ -84,6 +82,8 @@ def dict_of_documents_with_phrases(metadata_file_path, phrases_second_step):
     metadata_df = pd.read_csv(metadata_file_path, dtype=str)
     # only keep the following columns: "Search results", "filename", "SEQUENCE_tag"
     metadata_df = metadata_df[["Search results","Search results first 50 lines", "filename", "SEQUENCE_tag"]]  
+    # Only keep atachments, that is, where the SEQUENCE_tag is not 1:
+    metadata_df = metadata_df[metadata_df["SEQUENCE_tag"] != "1"]
     # Convert the values in the "Search results" column to strings
     metadata_df["Search results"] = metadata_df["Search results"].astype(str)
     metadata_df["Search results first 50 lines"] = metadata_df["Search results first 50 lines"].astype(str)

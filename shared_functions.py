@@ -1,6 +1,6 @@
 from lxml import html
 from bs4 import BeautifulSoup
-from concurrent.futures import ThreadPoolExecutor, as_completed, TimeoutError
+from concurrent.futures import ThreadPoolExecutor, TimeoutError
 import re
 import os
 

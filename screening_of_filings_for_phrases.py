@@ -8,12 +8,12 @@ from shared_functions import header_info, read_filing, search_phrases, extract_t
 
 
 # Set paths and parameters (at the minimum, you have to set the folder_containing_filings and results_directory variables):
-## The path to the folder containing the filings (all txt files in the folder will be processed assuming they are filings):
+## The path to the folder containing the filings (all txt files in the folder and all of its subfolders will be processed assuming they are filings):
 folder_containing_filings = r""
 ## The path to the folder where the results will be saved:
 results_directory = r""
-## Filings type used to name the output file:
-result_form_type = '8K'
+## Optional: provide a suffix for the saved result file (e.g. "8K" or "test"):
+result_form_type = 'test'
 
 
 #Build a list of file paths in txt_file_paths containing the filings: all .txt files in the folder_containing_filings and its subfolders:
@@ -39,7 +39,7 @@ if delete_previous_batches == 'y':
 
 
 # Parameters
-# Lists of attachment types and texts to exclude
+# Lists of attachment <TYPE> and <TEXT> to exclude (we have verified that these are not loan agreements):
 excluded_types=["GRAPHIC", "EXCEL", "ZIP", "XML"]
 excluded_texts=["<XBRL>","<PDF>"]
 
